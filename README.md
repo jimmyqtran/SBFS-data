@@ -102,6 +102,6 @@ Category Value | Category Subject             | Question                        
 #### Curious to Learn More About The Data?
 Check out the [SBFS survey website](https://www.thumbtack.com/survey) for an interactive view of this data and the [annual SBFS report](https://www.thumbtack.com/survey).
                                                                  
-If you need help pulling this data into R or Python, we've create two tutorials to help you do so. You can access the R tutorial [here](https://github.com/thumbtack/SBFS-data/blob/master/README.md) and the Python tutorial [here](https://github.com/thumbtack/SBFS-data/blob/master/Python%20Tutorial.md).
+If you need help pulling this data into R or Python, we've create two tutorials to help you do so. You can access the R tutorial [here](https://github.com/thumbtack/SBFS-data/blob/master/R%20Tutorial.md) and the Python tutorial [here](https://github.com/thumbtack/SBFS-data/blob/master/Python%20Tutorial.md).
                                                                  
                                                                  
