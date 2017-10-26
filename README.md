@@ -30,7 +30,7 @@ The grades we assign are based on the evaluations of the small business owners t
 The data from our Small Business Friendliness Survey is publicly available via our interactive survey visualization, available at [thumbtack.com/survey](https://www.thumbtack.com/survey), and our [API](https://data.thumbtack.com/v1/friendliness/grades-ranks), which stores the data in JSON format. 
 
 #### More Information
-For more information about the survey, please review our full [methodology paper](https://www.thumbtack.com/blog/2017-methodology/).
+For more information about the survey, please review our full [methodology paper](https://www.thumbtack.com/survey/).
                                                                  
 ###Data Dictionary and Sources            
 The survey asks a core set of economic and business questions every year. Each answer to these questions has a numerical code, as defined below:
@@ -100,8 +100,8 @@ Category Value | Category Subject             | Question                        
 
                                                            
 #### Curious to Learn More About The Data?
-Check out the [SBFS survey website](https://www.thumbtack.com/survey) for an interactive view of this data and the [annual SBFS report](https://www.thumbtack.com/blog/2017-friendliness/).
+Check out the [SBFS survey website](https://www.thumbtack.com/survey) for an interactive view of this data and the [annual SBFS report](https://www.thumbtack.com/survey).
                                                                  
-If you need help pulling this data into R or Python, we've create two tutorials to help you do so. You can access the R tutorial [here]() and the Python tutorial [here]().
+If you need help pulling this data into R or Python, we've create two tutorials to help you do so. You can access the R tutorial [here](https://github.com/thumbtack/SBFS-data/blob/master/README.md) and the Python tutorial [here](https://github.com/thumbtack/ESS-data/blob/master/Python%20Tutorial.md).
                                                                  
                                                                  
