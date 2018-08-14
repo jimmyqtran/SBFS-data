@@ -16,7 +16,8 @@
 ### Overview of Small Business Friendliness Survey (SBFS)     
 #### What is the SBFS?
 
-Conducted since 2012, the [Thumbtack Small Business Friendliness Survey](https://www.thumbtack.com/survey) is the largest continuous study of small business perceptions of government policy in the United States. The 2017 study reached 13,284 small business owners in all fifty states, including electricians, music teachers, wedding planners, wellness professionals, and others operating in a variety of industries. Based on these survey responses, we grade states and metropolitan areas on 11 dimensions, such as ease of hiring, workforce training opportunities, and licensing regulation burdens.
+Conducted since 2012, the [Thumbtack Small Business Friendliness Survey](https://www.thumbtack.com/survey) is the largest continuous study of small business perceptions of government policy in the United States. The 2018 study reached 7,629 small business owners in all fifty states, including electricians, music teachers, wedding planners, wellness professionals, and others operating in a variety of industries. Based on these survey responses, we grade states and metropolitan areas on 9
+dimensions, such as ease of hiring, workforce training opportunities, and licensing regulation burdens.
                       
 #### How is the data collected?
 
