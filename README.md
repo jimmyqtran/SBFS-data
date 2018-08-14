@@ -33,7 +33,7 @@ The data from our Small Business Friendliness Survey is publicly available via o
 #### More Information
 For more information about the survey, please review our full [methodology paper](https://www.thumbtack.com/survey/).
                                                                  
-###Data Dictionary and Sources            
+### Data Dictionary and Sources            
 The survey asks a core set of economic and business questions every year. Each answer to these questions has a numerical code, as defined below:
                                                                  
 
