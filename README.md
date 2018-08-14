@@ -41,7 +41,7 @@ The survey asks a core set of economic and business questions every year. Each a
 https://data.thumbtack.com/v1/friendliness/grades-ranks       
 This data, defined on either the state or city (CBSA) level, is a composite score of economic expecations among the small business owner-operators we heard from in the given period. The data in this section are structured as follows:
 
-#####State Level Data                                                                 
+##### State Level Data                                                                 
 Field         | Definition      
 ------------- | -------------       
 `id`          | (int) numeric value for a given state     
@@ -54,7 +54,7 @@ Field         | Definition
 `type`        | (chr) type of value recorded
 
 
-#####City Level Data                                                                 
+##### City Level Data                                                                 
 Field         | Definition      
 ------------- | -------------       
 `id`          | (chr) city name     
@@ -66,7 +66,7 @@ Field         | Definition
 `type`        | (chr) type of value recorded
 
 
-#####Regional Level Data (Only available for 2012)                                                                
+##### Regional Level Data (Only available for 2012)                                                                
 Field         | Definition      
 ------------- | -------------       
 `id`          | (chr) region name     
