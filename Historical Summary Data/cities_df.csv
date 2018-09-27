@@ -1,0 +1,5348 @@
+id,rank,value,grade,category,year,type
+Albuquerque,13,B+,B+,1,2012,grade
+Albuquerque,30,D+,D+,2,2012,grade
+Albuquerque,38,F,F,3,2012,grade
+Albuquerque,34,D,D,6,2012,grade
+Albuquerque,5,A,A,7,2012,grade
+Albuquerque,38,F,F,8,2012,grade
+Albuquerque,39,F,F,9,2012,grade
+Albuquerque,40,F,F,10,2012,grade
+Albuquerque,17,B,B,11,2012,grade
+Albuquerque,31,D+,D+,12,2012,grade
+Atlanta,5,A,A,1,2012,grade
+Atlanta,6,A,A,2,2012,grade
+Atlanta,14,B+,B+,3,2012,grade
+Atlanta,16,B,B,6,2012,grade
+Atlanta,16,B,B,7,2012,grade
+Atlanta,12,B+,B+,8,2012,grade
+Atlanta,15,B,B,9,2012,grade
+Atlanta,14,B+,B+,10,2012,grade
+Atlanta,25,C,C,11,2012,grade
+Atlanta,19,B-,B-,12,2012,grade
+Austin,4,A+,A+,1,2012,grade
+Austin,4,A+,A+,2,2012,grade
+Austin,19,B-,B-,3,2012,grade
+Austin,5,A,A,6,2012,grade
+Austin,4,A+,A+,7,2012,grade
+Austin,2,A+,A+,8,2012,grade
+Austin,3,A+,A+,9,2012,grade
+Austin,6,A,A,10,2012,grade
+Austin,8,A,A,11,2012,grade
+Austin,4,A+,A+,12,2012,grade
+Baltimore,34,D,D,1,2012,grade
+Baltimore,28,C-,C-,2,2012,grade
+Baltimore,16,B,B,3,2012,grade
+Baltimore,33,D,D,6,2012,grade
+Baltimore,31,D+,D+,7,2012,grade
+Baltimore,25,C,C,8,2012,grade
+Baltimore,27,C-,C-,9,2012,grade
+Baltimore,32,D+,D+,10,2012,grade
+Baltimore,36,D,D,11,2012,grade
+Baltimore,38,F,F,12,2012,grade
+Boston,35,D,D,1,2012,grade
+Boston,34,D,D,2,2012,grade
+Boston,27,C-,C-,3,2012,grade
+Boston,35,D,D,6,2012,grade
+Boston,34,D,D,7,2012,grade
+Boston,33,D,D,8,2012,grade
+Boston,32,D+,D+,9,2012,grade
+Boston,33,D,D,10,2012,grade
+Boston,33,D,D,11,2012,grade
+Boston,36,D,D,12,2012,grade
+Charlotte,11,A-,A-,1,2012,grade
+Charlotte,16,B,B,2,2012,grade
+Charlotte,2,A+,A+,3,2012,grade
+Charlotte,21,C+,C+,6,2012,grade
+Charlotte,14,B+,B+,7,2012,grade
+Charlotte,32,D+,D+,8,2012,grade
+Charlotte,29,C-,C-,9,2012,grade
+Charlotte,29,C-,C-,10,2012,grade
+Charlotte,9,A-,A-,11,2012,grade
+Charlotte,16,B,B,12,2012,grade
+Chicago,33,D,D,1,2012,grade
+Chicago,26,C,C,2,2012,grade
+Chicago,17,B,B,3,2012,grade
+Chicago,31,D+,D+,6,2012,grade
+Chicago,30,D+,D+,7,2012,grade
+Chicago,24,C,C,8,2012,grade
+Chicago,31,D+,D+,9,2012,grade
+Chicago,34,D,D,10,2012,grade
+Chicago,27,C-,C-,11,2012,grade
+Chicago,26,C,C,12,2012,grade
+Cleveland,26,C,C,1,2012,grade
+Cleveland,30,D+,D+,2,2012,grade
+Cleveland,24,C,C,3,2012,grade
+Cleveland,27,C-,C-,6,2012,grade
+Cleveland,33,D,D,7,2012,grade
+Cleveland,23,C+,C+,8,2012,grade
+Cleveland,21,C+,C+,9,2012,grade
+Cleveland,26,C,C,10,2012,grade
+Cleveland,29,C-,C-,11,2012,grade
+Cleveland,27,C-,C-,12,2012,grade
+Colorado Springs,6,A,A,1,2012,grade
+Colorado Springs,3,A+,A+,2,2012,grade
+Colorado Springs,37,F,F,3,2012,grade
+Colorado Springs,4,A+,A+,6,2012,grade
+Colorado Springs,3,A+,A+,7,2012,grade
+Colorado Springs,6,A,A,8,2012,grade
+Colorado Springs,7,A,A,9,2012,grade
+Colorado Springs,10,A-,A-,10,2012,grade
+Colorado Springs,1,A+,A+,11,2012,grade
+Colorado Springs,11,A-,A-,12,2012,grade
+Columbus,23,C+,C+,1,2012,grade
+Columbus,25,C,C,2,2012,grade
+Columbus,18,B-,B-,3,2012,grade
+Columbus,22,C+,C+,6,2012,grade
+Columbus,18,B-,B-,7,2012,grade
+Columbus,11,A-,A-,8,2012,grade
+Columbus,35,D,D,9,2012,grade
+Columbus,23,C+,C+,10,2012,grade
+Columbus,16,B,B,11,2012,grade
+Columbus,28,C-,C-,12,2012,grade
+Dallas,2,A+,A+,1,2012,grade
+Dallas,2,A+,A+,2,2012,grade
+Dallas,12,B+,B+,3,2012,grade
+Dallas,3,A+,A+,6,2012,grade
+Dallas,6,A,A,7,2012,grade
+Dallas,4,A+,A+,8,2012,grade
+Dallas,4,A+,A+,9,2012,grade
+Dallas,4,A+,A+,10,2012,grade
+Dallas,5,A,A,11,2012,grade
+Dallas,5,A,A,12,2012,grade
+Fort Worth,2,A+,A+,1,2012,grade
+Fort Worth,2,A+,A+,2,2012,grade
+Fort Worth,12,B+,B+,3,2012,grade
+Fort Worth,3,A+,A+,6,2012,grade
+Fort Worth,6,A,A,7,2012,grade
+Fort Worth,4,A+,A+,8,2012,grade
+Fort Worth,4,A+,A+,9,2012,grade
+Fort Worth,4,A+,A+,10,2012,grade
+Fort Worth,5,A,A,11,2012,grade
+Fort Worth,5,A,A,12,2012,grade
+Denver,14,B+,B+,1,2012,grade
+Denver,17,B,B,2,2012,grade
+Denver,7,A,A,3,2012,grade
+Denver,11,A-,A-,6,2012,grade
+Denver,19,B-,B-,7,2012,grade
+Denver,10,A-,A-,8,2012,grade
+Denver,12,B+,B+,9,2012,grade
+Denver,5,A,A,10,2012,grade
+Denver,19,B-,B-,11,2012,grade
+Denver,23,C+,C+,12,2012,grade
+Detroit,36,D,D,1,2012,grade
+Detroit,33,D,D,2,2012,grade
+Detroit,32,D+,D+,3,2012,grade
+Detroit,29,C-,C-,6,2012,grade
+Detroit,36,D,D,7,2012,grade
+Detroit,19,B-,B-,8,2012,grade
+Detroit,22,C+,C+,9,2012,grade
+Detroit,31,D+,D+,10,2012,grade
+Detroit,24,C,C,11,2012,grade
+Detroit,34,D,D,12,2012,grade
+Houston,9,A-,A-,1,2012,grade
+Houston,19,B-,B-,2,2012,grade
+Houston,15,B,B,3,2012,grade
+Houston,8,A,A,6,2012,grade
+Houston,9,A-,A-,7,2012,grade
+Houston,8,A,A,8,2012,grade
+Houston,8,A,A,9,2012,grade
+Houston,12,B+,B+,10,2012,grade
+Houston,20,B-,B-,11,2012,grade
+Houston,3,A+,A+,12,2012,grade
+Indianapolis,12,B+,B+,1,2012,grade
+Indianapolis,8,A,A,2,2012,grade
+Indianapolis,13,B+,B+,3,2012,grade
+Indianapolis,6,A,A,6,2012,grade
+Indianapolis,10,A-,A-,7,2012,grade
+Indianapolis,5,A,A,8,2012,grade
+Indianapolis,9,A-,A-,9,2012,grade
+Indianapolis,3,A+,A+,10,2012,grade
+Indianapolis,4,A+,A+,11,2012,grade
+Indianapolis,7,A,A,12,2012,grade
+Jacksonville,27,C-,C-,1,2012,grade
+Jacksonville,27,C-,C-,2,2012,grade
+Jacksonville,9,A-,A-,3,2012,grade
+Jacksonville,10,A-,A-,6,2012,grade
+Jacksonville,22,C+,C+,7,2012,grade
+Jacksonville,9,A-,A-,8,2012,grade
+Jacksonville,5,A,A,9,2012,grade
+Jacksonville,9,A-,A-,10,2012,grade
+Jacksonville,13,B+,B+,11,2012,grade
+Jacksonville,8,A,A,12,2012,grade
+Las Vegas,10,A-,A-,1,2012,grade
+Las Vegas,14,B+,B+,2,2012,grade
+Las Vegas,33,D,D,3,2012,grade
+Las Vegas,7,A,A,6,2012,grade
+Las Vegas,13,B+,B+,7,2012,grade
+Las Vegas,7,A,A,8,2012,grade
+Las Vegas,1,A+,A+,9,2012,grade
+Las Vegas,13,B+,B+,10,2012,grade
+Las Vegas,6,A,A,11,2012,grade
+Las Vegas,6,A,A,12,2012,grade
+Los Angeles,38,F,F,1,2012,grade
+Los Angeles,36,D,D,2,2012,grade
+Los Angeles,28,C-,C-,3,2012,grade
+Los Angeles,37,F,F,6,2012,grade
+Los Angeles,37,F,F,7,2012,grade
+Los Angeles,36,D,D,8,2012,grade
+Los Angeles,33,D,D,9,2012,grade
+Los Angeles,37,F,F,10,2012,grade
+Los Angeles,37,F,F,11,2012,grade
+Los Angeles,29,C-,C-,12,2012,grade
+Miami,25,C,C,1,2012,grade
+Miami,29,C-,C-,2,2012,grade
+Miami,23,C+,C+,3,2012,grade
+Miami,13,B+,B+,6,2012,grade
+Miami,17,B,B,7,2012,grade
+Miami,14,B+,B+,8,2012,grade
+Miami,13,B+,B+,9,2012,grade
+Miami,11,A-,A-,10,2012,grade
+Miami,14,B+,B+,11,2012,grade
+Miami,17,B,B,12,2012,grade
+Milwaukee,22,C+,C+,1,2012,grade
+Milwaukee,18,B-,B-,2,2012,grade
+Milwaukee,5,A,A,3,2012,grade
+Milwaukee,23,C+,C+,6,2012,grade
+Milwaukee,28,C-,C-,7,2012,grade
+Milwaukee,17,B,B,8,2012,grade
+Milwaukee,14,B+,B+,9,2012,grade
+Milwaukee,18,B-,B-,10,2012,grade
+Milwaukee,35,D,D,11,2012,grade
+Milwaukee,32,D+,D+,12,2012,grade
+Minneapolis,15,B,B,1,2012,grade
+Minneapolis,13,B+,B+,2,2012,grade
+Minneapolis,8,A,A,3,2012,grade
+Minneapolis,20,B-,B-,6,2012,grade
+Minneapolis,20,B-,B-,7,2012,grade
+Minneapolis,21,C+,C+,8,2012,grade
+Minneapolis,25,C,C,9,2012,grade
+Minneapolis,21,C+,C+,10,2012,grade
+Minneapolis,15,B,B,11,2012,grade
+Minneapolis,14,B+,B+,12,2012,grade
+Nashville,16,B,B,1,2012,grade
+Nashville,5,A,A,2,2012,grade
+Nashville,6,A,A,3,2012,grade
+Nashville,9,A-,A-,6,2012,grade
+Nashville,11,A-,A-,7,2012,grade
+Nashville,14,B+,B+,8,2012,grade
+Nashville,11,A-,A-,9,2012,grade
+Nashville,2,A+,A+,10,2012,grade
+Nashville,7,A,A,11,2012,grade
+Nashville,12,B+,B+,12,2012,grade
+New York,30,D+,D+,1,2012,grade
+New York,37,F,F,2,2012,grade
+New York,20,B-,B-,3,2012,grade
+New York,30,D+,D+,6,2012,grade
+New York,32,D+,D+,7,2012,grade
+New York,34,D,D,8,2012,grade
+New York,30,D+,D+,9,2012,grade
+New York,28,C-,C-,10,2012,grade
+New York,26,C,C,11,2012,grade
+New York,24,C,C,12,2012,grade
+Oklahoma City,1,A+,A+,1,2012,grade
+Oklahoma City,1,A+,A+,2,2012,grade
+Oklahoma City,1,A+,A+,3,2012,grade
+Oklahoma City,1,A+,A+,6,2012,grade
+Oklahoma City,1,A+,A+,7,2012,grade
+Oklahoma City,1,A+,A+,8,2012,grade
+Oklahoma City,6,A,A,9,2012,grade
+Oklahoma City,1,A+,A+,10,2012,grade
+Oklahoma City,2,A+,A+,11,2012,grade
+Oklahoma City,1,A+,A+,12,2012,grade
+Omaha,7,A,A,1,2012,grade
+Omaha,20,B-,B-,2,2012,grade
+Omaha,2,A+,A+,3,2012,grade
+Omaha,26,C,C,6,2012,grade
+Omaha,34,D,D,7,2012,grade
+Omaha,20,B-,B-,8,2012,grade
+Omaha,26,C,C,9,2012,grade
+Omaha,20,B-,B-,10,2012,grade
+Omaha,34,D,D,11,2012,grade
+Omaha,20,B-,B-,12,2012,grade
+Orlando,28,C-,C-,1,2012,grade
+Orlando,23,C+,C+,2,2012,grade
+Orlando,22,C+,C+,3,2012,grade
+Orlando,28,C-,C-,6,2012,grade
+Orlando,29,C-,C-,7,2012,grade
+Orlando,28,C-,C-,8,2012,grade
+Orlando,19,B-,B-,9,2012,grade
+Orlando,30,D+,D+,10,2012,grade
+Orlando,21,C+,C+,11,2012,grade
+Orlando,30,D+,D+,12,2012,grade
+Philadelphia,24,C,C,1,2012,grade
+Philadelphia,24,C,C,2,2012,grade
+Philadelphia,31,D+,D+,3,2012,grade
+Philadelphia,24,C,C,6,2012,grade
+Philadelphia,23,C+,C+,7,2012,grade
+Philadelphia,31,D+,D+,8,2012,grade
+Philadelphia,23,C+,C+,9,2012,grade
+Philadelphia,24,C,C,10,2012,grade
+Philadelphia,30,D+,D+,11,2012,grade
+Philadelphia,18,B-,B-,12,2012,grade
+Phoenix,21,C+,C+,1,2012,grade
+Phoenix,15,B,B,2,2012,grade
+Phoenix,29,C-,C-,3,2012,grade
+Phoenix,18,B-,B-,6,2012,grade
+Phoenix,21,C+,C+,7,2012,grade
+Phoenix,13,B+,B+,8,2012,grade
+Phoenix,16,B,B,9,2012,grade
+Phoenix,22,C+,C+,10,2012,grade
+Phoenix,18,B-,B-,11,2012,grade
+Phoenix,25,C,C,12,2012,grade
+Portland,18,B-,B-,1,2012,grade
+Portland,7,A,A,2,2012,grade
+Portland,40,F,F,3,2012,grade
+Portland,19,B-,B-,6,2012,grade
+Portland,24,C,C,7,2012,grade
+Portland,26,C,C,8,2012,grade
+Portland,24,C,C,9,2012,grade
+Portland,16,B,B,10,2012,grade
+Portland,11,A-,A-,11,2012,grade
+Portland,15,B,B,12,2012,grade
+Raleigh,17,B,B,1,2012,grade
+Raleigh,10,A-,A-,2,2012,grade
+Raleigh,26,C,C,3,2012,grade
+Raleigh,17,B,B,6,2012,grade
+Raleigh,25,C,C,7,2012,grade
+Raleigh,29,C-,C-,8,2012,grade
+Raleigh,20,B-,B-,9,2012,grade
+Raleigh,7,A,A,10,2012,grade
+Raleigh,22,C+,C+,11,2012,grade
+Raleigh,9,A-,A-,12,2012,grade
+Durham,17,B,B,1,2012,grade
+Durham,10,A-,A-,2,2012,grade
+Durham,26,C,C,3,2012,grade
+Durham,17,B,B,6,2012,grade
+Durham,25,C,C,7,2012,grade
+Durham,29,C-,C-,8,2012,grade
+Durham,20,B-,B-,9,2012,grade
+Durham,7,A,A,10,2012,grade
+Durham,22,C+,C+,11,2012,grade
+Durham,9,A-,A-,12,2012,grade
+Sacramento,40,F,F,1,2012,grade
+Sacramento,39,F,F,2,2012,grade
+Sacramento,30,D+,D+,3,2012,grade
+Sacramento,39,F,F,6,2012,grade
+Sacramento,39,F,F,7,2012,grade
+Sacramento,39,F,F,8,2012,grade
+Sacramento,40,F,F,9,2012,grade
+Sacramento,39,F,F,10,2012,grade
+Sacramento,39,F,F,11,2012,grade
+Sacramento,37,F,F,12,2012,grade
+Salt Lake City,7,A,A,1,2012,grade
+Salt Lake City,11,A-,A-,2,2012,grade
+Salt Lake City,11,A-,A-,3,2012,grade
+Salt Lake City,15,B,B,6,2012,grade
+Salt Lake City,7,A,A,7,2012,grade
+Salt Lake City,27,C-,C-,8,2012,grade
+Salt Lake City,18,B-,B-,9,2012,grade
+Salt Lake City,17,B,B,10,2012,grade
+Salt Lake City,10,A-,A-,11,2012,grade
+Salt Lake City,10,A-,A-,12,2012,grade
+San Antonio,3,A+,A+,1,2012,grade
+San Antonio,12,B+,B+,2,2012,grade
+San Antonio,21,C+,C+,3,2012,grade
+San Antonio,14,B+,B+,6,2012,grade
+San Antonio,12,B+,B+,7,2012,grade
+San Antonio,18,B-,B-,8,2012,grade
+San Antonio,10,A-,A-,9,2012,grade
+San Antonio,15,B,B,10,2012,grade
+San Antonio,22,C+,C+,11,2012,grade
+San Antonio,13,B+,B+,12,2012,grade
+San Diego,39,F,F,1,2012,grade
+San Diego,35,D,D,2,2012,grade
+San Diego,25,C,C,3,2012,grade
+San Diego,40,F,F,6,2012,grade
+San Diego,40,F,F,7,2012,grade
+San Diego,40,F,F,8,2012,grade
+San Diego,38,F,F,9,2012,grade
+San Diego,36,D,D,10,2012,grade
+San Diego,40,F,F,11,2012,grade
+San Diego,40,F,F,12,2012,grade
+San Francisco,32,D+,D+,1,2012,grade
+San Francisco,30,D+,D+,2,2012,grade
+San Francisco,34,D,D,3,2012,grade
+San Francisco,38,F,F,6,2012,grade
+San Francisco,38,F,F,7,2012,grade
+San Francisco,37,F,F,8,2012,grade
+San Francisco,36,D,D,9,2012,grade
+San Francisco,35,D,D,10,2012,grade
+San Francisco,38,F,F,11,2012,grade
+San Francisco,35,D,D,12,2012,grade
+San Jose,20,B-,B-,1,2012,grade
+San Jose,21,C+,C+,2,2012,grade
+San Jose,35,D,D,3,2012,grade
+San Jose,25,C,C,6,2012,grade
+San Jose,26,C,C,7,2012,grade
+San Jose,22,C+,C+,8,2012,grade
+San Jose,28,C-,C-,9,2012,grade
+San Jose,25,C,C,10,2012,grade
+San Jose,30,D+,D+,11,2012,grade
+San Jose,21,C+,C+,12,2012,grade
+Seattle,29,C-,C-,1,2012,grade
+Seattle,22,C+,C+,2,2012,grade
+Seattle,36,D,D,3,2012,grade
+Seattle,32,D+,D+,6,2012,grade
+Seattle,27,C-,C-,7,2012,grade
+Seattle,30,D+,D+,8,2012,grade
+Seattle,34,D,D,9,2012,grade
+Seattle,27,C-,C-,10,2012,grade
+Seattle,32,D+,D+,11,2012,grade
+Seattle,33,D,D,12,2012,grade
+Tucson,37,F,F,1,2012,grade
+Tucson,40,F,F,2,2012,grade
+Tucson,4,A+,A+,3,2012,grade
+Tucson,36,D,D,6,2012,grade
+Tucson,15,B,B,7,2012,grade
+Tucson,35,D,D,8,2012,grade
+Tucson,37,F,F,9,2012,grade
+Tucson,38,F,F,10,2012,grade
+Tucson,28,C-,C-,11,2012,grade
+Tucson,39,F,F,12,2012,grade
+Virginia Beach,19,B-,B-,1,2012,grade
+Virginia Beach,9,A-,A-,2,2012,grade
+Virginia Beach,10,A-,A-,3,2012,grade
+Virginia Beach,12,B+,B+,6,2012,grade
+Virginia Beach,7,A,A,7,2012,grade
+Virginia Beach,16,B,B,8,2012,grade
+Virginia Beach,17,B,B,9,2012,grade
+Virginia Beach,8,A,A,10,2012,grade
+Virginia Beach,12,B+,B+,11,2012,grade
+Virginia Beach,22,C+,C+,12,2012,grade
+Washington,31,D+,D+,1,2012,grade
+Washington,38,F,F,2,2012,grade
+Washington,39,F,F,3,2012,grade
+Washington,2,A+,A+,6,2012,grade
+Washington,1,A+,A+,7,2012,grade
+Washington,3,A+,A+,8,2012,grade
+Washington,2,A+,A+,9,2012,grade
+Washington,19,B-,B-,10,2012,grade
+Washington,3,A+,A+,11,2012,grade
+Washington,2,A+,A+,12,2012,grade
+Atlanta,15,A-,A-,1,2013,grade
+Atlanta,19,B+,B+,2,2013,grade
+Atlanta,16,B+,B+,6,2013,grade
+Atlanta,17,B+,B+,7,2013,grade
+Atlanta,15,A-,A-,8,2013,grade
+Atlanta,11,A-,A-,9,2013,grade
+Atlanta,17,B+,B+,10,2013,grade
+Atlanta,14,A-,A-,11,2013,grade
+Atlanta,14,A-,A-,12,2013,grade
+Atlanta,11,A-,A-,22,2013,grade
+Atlanta,22,B,B,23,2013,grade
+Austin,1,A+,A+,1,2013,grade
+Austin,2,A+,A+,2,2013,grade
+Austin,9,A,A,6,2013,grade
+Austin,10,A,A,7,2013,grade
+Austin,6,A,A,8,2013,grade
+Austin,12,A-,A-,9,2013,grade
+Austin,7,A,A,10,2013,grade
+Austin,9,A,A,11,2013,grade
+Austin,17,B+,B+,12,2013,grade
+Austin,6,A,A,22,2013,grade
+Austin,3,A+,A+,23,2013,grade
+Baltimore,36,C,C,1,2013,grade
+Baltimore,29,B-,B-,2,2013,grade
+Baltimore,28,B-,B-,6,2013,grade
+Baltimore,24,B,B,7,2013,grade
+Baltimore,30,B-,B-,8,2013,grade
+Baltimore,29,B-,B-,9,2013,grade
+Baltimore,29,B-,B-,10,2013,grade
+Baltimore,26,B-,B-,11,2013,grade
+Baltimore,24,B,B,12,2013,grade
+Baltimore,14,A-,A-,22,2013,grade
+Baltimore,34,C+,C+,23,2013,grade
+Boston,35,C+,C+,1,2013,grade
+Boston,44,C-,C-,2,2013,grade
+Boston,38,C,C,6,2013,grade
+Boston,35,C+,C+,7,2013,grade
+Boston,41,C-,C-,8,2013,grade
+Boston,27,B-,B-,9,2013,grade
+Boston,44,C-,C-,10,2013,grade
+Boston,41,C-,C-,11,2013,grade
+Boston,35,C+,C+,12,2013,grade
+Boston,49,D+,D+,22,2013,grade
+Boston,41,C,C,23,2013,grade
+Charlotte,23,B,B,1,2013,grade
+Charlotte,11,A-,A-,2,2013,grade
+Charlotte,32,C+,C+,6,2013,grade
+Charlotte,26,B-,B-,7,2013,grade
+Charlotte,28,B-,B-,8,2013,grade
+Charlotte,42,C-,C-,9,2013,grade
+Charlotte,31,C+,C+,10,2013,grade
+Charlotte,32,C+,C+,11,2013,grade
+Charlotte,34,C+,C+,12,2013,grade
+Charlotte,21,B,B,22,2013,grade
+Charlotte,33,C+,C+,23,2013,grade
+Chicago,45,C-,C-,1,2013,grade
+Chicago,41,C-,C-,2,2013,grade
+Chicago,26,B-,B-,6,2013,grade
+Chicago,21,B+,B+,7,2013,grade
+Chicago,23,B,B,8,2013,grade
+Chicago,33,C+,C+,9,2013,grade
+Chicago,46,D+,D+,10,2013,grade
+Chicago,22,B,B,11,2013,grade
+Chicago,22,B,B,12,2013,grade
+Chicago,39,C,C,22,2013,grade
+Chicago,32,C+,C+,23,2013,grade
+Cleveland,12,A-,A-,1,2013,grade
+Cleveland,35,C+,C+,2,2013,grade
+Cleveland,43,C-,C-,6,2013,grade
+Cleveland,25,B,B,7,2013,grade
+Cleveland,35,C+,C+,8,2013,grade
+Cleveland,45,C-,C-,9,2013,grade
+Cleveland,36,C,C,10,2013,grade
+Cleveland,45,C-,C-,11,2013,grade
+Cleveland,40,C,C,12,2013,grade
+Cleveland,7,A,A,22,2013,grade
+Cleveland,4,A+,A+,23,2013,grade
+Colorado Springs,4,A+,A+,1,2013,grade
+Colorado Springs,13,A-,A-,2,2013,grade
+Colorado Springs,4,A+,A+,6,2013,grade
+Colorado Springs,8,A,A,7,2013,grade
+Colorado Springs,8,A,A,8,2013,grade
+Colorado Springs,7,A,A,9,2013,grade
+Colorado Springs,3,A+,A+,10,2013,grade
+Colorado Springs,8,A,A,11,2013,grade
+Colorado Springs,2,A+,A+,12,2013,grade
+Colorado Springs,5,A+,A+,22,2013,grade
+Colorado Springs,16,B+,B+,23,2013,grade
+Columbus,9,A,A,1,2013,grade
+Columbus,3,A+,A+,2,2013,grade
+Columbus,6,A,A,6,2013,grade
+Columbus,3,A+,A+,7,2013,grade
+Columbus,10,A,A,8,2013,grade
+Columbus,10,A,A,9,2013,grade
+Columbus,5,A+,A+,10,2013,grade
+Columbus,18,B+,B+,11,2013,grade
+Columbus,5,A+,A+,12,2013,grade
+Columbus,10,A,A,22,2013,grade
+Columbus,11,A-,A-,23,2013,grade
+Dallas,7,A,A,1,2013,grade
+Dallas,4,A+,A+,2,2013,grade
+Dallas,7,A,A,6,2013,grade
+Dallas,15,A-,A-,7,2013,grade
+Dallas,4,A+,A+,8,2013,grade
+Dallas,8,A,A,9,2013,grade
+Dallas,10,A,A,10,2013,grade
+Dallas,7,A,A,11,2013,grade
+Dallas,7,A,A,12,2013,grade
+Dallas,9,A,A,22,2013,grade
+Dallas,27,B-,B-,23,2013,grade
+Fort Worth,7,A,A,1,2013,grade
+Fort Worth,4,A+,A+,2,2013,grade
+Fort Worth,7,A,A,6,2013,grade
+Fort Worth,15,A-,A-,7,2013,grade
+Fort Worth,4,A+,A+,8,2013,grade
+Fort Worth,8,A,A,9,2013,grade
+Fort Worth,10,A,A,10,2013,grade
+Fort Worth,7,A,A,11,2013,grade
+Fort Worth,7,A,A,12,2013,grade
+Fort Worth,9,A,A,22,2013,grade
+Fort Worth,27,B-,B-,23,2013,grade
+Denver,13,A-,A-,1,2013,grade
+Denver,22,B,B,2,2013,grade
+Denver,27,B-,B-,6,2013,grade
+Denver,43,C-,C-,7,2013,grade
+Denver,24,B,B,8,2013,grade
+Denver,22,B,B,9,2013,grade
+Denver,19,B+,B+,10,2013,grade
+Denver,33,C+,C+,11,2013,grade
+Denver,33,C+,C+,12,2013,grade
+Denver,27,B-,B-,22,2013,grade
+Denver,20,B+,B+,23,2013,grade
+Detroit,43,C-,C-,1,2013,grade
+Detroit,46,D+,D+,2,2013,grade
+Detroit,29,B-,B-,6,2013,grade
+Detroit,28,B-,B-,7,2013,grade
+Detroit,22,B,B,8,2013,grade
+Detroit,35,C+,C+,9,2013,grade
+Detroit,24,B,B,10,2013,grade
+Detroit,24,B,B,11,2013,grade
+Detroit,37,C,C,12,2013,grade
+Detroit,35,C+,C+,22,2013,grade
+Detroit,14,A-,A-,23,2013,grade
+Houston,3,A+,A+,1,2013,grade
+Houston,6,A,A,2,2013,grade
+Houston,12,A-,A-,6,2013,grade
+Houston,5,A+,A+,7,2013,grade
+Houston,7,A,A,8,2013,grade
+Houston,13,A-,A-,9,2013,grade
+Houston,23,B,B,10,2013,grade
+Houston,11,A-,A-,11,2013,grade
+Houston,9,A,A,12,2013,grade
+Houston,13,A-,A-,22,2013,grade
+Houston,19,B+,B+,23,2013,grade
+Indianapolis,20,B+,B+,1,2013,grade
+Indianapolis,24,B,B,2,2013,grade
+Indianapolis,44,C-,C-,6,2013,grade
+Indianapolis,46,D+,D+,7,2013,grade
+Indianapolis,48,D+,D+,8,2013,grade
+Indianapolis,52,D,D,9,2013,grade
+Indianapolis,20,B+,B+,10,2013,grade
+Indianapolis,44,C-,C-,11,2013,grade
+Indianapolis,25,B,B,12,2013,grade
+Indianapolis,51,D,D,22,2013,grade
+Indianapolis,37,C,C,23,2013,grade
+Jacksonville,26,B-,B-,1,2013,grade
+Jacksonville,23,B,B,2,2013,grade
+Jacksonville,17,B+,B+,6,2013,grade
+Jacksonville,22,B,B,7,2013,grade
+Jacksonville,21,B+,B+,8,2013,grade
+Jacksonville,18,B+,B+,9,2013,grade
+Jacksonville,13,A-,A-,10,2013,grade
+Jacksonville,25,B,B,11,2013,grade
+Jacksonville,15,A-,A-,12,2013,grade
+Jacksonville,19,B+,B+,22,2013,grade
+Jacksonville,9,A,A,23,2013,grade
+Las Vegas,24,B,B,1,2013,grade
+Las Vegas,30,B-,B-,2,2013,grade
+Las Vegas,10,A,A,6,2013,grade
+Las Vegas,14,A-,A-,7,2013,grade
+Las Vegas,17,B+,B+,8,2013,grade
+Las Vegas,9,A,A,9,2013,grade
+Las Vegas,22,B,B,10,2013,grade
+Las Vegas,5,A+,A+,11,2013,grade
+Las Vegas,3,A+,A+,12,2013,grade
+Las Vegas,2,A+,A+,22,2013,grade
+Las Vegas,30,B-,B-,23,2013,grade
+Los Angeles,53,D,D,1,2013,grade
+Los Angeles,49,D+,D+,2,2013,grade
+Los Angeles,52,D,D,6,2013,grade
+Los Angeles,52,D,D,7,2013,grade
+Los Angeles,50,D,D,8,2013,grade
+Los Angeles,48,D+,D+,9,2013,grade
+Los Angeles,53,D,D,10,2013,grade
+Los Angeles,48,D+,D+,11,2013,grade
+Los Angeles,50,D,D,12,2013,grade
+Los Angeles,22,B,B,22,2013,grade
+Los Angeles,40,C,C,23,2013,grade
+Miami,52,D,D,1,2013,grade
+Miami,50,D,D,2,2013,grade
+Miami,25,B,B,6,2013,grade
+Miami,33,C+,C+,7,2013,grade
+Miami,27,B-,B-,8,2013,grade
+Miami,25,B,B,9,2013,grade
+Miami,34,C+,C+,10,2013,grade
+Miami,17,B+,B+,11,2013,grade
+Miami,23,B,B,12,2013,grade
+Miami,33,C+,C+,22,2013,grade
+Miami,21,B,B,23,2013,grade
+Milwaukee,33,C+,C+,1,2013,grade
+Milwaukee,12,A-,A-,2,2013,grade
+Milwaukee,40,C,C,6,2013,grade
+Milwaukee,39,C,C,7,2013,grade
+Milwaukee,38,C,C,8,2013,grade
+Milwaukee,41,C,C,9,2013,grade
+Milwaukee,37,C,C,10,2013,grade
+Milwaukee,42,C-,C-,11,2013,grade
+Milwaukee,39,C,C,12,2013,grade
+Milwaukee,20,B+,B+,22,2013,grade
+Milwaukee,44,C-,C-,23,2013,grade
+Minneapolis,17,B+,B+,1,2013,grade
+Minneapolis,20,B+,B+,2,2013,grade
+Minneapolis,35,C+,C+,6,2013,grade
+Minneapolis,36,C+,C+,7,2013,grade
+Minneapolis,31,C+,C+,8,2013,grade
+Minneapolis,38,C,C,9,2013,grade
+Minneapolis,41,C-,C-,10,2013,grade
+Minneapolis,35,C+,C+,11,2013,grade
+Minneapolis,30,B-,B-,12,2013,grade
+Minneapolis,43,C-,C-,22,2013,grade
+Minneapolis,44,C-,C-,23,2013,grade
+Nashville,6,A,A,1,2013,grade
+Nashville,5,A+,A+,2,2013,grade
+Nashville,14,A-,A-,6,2013,grade
+Nashville,16,B+,B+,7,2013,grade
+Nashville,3,A+,A+,8,2013,grade
+Nashville,4,A+,A+,9,2013,grade
+Nashville,18,B+,B+,10,2013,grade
+Nashville,13,A-,A-,11,2013,grade
+Nashville,19,B+,B+,12,2013,grade
+Nashville,15,A-,A-,22,2013,grade
+Nashville,15,A-,A-,23,2013,grade
+New York,37,C,C,1,2013,grade
+New York,52,D,D,2,2013,grade
+New York,30,B-,B-,6,2013,grade
+New York,38,C,C,7,2013,grade
+New York,37,C,C,8,2013,grade
+New York,32,C+,C+,9,2013,grade
+New York,30,B-,B-,10,2013,grade
+New York,15,A-,A-,11,2013,grade
+New York,27,B-,B-,12,2013,grade
+New York,18,B+,B+,22,2013,grade
+New York,6,A,A,23,2013,grade
+Oklahoma City,18,B+,B+,1,2013,grade
+Oklahoma City,20,B+,B+,2,2013,grade
+Oklahoma City,2,A+,A+,6,2013,grade
+Oklahoma City,4,A+,A+,7,2013,grade
+Oklahoma City,2,A+,A+,8,2013,grade
+Oklahoma City,1,A+,A+,9,2013,grade
+Oklahoma City,2,A+,A+,10,2013,grade
+Oklahoma City,4,A+,A+,11,2013,grade
+Oklahoma City,4,A+,A+,12,2013,grade
+Oklahoma City,3,A+,A+,22,2013,grade
+Oklahoma City,30,B-,B-,23,2013,grade
+Omaha,11,A-,A-,1,2013,grade
+Omaha,43,C-,C-,2,2013,grade
+Omaha,1,A+,A+,6,2013,grade
+Omaha,1,A+,A+,7,2013,grade
+Omaha,1,A+,A+,8,2013,grade
+Omaha,5,A+,A+,9,2013,grade
+Omaha,1,A+,A+,10,2013,grade
+Omaha,1,A+,A+,11,2013,grade
+Omaha,12,A-,A-,12,2013,grade
+Omaha,54,F,F,22,2013,grade
+Omaha,1,A+,A+,23,2013,grade
+Orlando,40,C,C,1,2013,grade
+Orlando,39,C,C,2,2013,grade
+Orlando,33,C+,C+,6,2013,grade
+Orlando,32,C+,C+,7,2013,grade
+Orlando,34,C+,C+,8,2013,grade
+Orlando,28,B-,B-,9,2013,grade
+Orlando,27,B-,B-,10,2013,grade
+Orlando,37,C,C,11,2013,grade
+Orlando,38,C,C,12,2013,grade
+Orlando,32,C+,C+,22,2013,grade
+Orlando,52,D,D,23,2013,grade
+Philadelphia,48,D+,D+,1,2013,grade
+Philadelphia,48,D+,D+,2,2013,grade
+Philadelphia,50,D,D,6,2013,grade
+Philadelphia,47,D+,D+,7,2013,grade
+Philadelphia,49,D+,D+,8,2013,grade
+Philadelphia,44,C-,C-,9,2013,grade
+Philadelphia,55,F,F,10,2013,grade
+Philadelphia,39,C,C,11,2013,grade
+Philadelphia,52,D,D,12,2013,grade
+Philadelphia,37,C,C,22,2013,grade
+Philadelphia,54,F,F,23,2013,grade
+Phoenix,34,C+,C+,1,2013,grade
+Phoenix,32,C+,C+,2,2013,grade
+Phoenix,31,C+,C+,6,2013,grade
+Phoenix,34,C+,C+,7,2013,grade
+Phoenix,32,C+,C+,8,2013,grade
+Phoenix,31,C+,C+,9,2013,grade
+Phoenix,28,B-,B-,10,2013,grade
+Phoenix,21,B,B,11,2013,grade
+Phoenix,28,B-,B-,12,2013,grade
+Phoenix,25,B,B,22,2013,grade
+Phoenix,42,C-,C-,23,2013,grade
+Portland,30,B-,B-,1,2013,grade
+Portland,33,C+,C+,2,2013,grade
+Portland,42,C-,C-,6,2013,grade
+Portland,29,B-,B-,7,2013,grade
+Portland,42,C-,C-,8,2013,grade
+Portland,39,C,C,9,2013,grade
+Portland,47,D+,D+,10,2013,grade
+Portland,31,C+,C+,11,2013,grade
+Portland,45,C-,C-,12,2013,grade
+Portland,38,C,C,22,2013,grade
+Portland,5,A+,A+,23,2013,grade
+Raleigh,8,A,A,1,2013,grade
+Raleigh,17,B+,B+,2,2013,grade
+Raleigh,11,A-,A-,6,2013,grade
+Raleigh,18,B+,B+,7,2013,grade
+Raleigh,12,A-,A-,8,2013,grade
+Raleigh,15,A-,A-,9,2013,grade
+Raleigh,11,A-,A-,10,2013,grade
+Raleigh,10,A,A,11,2013,grade
+Raleigh,11,A,A,12,2013,grade
+Raleigh,40,C,C,22,2013,grade
+Raleigh,2,A+,A+,23,2013,grade
+Durham,8,A,A,1,2013,grade
+Durham,17,B+,B+,2,2013,grade
+Durham,11,A-,A-,6,2013,grade
+Durham,18,B+,B+,7,2013,grade
+Durham,12,A-,A-,8,2013,grade
+Durham,15,A-,A-,9,2013,grade
+Durham,11,A-,A-,10,2013,grade
+Durham,10,A,A,11,2013,grade
+Durham,11,A,A,12,2013,grade
+Durham,40,C,C,22,2013,grade
+Durham,2,A+,A+,23,2013,grade
+Sacramento,56,F,F,1,2013,grade
+Sacramento,37,C,C,2,2013,grade
+Sacramento,55,F,F,6,2013,grade
+Sacramento,55,F,F,7,2013,grade
+Sacramento,56,F,F,8,2013,grade
+Sacramento,56,F,F,9,2013,grade
+Sacramento,54,F,F,10,2013,grade
+Sacramento,56,F,F,11,2013,grade
+Sacramento,48,D+,D+,12,2013,grade
+Sacramento,47,D+,D+,22,2013,grade
+Sacramento,43,C-,C-,23,2013,grade
+Salt Lake City,10,A,A,1,2013,grade
+Salt Lake City,7,A,A,2,2013,grade
+Salt Lake City,22,B,B,6,2013,grade
+Salt Lake City,23,B,B,7,2013,grade
+Salt Lake City,19,B+,B+,8,2013,grade
+Salt Lake City,23,B,B,9,2013,grade
+Salt Lake City,21,B,B,10,2013,grade
+Salt Lake City,29,B-,B-,11,2013,grade
+Salt Lake City,29,B-,B-,12,2013,grade
+Salt Lake City,46,D+,D+,22,2013,grade
+Salt Lake City,10,A,A,23,2013,grade
+San Antonio,5,A+,A+,1,2013,grade
+San Antonio,25,B,B,2,2013,grade
+San Antonio,5,A+,A+,6,2013,grade
+San Antonio,5,A+,A+,7,2013,grade
+San Antonio,5,A+,A+,8,2013,grade
+San Antonio,2,A+,A+,9,2013,grade
+San Antonio,8,A,A,10,2013,grade
+San Antonio,3,A+,A+,11,2013,grade
+San Antonio,18,B+,B+,12,2013,grade
+San Antonio,17,B+,B+,22,2013,grade
+San Antonio,7,A,A,23,2013,grade
+San Diego,54,F,F,1,2013,grade
+San Diego,55,F,F,2,2013,grade
+San Diego,54,F,F,6,2013,grade
+San Diego,53,D,D,7,2013,grade
+San Diego,53,D,D,8,2013,grade
+San Diego,53,D,D,9,2013,grade
+San Diego,52,D,D,10,2013,grade
+San Diego,57,F,F,11,2013,grade
+San Diego,54,F,F,12,2013,grade
+San Diego,41,C-,C-,22,2013,grade
+San Diego,37,C,C,23,2013,grade
+San Francisco,41,C,C,1,2013,grade
+San Francisco,36,C+,C+,2,2013,grade
+San Francisco,49,D+,D+,6,2013,grade
+San Francisco,41,C-,C-,7,2013,grade
+San Francisco,51,D,D,8,2013,grade
+San Francisco,50,D+,D+,9,2013,grade
+San Francisco,48,D+,D+,10,2013,grade
+San Francisco,43,C-,C-,11,2013,grade
+San Francisco,53,D,D,12,2013,grade
+San Francisco,44,C-,C-,22,2013,grade
+San Francisco,16,B+,B+,23,2013,grade
+San Jose,46,D+,D+,1,2013,grade
+San Jose,51,D,D,2,2013,grade
+San Jose,34,C+,C+,6,2013,grade
+San Jose,27,B-,B-,7,2013,grade
+San Jose,33,C+,C+,8,2013,grade
+San Jose,36,C+,C+,9,2013,grade
+San Jose,25,B,B,10,2013,grade
+San Jose,38,C,C,11,2013,grade
+San Jose,40,C,C,12,2013,grade
+San Jose,16,B+,B+,22,2013,grade
+San Jose,23,B,B,23,2013,grade
+Seattle,28,B-,B-,1,2013,grade
+Seattle,14,A-,A-,2,2013,grade
+Seattle,37,C,C,6,2013,grade
+Seattle,42,C-,C-,7,2013,grade
+Seattle,39,C,C,8,2013,grade
+Seattle,40,C,C,9,2013,grade
+Seattle,32,C+,C+,10,2013,grade
+Seattle,30,B-,B-,11,2013,grade
+Seattle,44,C-,C-,12,2013,grade
+Seattle,26,B,B,22,2013,grade
+Seattle,35,C+,C+,23,2013,grade
+Tucson,31,C+,C+,1,2013,grade
+Tucson,15,A-,A-,2,2013,grade
+Tucson,13,A-,A-,6,2013,grade
+Tucson,12,A-,A-,7,2013,grade
+Tucson,18,B+,B+,8,2013,grade
+Tucson,3,A+,A+,9,2013,grade
+Tucson,16,B+,B+,10,2013,grade
+Tucson,12,A-,A-,11,2013,grade
+Tucson,6,A,A,12,2013,grade
+Tucson,4,A+,A+,22,2013,grade
+Tucson,12,A-,A-,23,2013,grade
+Virginia Beach,2,A+,A+,1,2013,grade
+Virginia Beach,1,A+,A+,2,2013,grade
+Virginia Beach,15,A-,A-,6,2013,grade
+Virginia Beach,8,A,A,7,2013,grade
+Virginia Beach,14,A-,A-,8,2013,grade
+Virginia Beach,16,B+,B+,9,2013,grade
+Virginia Beach,15,A-,A-,10,2013,grade
+Virginia Beach,28,B-,B-,11,2013,grade
+Virginia Beach,15,A-,A-,12,2013,grade
+Virginia Beach,23,B,B,22,2013,grade
+Virginia Beach,29,B-,B-,23,2013,grade
+Washington,22,B,B,1,2013,grade
+Washington,40,C,C,2,2013,grade
+Washington,3,A+,A+,6,2013,grade
+Washington,2,A+,A+,7,2013,grade
+Washington,9,A,A,8,2013,grade
+Washington,17,B+,B+,9,2013,grade
+Washington,9,A,A,10,2013,grade
+Washington,2,A+,A+,11,2013,grade
+Washington,1,A+,A+,12,2013,grade
+Washington,1,A+,A+,22,2013,grade
+Washington,7,A,A,23,2013,grade
+Cincinnati,55,F,F,1,2013,grade
+Cincinnati,53,D,D,2,2013,grade
+Cincinnati,36,C,C,6,2013,grade
+Cincinnati,39,C,C,7,2013,grade
+Cincinnati,40,C,C,8,2013,grade
+Cincinnati,34,C+,C+,9,2013,grade
+Cincinnati,42,C-,C-,10,2013,grade
+Cincinnati,36,C,C,11,2013,grade
+Cincinnati,25,B,B,12,2013,grade
+Cincinnati,44,C-,C-,22,2013,grade
+Cincinnati,55,F,F,23,2013,grade
+Des Moines,19,B+,B+,1,2013,grade
+Des Moines,34,C+,C+,2,2013,grade
+Des Moines,24,B,B,6,2013,grade
+Des Moines,29,B-,B-,7,2013,grade
+Des Moines,46,D+,D+,8,2013,grade
+Des Moines,5,A+,A+,9,2013,grade
+Des Moines,6,A,A,10,2013,grade
+Des Moines,45,C-,C-,11,2013,grade
+Des Moines,49,D+,D+,12,2013,grade
+Des Moines,50,D,D,22,2013,grade
+Des Moines,56,F,F,23,2013,grade
+Fort Lauderdale,39,C,C,1,2013,grade
+Fort Lauderdale,38,C,C,2,2013,grade
+Fort Lauderdale,21,B,B,6,2013,grade
+Fort Lauderdale,19,B+,B+,7,2013,grade
+Fort Lauderdale,20,B+,B+,8,2013,grade
+Fort Lauderdale,14,A-,A-,9,2013,grade
+Fort Lauderdale,38,C,C,10,2013,grade
+Fort Lauderdale,20,B+,B+,11,2013,grade
+Fort Lauderdale,21,B,B,12,2013,grade
+Fort Lauderdale,8,A,A,22,2013,grade
+Fort Lauderdale,37,C,C,23,2013,grade
+Honolulu,50,D,D,1,2013,grade
+Honolulu,54,F,F,2,2013,grade
+Honolulu,56,F,F,6,2013,grade
+Honolulu,56,F,F,7,2013,grade
+Honolulu,55,F,F,8,2013,grade
+Honolulu,55,F,F,9,2013,grade
+Honolulu,57,F,F,10,2013,grade
+Honolulu,47,D+,D+,11,2013,grade
+Honolulu,56,F,F,12,2013,grade
+Honolulu,28,B-,B-,22,2013,grade
+Honolulu,53,D,D,23,2013,grade
+Kansas City,14,A-,A-,1,2013,grade
+Kansas City,16,A-,A-,2,2013,grade
+Kansas City,19,B+,B+,6,2013,grade
+Kansas City,20,B+,B+,7,2013,grade
+Kansas City,36,C,C,8,2013,grade
+Kansas City,24,B,B,9,2013,grade
+Kansas City,14,A-,A-,10,2013,grade
+Kansas City,16,B+,B+,11,2013,grade
+Kansas City,13,A-,A-,12,2013,grade
+Kansas City,28,B-,B-,22,2013,grade
+Kansas City,47,D+,D+,23,2013,grade
+Madison,21,B,B,1,2013,grade
+Madison,8,A,A,2,2013,grade
+Madison,51,D,D,6,2013,grade
+Madison,50,D,D,7,2013,grade
+Madison,54,F,F,8,2013,grade
+Madison,46,C-,C-,9,2013,grade
+Madison,40,C,C,10,2013,grade
+Madison,52,D,D,11,2013,grade
+Madison,51,D,D,12,2013,grade
+Madison,12,A-,A-,22,2013,grade
+Madison,50,D,D,23,2013,grade
+New Orleans,44,C-,C-,1,2013,grade
+New Orleans,42,C-,C-,2,2013,grade
+New Orleans,46,D+,D+,6,2013,grade
+New Orleans,45,C-,C-,7,2013,grade
+New Orleans,25,B,B,8,2013,grade
+New Orleans,37,C+,C+,9,2013,grade
+New Orleans,51,D,D,10,2013,grade
+New Orleans,51,D,D,11,2013,grade
+New Orleans,47,D+,D+,12,2013,grade
+New Orleans,55,F,F,22,2013,grade
+New Orleans,13,A-,A-,23,2013,grade
+Newark,57,F,F,1,2013,grade
+Newark,57,F,F,2,2013,grade
+Newark,57,F,F,6,2013,grade
+Newark,57,F,F,7,2013,grade
+Newark,57,F,F,8,2013,grade
+Newark,57,F,F,9,2013,grade
+Newark,56,F,F,10,2013,grade
+Newark,55,F,F,11,2013,grade
+Newark,57,F,F,12,2013,grade
+Newark,53,D,D,22,2013,grade
+Newark,44,C-,C-,23,2013,grade
+Oakland,51,D,D,1,2013,grade
+Oakland,45,C-,C-,2,2013,grade
+Oakland,53,D,D,6,2013,grade
+Oakland,54,F,F,7,2013,grade
+Oakland,52,D,D,8,2013,grade
+Oakland,51,D+,D+,9,2013,grade
+Oakland,45,C-,C-,10,2013,grade
+Oakland,54,F,F,11,2013,grade
+Oakland,55,F,F,12,2013,grade
+Oakland,48,D+,D+,22,2013,grade
+Oakland,24,B,B,23,2013,grade
+Pittsburgh,49,D+,D+,1,2013,grade
+Pittsburgh,47,D+,D+,2,2013,grade
+Pittsburgh,45,C-,C-,6,2013,grade
+Pittsburgh,37,C,C,7,2013,grade
+Pittsburgh,44,C-,C-,8,2013,grade
+Pittsburgh,30,B-,B-,9,2013,grade
+Pittsburgh,49,D+,D+,10,2013,grade
+Pittsburgh,49,D+,D+,11,2013,grade
+Pittsburgh,40,C,C,12,2013,grade
+Pittsburgh,56,F,F,22,2013,grade
+Pittsburgh,47,D+,D+,23,2013,grade
+Richmond,16,B+,B+,1,2013,grade
+Richmond,9,A,A,2,2013,grade
+Richmond,8,A,A,6,2013,grade
+Richmond,5,A+,A+,7,2013,grade
+Richmond,13,A-,A-,8,2013,grade
+Richmond,21,B,B,9,2013,grade
+Richmond,4,A+,A+,10,2013,grade
+Richmond,6,A,A,11,2013,grade
+Richmond,8,A,A,12,2013,grade
+Richmond,52,D,D,22,2013,grade
+Richmond,51,D,D,23,2013,grade
+Rochester,27,B-,B-,1,2013,grade
+Rochester,10,A,A,2,2013,grade
+Rochester,48,D+,D+,6,2013,grade
+Rochester,48,D+,D+,7,2013,grade
+Rochester,45,C-,C-,8,2013,grade
+Rochester,49,D+,D+,9,2013,grade
+Rochester,50,D,D,10,2013,grade
+Rochester,50,D,D,11,2013,grade
+Rochester,36,C,C,12,2013,grade
+Rochester,28,B-,B-,22,2013,grade
+Rochester,25,B,B,23,2013,grade
+St. Louis,25,B,B,1,2013,grade
+St. Louis,28,B-,B-,2,2013,grade
+St. Louis,20,B+,B+,6,2013,grade
+St. Louis,13,A-,A-,7,2013,grade
+St. Louis,16,B+,B+,8,2013,grade
+St. Louis,20,B+,B+,9,2013,grade
+St. Louis,43,C-,C-,10,2013,grade
+St. Louis,19,B+,B+,11,2013,grade
+St. Louis,19,B+,B+,12,2013,grade
+St. Louis,23,B,B,22,2013,grade
+St. Louis,28,B-,B-,23,2013,grade
+Tacoma,42,C-,C-,1,2013,grade
+Tacoma,31,C+,C+,2,2013,grade
+Tacoma,47,D+,D+,6,2013,grade
+Tacoma,49,D+,D+,7,2013,grade
+Tacoma,47,D+,D+,8,2013,grade
+Tacoma,43,C-,C-,9,2013,grade
+Tacoma,33,C+,C+,10,2013,grade
+Tacoma,53,D,D,11,2013,grade
+Tacoma,46,D+,D+,12,2013,grade
+Tacoma,28,B-,B-,22,2013,grade
+Tacoma,36,C,C,23,2013,grade
+Tampa,38,C,C,1,2013,grade
+Tampa,27,B-,B-,2,2013,grade
+Tampa,23,B,B,6,2013,grade
+Tampa,31,C+,C+,7,2013,grade
+Tampa,29,B-,B-,8,2013,grade
+Tampa,19,B+,B+,9,2013,grade
+Tampa,26,B-,B-,10,2013,grade
+Tampa,27,B-,B-,11,2013,grade
+Tampa,31,C+,C+,12,2013,grade
+Tampa,34,C+,C+,22,2013,grade
+Tampa,25,B,B,23,2013,grade
+Tulsa,47,D+,D+,1,2013,grade
+Tulsa,56,F,F,2,2013,grade
+Tulsa,41,C-,C-,6,2013,grade
+Tulsa,51,D,D,7,2013,grade
+Tulsa,43,C-,C-,8,2013,grade
+Tulsa,54,F,F,9,2013,grade
+Tulsa,35,C+,C+,10,2013,grade
+Tulsa,34,C+,C+,11,2013,grade
+Tulsa,10,A,A,12,2013,grade
+Tulsa,57,F,F,22,2013,grade
+Tulsa,49,D+,D+,23,2013,grade
+Wichita,29,B-,B-,1,2013,grade
+Wichita,26,B-,B-,2,2013,grade
+Wichita,39,C,C,6,2013,grade
+Wichita,44,C-,C-,7,2013,grade
+Wichita,26,B-,B-,8,2013,grade
+Wichita,47,D+,D+,9,2013,grade
+Wichita,38,C,C,10,2013,grade
+Wichita,23,B,B,11,2013,grade
+Wichita,40,C,C,12,2013,grade
+Wichita,42,C-,C-,22,2013,grade
+Wichita,57,F,F,23,2013,grade
+Winston-Salem,32,C+,C+,1,2013,grade
+Winston-Salem,18,B+,B+,2,2013,grade
+Winston-Salem,18,B+,B+,6,2013,grade
+Winston-Salem,10,A,A,7,2013,grade
+Winston-Salem,11,A-,A-,8,2013,grade
+Winston-Salem,26,B-,B-,9,2013,grade
+Winston-Salem,12,A-,A-,10,2013,grade
+Winston-Salem,39,C,C,11,2013,grade
+Winston-Salem,32,C+,C+,12,2013,grade
+Winston-Salem,36,C,C,22,2013,grade
+Winston-Salem,16,B+,B+,23,2013,grade
+Akron,48,C+,C+,1,2014,grade
+Akron,45,C+,C+,2,2014,grade
+Akron,52,C,C,6,2014,grade
+Akron,20,A-,A-,7,2014,grade
+Akron,52,C,C,8,2014,grade
+Akron,59,C-,C-,9,2014,grade
+Akron,64,D+,D+,10,2014,grade
+Akron,53,C,C,11,2014,grade
+Akron,47,C+,C+,12,2014,grade
+Akron,74,D,D,22,2014,grade
+Akron,81,F,F,23,2014,grade
+Albany,55,C,C,1,2014,grade
+Albany,13,A,A,2,2014,grade
+Albany,54,C,C,6,2014,grade
+Albany,56,C,C,7,2014,grade
+Albany,55,C,C,8,2014,grade
+Albany,71,D,D,9,2014,grade
+Albany,75,D,D,10,2014,grade
+Albany,33,B,B,11,2014,grade
+Albany,37,B-,B-,12,2014,grade
+Albany,52,C,C,22,2014,grade
+Albany,21,A-,A-,23,2014,grade
+Albuquerque,50,C,C,1,2014,grade
+Albuquerque,40,B-,B-,2,2014,grade
+Albuquerque,17,A-,A-,6,2014,grade
+Albuquerque,30,B,B,7,2014,grade
+Albuquerque,48,C+,C+,8,2014,grade
+Albuquerque,30,B,B,9,2014,grade
+Albuquerque,10,A,A,10,2014,grade
+Albuquerque,5,A+,A+,11,2014,grade
+Albuquerque,19,A-,A-,12,2014,grade
+Albuquerque,5,A+,A+,22,2014,grade
+Albuquerque,55,C,C,23,2014,grade
+Anaheim,65,D+,D+,1,2014,grade
+Anaheim,61,C-,C-,2,2014,grade
+Anaheim,75,D,D,6,2014,grade
+Anaheim,80,F,F,7,2014,grade
+Anaheim,76,F,F,8,2014,grade
+Anaheim,73,D,D,9,2014,grade
+Anaheim,71,D,D,10,2014,grade
+Anaheim,73,D,D,11,2014,grade
+Anaheim,55,C,C,12,2014,grade
+Anaheim,46,C+,C+,22,2014,grade
+Anaheim,60,C-,C-,23,2014,grade
+Asheville,44,C+,C+,1,2014,grade
+Asheville,64,D+,D+,2,2014,grade
+Asheville,51,C,C,6,2014,grade
+Asheville,75,D,D,7,2014,grade
+Asheville,32,B,B,8,2014,grade
+Asheville,65,D+,D+,9,2014,grade
+Asheville,37,B-,B-,10,2014,grade
+Asheville,52,C,C,11,2014,grade
+Asheville,39,B-,B-,12,2014,grade
+Asheville,30,B,B,22,2014,grade
+Asheville,67,D+,D+,23,2014,grade
+Atlanta,21,A-,A-,1,2014,grade
+Atlanta,28,B+,B+,2,2014,grade
+Atlanta,29,B,B,6,2014,grade
+Atlanta,42,B-,B-,7,2014,grade
+Atlanta,38,B-,B-,8,2014,grade
+Atlanta,32,B,B,9,2014,grade
+Atlanta,35,B,B,10,2014,grade
+Atlanta,25,B+,B+,11,2014,grade
+Atlanta,20,A-,A-,12,2014,grade
+Atlanta,34,B,B,22,2014,grade
+Atlanta,47,C+,C+,23,2014,grade
+Austin,4,A+,A+,1,2014,grade
+Austin,12,A,A,2,2014,grade
+Austin,2,A+,A+,6,2014,grade
+Austin,2,A+,A+,7,2014,grade
+Austin,1,A+,A+,8,2014,grade
+Austin,1,A+,A+,9,2014,grade
+Austin,5,A+,A+,10,2014,grade
+Austin,14,A,A,11,2014,grade
+Austin,10,A,A,12,2014,grade
+Austin,16,A-,A-,22,2014,grade
+Austin,4,A+,A+,23,2014,grade
+Baltimore,57,C-,C-,1,2014,grade
+Baltimore,47,C+,C+,2,2014,grade
+Baltimore,60,C-,C-,6,2014,grade
+Baltimore,59,C-,C-,7,2014,grade
+Baltimore,45,C+,C+,8,2014,grade
+Baltimore,69,D+,D+,9,2014,grade
+Baltimore,69,D+,D+,10,2014,grade
+Baltimore,50,C,C,11,2014,grade
+Baltimore,72,D,D,12,2014,grade
+Baltimore,31,B,B,22,2014,grade
+Baltimore,32,B,B,23,2014,grade
+Boise,2,A+,A+,1,2014,grade
+Boise,1,A+,A+,2,2014,grade
+Boise,12,A,A,6,2014,grade
+Boise,11,A,A,7,2014,grade
+Boise,8,A,A,8,2014,grade
+Boise,10,A,A,9,2014,grade
+Boise,2,A+,A+,10,2014,grade
+Boise,15,A-,A-,11,2014,grade
+Boise,32,B,B,12,2014,grade
+Boise,54,C,C,22,2014,grade
+Boise,7,A+,A+,23,2014,grade
+Boston,45,C+,C+,1,2014,grade
+Boston,55,C,C,2,2014,grade
+Boston,57,C-,C-,6,2014,grade
+Boston,48,C+,C+,7,2014,grade
+Boston,54,C,C,8,2014,grade
+Boston,54,C,C,9,2014,grade
+Boston,60,C-,C-,10,2014,grade
+Boston,64,D+,D+,11,2014,grade
+Boston,73,D,D,12,2014,grade
+Boston,9,A,A,22,2014,grade
+Boston,29,B,B,23,2014,grade
+Bridgeport,79,F,F,1,2014,grade
+Bridgeport,75,D,D,2,2014,grade
+Bridgeport,78,F,F,6,2014,grade
+Bridgeport,79,F,F,7,2014,grade
+Bridgeport,78,F,F,8,2014,grade
+Bridgeport,64,D+,D+,9,2014,grade
+Bridgeport,79,F,F,10,2014,grade
+Bridgeport,76,F,F,11,2014,grade
+Bridgeport,75,D,D,12,2014,grade
+Bridgeport,6,A+,A+,22,2014,grade
+Bridgeport,24,B+,B+,23,2014,grade
+Buffalo,80,F,F,1,2014,grade
+Buffalo,82,F,F,2,2014,grade
+Buffalo,69,D+,D+,6,2014,grade
+Buffalo,22,B+,B+,7,2014,grade
+Buffalo,77,F,F,8,2014,grade
+Buffalo,78,F,F,9,2014,grade
+Buffalo,77,F,F,10,2014,grade
+Buffalo,56,C,C,11,2014,grade
+Buffalo,62,C-,C-,12,2014,grade
+Buffalo,82,F,F,22,2014,grade
+Buffalo,32,B,B,23,2014,grade
+Camden,62,C-,C-,1,2014,grade
+Camden,37,B-,B-,2,2014,grade
+Camden,55,C,C,6,2014,grade
+Camden,40,B-,B-,7,2014,grade
+Camden,50,C,C,8,2014,grade
+Camden,51,C,C,9,2014,grade
+Camden,52,C,C,10,2014,grade
+Camden,63,C-,C-,11,2014,grade
+Camden,76,F,F,12,2014,grade
+Camden,19,A-,A-,22,2014,grade
+Camden,50,C,C,23,2014,grade
+Cape Coral,59,C-,C-,1,2014,grade
+Cape Coral,59,C-,C-,2,2014,grade
+Cape Coral,58,C-,C-,6,2014,grade
+Cape Coral,58,C-,C-,7,2014,grade
+Cape Coral,53,C,C,8,2014,grade
+Cape Coral,46,C+,C+,9,2014,grade
+Cape Coral,76,F,F,10,2014,grade
+Cape Coral,62,C-,C-,11,2014,grade
+Cape Coral,58,C-,C-,12,2014,grade
+Cape Coral,32,B,B,22,2014,grade
+Cape Coral,73,D,D,23,2014,grade
+Charleston,34,B,B,1,2014,grade
+Charleston,51,C,C,2,2014,grade
+Charleston,24,B+,B+,6,2014,grade
+Charleston,9,A,A,7,2014,grade
+Charleston,22,B+,B+,8,2014,grade
+Charleston,25,B+,B+,9,2014,grade
+Charleston,48,C+,C+,10,2014,grade
+Charleston,37,B-,B-,11,2014,grade
+Charleston,50,C,C,12,2014,grade
+Charleston,27,B+,B+,22,2014,grade
+Charleston,74,D,D,23,2014,grade
+Charlotte,14,A,A,1,2014,grade
+Charlotte,17,A-,A-,2,2014,grade
+Charlotte,15,A-,A-,6,2014,grade
+Charlotte,12,A,A,7,2014,grade
+Charlotte,9,A,A,8,2014,grade
+Charlotte,19,A-,A-,9,2014,grade
+Charlotte,20,A-,A-,10,2014,grade
+Charlotte,12,A,A,11,2014,grade
+Charlotte,18,A-,A-,12,2014,grade
+Charlotte,33,B,B,22,2014,grade
+Charlotte,40,B-,B-,23,2014,grade
+Chicago,66,D+,D+,1,2014,grade
+Chicago,65,D+,D+,2,2014,grade
+Chicago,59,C-,C-,6,2014,grade
+Chicago,50,C,C,7,2014,grade
+Chicago,59,C-,C-,8,2014,grade
+Chicago,62,C-,C-,9,2014,grade
+Chicago,64,D+,D+,10,2014,grade
+Chicago,47,C+,C+,11,2014,grade
+Chicago,60,C-,C-,12,2014,grade
+Chicago,49,C+,C+,22,2014,grade
+Chicago,58,C-,C-,23,2014,grade
+Cincinnati,49,C+,C+,1,2014,grade
+Cincinnati,54,C,C,2,2014,grade
+Cincinnati,39,B-,B-,6,2014,grade
+Cincinnati,38,B-,B-,7,2014,grade
+Cincinnati,41,B-,B-,8,2014,grade
+Cincinnati,44,C+,C+,9,2014,grade
+Cincinnati,34,B,B,10,2014,grade
+Cincinnati,30,B,B,11,2014,grade
+Cincinnati,42,B-,B-,12,2014,grade
+Cincinnati,73,D,D,22,2014,grade
+Cincinnati,72,D,D,23,2014,grade
+Cleveland,39,B-,B-,1,2014,grade
+Cleveland,43,C+,C+,2,2014,grade
+Cleveland,27,B+,B+,6,2014,grade
+Cleveland,18,A-,A-,7,2014,grade
+Cleveland,21,A-,A-,8,2014,grade
+Cleveland,40,B-,B-,9,2014,grade
+Cleveland,38,B-,B-,10,2014,grade
+Cleveland,29,B,B,11,2014,grade
+Cleveland,28,B+,B+,12,2014,grade
+Cleveland,57,C-,C-,22,2014,grade
+Cleveland,56,C,C,23,2014,grade
+Colorado Springs,1,A+,A+,1,2014,grade
+Colorado Springs,3,A+,A+,2,2014,grade
+Colorado Springs,1,A+,A+,6,2014,grade
+Colorado Springs,9,A,A,7,2014,grade
+Colorado Springs,13,A,A,8,2014,grade
+Colorado Springs,6,A+,A+,9,2014,grade
+Colorado Springs,1,A+,A+,10,2014,grade
+Colorado Springs,1,A+,A+,11,2014,grade
+Colorado Springs,3,A+,A+,12,2014,grade
+Colorado Springs,8,A,A,22,2014,grade
+Colorado Springs,6,A+,A+,23,2014,grade
+Columbia,15,A-,A-,1,2014,grade
+Columbia,7,A+,A+,2,2014,grade
+Columbia,35,B,B,6,2014,grade
+Columbia,29,B,B,7,2014,grade
+Columbia,43,C+,C+,8,2014,grade
+Columbia,45,C+,C+,9,2014,grade
+Columbia,40,B-,B-,10,2014,grade
+Columbia,17,A-,A-,11,2014,grade
+Columbia,30,B,B,12,2014,grade
+Columbia,70,D,D,22,2014,grade
+Columbia,53,C,C,23,2014,grade
+Columbus,31,B,B,1,2014,grade
+Columbus,32,B,B,2,2014,grade
+Columbus,21,A-,A-,6,2014,grade
+Columbus,33,B,B,7,2014,grade
+Columbus,29,B,B,8,2014,grade
+Columbus,18,A-,A-,9,2014,grade
+Columbus,17,A-,A-,10,2014,grade
+Columbus,34,B,B,11,2014,grade
+Columbus,26,B+,B+,12,2014,grade
+Columbus,37,B-,B-,22,2014,grade
+Columbus,1,A+,A+,23,2014,grade
+Dallas,6,A+,A+,1,2014,grade
+Dallas,4,A+,A+,2,2014,grade
+Dallas,8,A,A,6,2014,grade
+Dallas,6,A+,A+,7,2014,grade
+Dallas,5,A+,A+,8,2014,grade
+Dallas,3,A+,A+,9,2014,grade
+Dallas,14,A,A,10,2014,grade
+Dallas,10,A,A,11,2014,grade
+Dallas,12,A,A,12,2014,grade
+Dallas,25,B+,B+,22,2014,grade
+Dallas,51,C,C,23,2014,grade
+Dayton,17,A-,A-,1,2014,grade
+Dayton,36,B-,B-,2,2014,grade
+Dayton,44,C+,C+,6,2014,grade
+Dayton,63,C-,C-,7,2014,grade
+Dayton,23,B+,B+,8,2014,grade
+Dayton,15,A-,A-,9,2014,grade
+Dayton,30,B,B,10,2014,grade
+Dayton,61,C-,C-,11,2014,grade
+Dayton,56,C,C,12,2014,grade
+Dayton,63,C-,C-,22,2014,grade
+Dayton,10,A,A,23,2014,grade
+Denver,28,B+,B+,1,2014,grade
+Denver,27,B+,B+,2,2014,grade
+Denver,46,C+,C+,6,2014,grade
+Denver,44,C+,C+,7,2014,grade
+Denver,56,C,C,8,2014,grade
+Denver,42,B-,B-,9,2014,grade
+Denver,27,B+,B+,10,2014,grade
+Denver,49,C+,C+,11,2014,grade
+Denver,48,C+,C+,12,2014,grade
+Denver,24,B+,B+,22,2014,grade
+Denver,19,A-,A-,23,2014,grade
+Detroit,52,C,C,1,2014,grade
+Detroit,56,C,C,2,2014,grade
+Detroit,22,B+,B+,6,2014,grade
+Detroit,36,B-,B-,7,2014,grade
+Detroit,27,B+,B+,8,2014,grade
+Detroit,36,B-,B-,9,2014,grade
+Detroit,21,A-,A-,10,2014,grade
+Detroit,23,B+,B+,11,2014,grade
+Detroit,17,A-,A-,12,2014,grade
+Detroit,47,C+,C+,22,2014,grade
+Detroit,63,C-,C-,23,2014,grade
+Durham,22,B+,B+,1,2014,grade
+Durham,31,B,B,2,2014,grade
+Durham,41,B-,B-,6,2014,grade
+Durham,51,C,C,7,2014,grade
+Durham,35,B,B,8,2014,grade
+Durham,41,B-,B-,9,2014,grade
+Durham,23,B+,B+,10,2014,grade
+Durham,27,B+,B+,11,2014,grade
+Durham,52,C,C,12,2014,grade
+Durham,1,A+,A+,22,2014,grade
+Durham,2,A+,A+,23,2014,grade
+Fort Collins,24,B+,B+,1,2014,grade
+Fort Collins,21,A-,A-,2,2014,grade
+Fort Collins,14,A,A,6,2014,grade
+Fort Collins,7,A+,A+,7,2014,grade
+Fort Collins,12,A,A,8,2014,grade
+Fort Collins,39,B-,B-,9,2014,grade
+Fort Collins,7,A+,A+,10,2014,grade
+Fort Collins,16,A-,A-,11,2014,grade
+Fort Collins,16,A-,A-,12,2014,grade
+Fort Collins,2,A+,A+,22,2014,grade
+Fort Collins,41,B-,B-,23,2014,grade
+Fort Lauderdale,64,D+,D+,1,2014,grade
+Fort Lauderdale,66,D+,D+,2,2014,grade
+Fort Lauderdale,32,B,B,6,2014,grade
+Fort Lauderdale,24,B+,B+,7,2014,grade
+Fort Lauderdale,25,B+,B+,8,2014,grade
+Fort Lauderdale,20,A-,A-,9,2014,grade
+Fort Lauderdale,47,C+,C+,10,2014,grade
+Fort Lauderdale,41,B-,B-,11,2014,grade
+Fort Lauderdale,45,C+,C+,12,2014,grade
+Fort Lauderdale,39,B-,B-,22,2014,grade
+Fort Lauderdale,37,B-,B-,23,2014,grade
+Fort Worth,7,A+,A+,1,2014,grade
+Fort Worth,19,A-,A-,2,2014,grade
+Fort Worth,5,A+,A+,6,2014,grade
+Fort Worth,4,A+,A+,7,2014,grade
+Fort Worth,10,A,A,8,2014,grade
+Fort Worth,2,A+,A+,9,2014,grade
+Fort Worth,9,A,A,10,2014,grade
+Fort Worth,11,A,A,11,2014,grade
+Fort Worth,8,A,A,12,2014,grade
+Fort Worth,67,D+,D+,22,2014,grade
+Fort Worth,24,B+,B+,23,2014,grade
+Frederick,58,C-,C-,1,2014,grade
+Frederick,71,D,D,2,2014,grade
+Frederick,67,D+,D+,6,2014,grade
+Frederick,31,B,B,7,2014,grade
+Frederick,67,D+,D+,8,2014,grade
+Frederick,57,C-,C-,9,2014,grade
+Frederick,81,F,F,10,2014,grade
+Frederick,70,D,D,11,2014,grade
+Frederick,39,B-,B-,12,2014,grade
+Frederick,41,B-,B-,22,2014,grade
+Frederick,32,B,B,23,2014,grade
+Greenville,33,B,B,1,2014,grade
+Greenville,49,C+,C+,2,2014,grade
+Greenville,9,A,A,6,2014,grade
+Greenville,14,A,A,7,2014,grade
+Greenville,7,A+,A+,8,2014,grade
+Greenville,7,A+,A+,9,2014,grade
+Greenville,11,A,A,10,2014,grade
+Greenville,8,A,A,11,2014,grade
+Greenville,7,A+,A+,12,2014,grade
+Greenville,80,F,F,22,2014,grade
+Greenville,70,D,D,23,2014,grade
+Hartford,69,D+,D+,1,2014,grade
+Hartford,60,C-,C-,2,2014,grade
+Hartford,80,F,F,6,2014,grade
+Hartford,77,F,F,7,2014,grade
+Hartford,75,D,D,8,2014,grade
+Hartford,79,F,F,9,2014,grade
+Hartford,78,F,F,10,2014,grade
+Hartford,80,F,F,11,2014,grade
+Hartford,78,F,F,12,2014,grade
+Hartford,76,F,F,22,2014,grade
+Hartford,74,D,D,23,2014,grade
+Houston,3,A+,A+,1,2014,grade
+Houston,2,A+,A+,2,2014,grade
+Houston,3,A+,A+,6,2014,grade
+Houston,16,A-,A-,7,2014,grade
+Houston,4,A+,A+,8,2014,grade
+Houston,8,A,A,9,2014,grade
+Houston,8,A,A,10,2014,grade
+Houston,4,A+,A+,11,2014,grade
+Houston,2,A+,A+,12,2014,grade
+Houston,3,A+,A+,22,2014,grade
+Houston,17,A-,A-,23,2014,grade
+Indianapolis,35,B,B,1,2014,grade
+Indianapolis,25,B+,B+,2,2014,grade
+Indianapolis,31,B,B,6,2014,grade
+Indianapolis,15,A-,A-,7,2014,grade
+Indianapolis,15,A-,A-,8,2014,grade
+Indianapolis,23,B+,B+,9,2014,grade
+Indianapolis,39,B-,B-,10,2014,grade
+Indianapolis,46,C+,C+,11,2014,grade
+Indianapolis,64,D+,D+,12,2014,grade
+Indianapolis,71,D,D,22,2014,grade
+Indianapolis,69,D+,D+,23,2014,grade
+Jacksonville,36,B-,B-,1,2014,grade
+Jacksonville,20,A-,A-,2,2014,grade
+Jacksonville,34,B,B,6,2014,grade
+Jacksonville,68,D+,D+,7,2014,grade
+Jacksonville,33,B,B,8,2014,grade
+Jacksonville,16,A-,A-,9,2014,grade
+Jacksonville,29,B,B,10,2014,grade
+Jacksonville,36,B-,B-,11,2014,grade
+Jacksonville,29,B,B,12,2014,grade
+Jacksonville,48,C+,C+,22,2014,grade
+Jacksonville,46,C+,C+,23,2014,grade
+Kansas City,29,B,B,1,2014,grade
+Kansas City,29,B,B,2,2014,grade
+Kansas City,26,B+,B+,6,2014,grade
+Kansas City,40,B-,B-,7,2014,grade
+Kansas City,39,B-,B-,8,2014,grade
+Kansas City,37,B-,B-,9,2014,grade
+Kansas City,25,B+,B+,10,2014,grade
+Kansas City,20,A-,A-,11,2014,grade
+Kansas City,13,A,A,12,2014,grade
+Kansas City,29,B,B,22,2014,grade
+Kansas City,57,C-,C-,23,2014,grade
+Las Vegas,37,B-,B-,1,2014,grade
+Las Vegas,33,B,B,2,2014,grade
+Las Vegas,23,B+,B+,6,2014,grade
+Las Vegas,47,C+,C+,7,2014,grade
+Las Vegas,31,B,B,8,2014,grade
+Las Vegas,13,A,A,9,2014,grade
+Las Vegas,31,B,B,10,2014,grade
+Las Vegas,18,A-,A-,11,2014,grade
+Las Vegas,22,B+,B+,12,2014,grade
+Las Vegas,14,A,A,22,2014,grade
+Las Vegas,43,C+,C+,23,2014,grade
+Lawrence,23,B+,B+,1,2014,grade
+Lawrence,45,C+,C+,2,2014,grade
+Lawrence,72,D,D,6,2014,grade
+Lawrence,70,D,D,7,2014,grade
+Lawrence,49,C+,C+,8,2014,grade
+Lawrence,60,C-,C-,9,2014,grade
+Lawrence,82,F,F,10,2014,grade
+Lawrence,69,D+,D+,11,2014,grade
+Lawrence,59,C-,C-,12,2014,grade
+Lawrence,21,A-,A-,22,2014,grade
+Lawrence,42,B-,B-,23,2014,grade
+Los Angeles,74,D,D,1,2014,grade
+Los Angeles,67,D+,D+,2,2014,grade
+Los Angeles,62,C-,C-,6,2014,grade
+Los Angeles,64,D+,D+,7,2014,grade
+Los Angeles,65,D+,D+,8,2014,grade
+Los Angeles,53,C,C,9,2014,grade
+Los Angeles,70,D,D,10,2014,grade
+Los Angeles,60,C-,C-,11,2014,grade
+Los Angeles,54,C,C,12,2014,grade
+Los Angeles,22,B+,B+,22,2014,grade
+Los Angeles,64,D+,D+,23,2014,grade
+Louisville,5,A+,A+,1,2014,grade
+Louisville,8,A,A,2,2014,grade
+Louisville,4,A+,A+,6,2014,grade
+Louisville,13,A,A,7,2014,grade
+Louisville,6,A+,A+,8,2014,grade
+Louisville,12,A,A,9,2014,grade
+Louisville,13,A,A,10,2014,grade
+Louisville,3,A+,A+,11,2014,grade
+Louisville,1,A+,A+,12,2014,grade
+Louisville,7,A+,A+,22,2014,grade
+Louisville,24,B+,B+,23,2014,grade
+Madison,61,C-,C-,1,2014,grade
+Madison,68,D+,D+,2,2014,grade
+Madison,49,C+,C+,6,2014,grade
+Madison,51,C,C,7,2014,grade
+Madison,57,C-,C-,8,2014,grade
+Madison,68,D+,D+,9,2014,grade
+Madison,41,B-,B-,10,2014,grade
+Madison,34,B,B,11,2014,grade
+Madison,39,B-,B-,12,2014,grade
+Madison,64,D+,D+,22,2014,grade
+Madison,80,F,F,23,2014,grade
+Miami,54,C,C,1,2014,grade
+Miami,58,C-,C-,2,2014,grade
+Miami,37,B-,B-,6,2014,grade
+Miami,26,B+,B+,7,2014,grade
+Miami,28,B+,B+,8,2014,grade
+Miami,21,A-,A-,9,2014,grade
+Miami,44,C+,C+,10,2014,grade
+Miami,58,C-,C-,11,2014,grade
+Miami,49,C+,C+,12,2014,grade
+Miami,20,A-,A-,22,2014,grade
+Miami,59,C-,C-,23,2014,grade
+Milwaukee,43,C+,C+,1,2014,grade
+Milwaukee,50,C,C,2,2014,grade
+Milwaukee,40,B-,B-,6,2014,grade
+Milwaukee,19,A-,A-,7,2014,grade
+Milwaukee,26,B+,B+,8,2014,grade
+Milwaukee,52,C,C,9,2014,grade
+Milwaukee,53,C,C,10,2014,grade
+Milwaukee,22,B+,B+,11,2014,grade
+Milwaukee,38,B-,B-,12,2014,grade
+Milwaukee,59,C-,C-,22,2014,grade
+Milwaukee,13,A,A,23,2014,grade
+Minneapolis,11,A,A,1,2014,grade
+Minneapolis,9,A,A,2,2014,grade
+Minneapolis,36,B-,B-,6,2014,grade
+Minneapolis,32,B,B,7,2014,grade
+Minneapolis,36,B-,B-,8,2014,grade
+Minneapolis,49,C+,C+,9,2014,grade
+Minneapolis,42,B-,B-,10,2014,grade
+Minneapolis,24,B+,B+,11,2014,grade
+Minneapolis,23,B+,B+,12,2014,grade
+Minneapolis,45,C+,C+,22,2014,grade
+Minneapolis,5,A+,A+,23,2014,grade
+Nashville,9,A,A,1,2014,grade
+Nashville,14,A,A,2,2014,grade
+Nashville,30,B,B,6,2014,grade
+Nashville,35,B,B,7,2014,grade
+Nashville,19,A-,A-,8,2014,grade
+Nashville,27,B+,B+,9,2014,grade
+Nashville,33,B,B,10,2014,grade
+Nashville,53,C,C,11,2014,grade
+Nashville,31,B,B,12,2014,grade
+Nashville,55,C,C,22,2014,grade
+Nashville,38,B-,B-,23,2014,grade
+New Haven,67,D+,D+,1,2014,grade
+New Haven,48,C+,C+,2,2014,grade
+New Haven,65,D+,D+,6,2014,grade
+New Haven,45,C+,C+,7,2014,grade
+New Haven,37,B-,B-,8,2014,grade
+New Haven,56,C,C,9,2014,grade
+New Haven,63,C-,C-,10,2014,grade
+New Haven,74,D,D,11,2014,grade
+New Haven,79,F,F,12,2014,grade
+New Haven,51,C,C,22,2014,grade
+New Haven,32,B,B,23,2014,grade
+New Orleans,26,B+,B+,1,2014,grade
+New Orleans,39,B-,B-,2,2014,grade
+New Orleans,18,A-,A-,6,2014,grade
+New Orleans,60,C-,C-,7,2014,grade
+New Orleans,42,B-,B-,8,2014,grade
+New Orleans,23,B+,B+,9,2014,grade
+New Orleans,16,A-,A-,10,2014,grade
+New Orleans,2,A+,A+,11,2014,grade
+New Orleans,11,A,A,12,2014,grade
+New Orleans,4,A+,A+,22,2014,grade
+New Orleans,44,C+,C+,23,2014,grade
+New York,47,C+,C+,1,2014,grade
+New York,69,D+,D+,2,2014,grade
+New York,20,A-,A-,6,2014,grade
+New York,17,A-,A-,7,2014,grade
+New York,24,B+,B+,8,2014,grade
+New York,28,B+,B+,9,2014,grade
+New York,43,C+,C+,10,2014,grade
+New York,19,A-,A-,11,2014,grade
+New York,21,A-,A-,12,2014,grade
+New York,13,A,A,22,2014,grade
+New York,20,A-,A-,23,2014,grade
+Newark,75,D,D,1,2014,grade
+Newark,70,D,D,2,2014,grade
+Newark,50,C,C,6,2014,grade
+Newark,54,C,C,7,2014,grade
+Newark,58,C-,C-,8,2014,grade
+Newark,58,C-,C-,9,2014,grade
+Newark,58,C-,C-,10,2014,grade
+Newark,26,B+,B+,11,2014,grade
+Newark,35,B,B,12,2014,grade
+Newark,50,C,C,22,2014,grade
+Newark,71,D,D,23,2014,grade
+Oakland,42,B-,B-,1,2014,grade
+Oakland,41,B-,B-,2,2014,grade
+Oakland,70,D,D,6,2014,grade
+Oakland,72,D,D,7,2014,grade
+Oakland,64,D+,D+,8,2014,grade
+Oakland,70,D,D,9,2014,grade
+Oakland,62,C-,C-,10,2014,grade
+Oakland,72,D,D,11,2014,grade
+Oakland,63,C-,C-,12,2014,grade
+Oakland,12,A,A,22,2014,grade
+Oakland,23,B+,B+,23,2014,grade
+Oklahoma City,16,A-,A-,1,2014,grade
+Oklahoma City,10,A,A,2,2014,grade
+Oklahoma City,19,A-,A-,6,2014,grade
+Oklahoma City,37,B-,B-,7,2014,grade
+Oklahoma City,34,B,B,8,2014,grade
+Oklahoma City,29,B,B,9,2014,grade
+Oklahoma City,18,A-,A-,10,2014,grade
+Oklahoma City,28,B+,B+,11,2014,grade
+Oklahoma City,9,A,A,12,2014,grade
+Oklahoma City,68,D+,D+,22,2014,grade
+Oklahoma City,3,A+,A+,23,2014,grade
+Orlando,13,A,A,1,2014,grade
+Orlando,15,A-,A-,2,2014,grade
+Orlando,6,A+,A+,6,2014,grade
+Orlando,8,A,A,7,2014,grade
+Orlando,18,A-,A-,8,2014,grade
+Orlando,5,A+,A+,9,2014,grade
+Orlando,6,A+,A+,10,2014,grade
+Orlando,6,A+,A+,11,2014,grade
+Orlando,4,A+,A+,12,2014,grade
+Orlando,36,B-,B-,22,2014,grade
+Orlando,28,B+,B+,23,2014,grade
+Oxnard,76,F,F,1,2014,grade
+Oxnard,80,F,F,2,2014,grade
+Oxnard,82,F,F,6,2014,grade
+Oxnard,82,F,F,7,2014,grade
+Oxnard,81,F,F,8,2014,grade
+Oxnard,80,F,F,9,2014,grade
+Oxnard,72,D,D,10,2014,grade
+Oxnard,82,F,F,11,2014,grade
+Oxnard,77,F,F,12,2014,grade
+Oxnard,69,D+,D+,22,2014,grade
+Oxnard,67,D+,D+,23,2014,grade
+Philadelphia,72,D,D,1,2014,grade
+Philadelphia,62,C-,C-,2,2014,grade
+Philadelphia,56,C,C,6,2014,grade
+Philadelphia,61,C-,C-,7,2014,grade
+Philadelphia,62,C-,C-,8,2014,grade
+Philadelphia,60,C-,C-,9,2014,grade
+Philadelphia,55,C,C,10,2014,grade
+Philadelphia,48,C+,C+,11,2014,grade
+Philadelphia,57,C-,C-,12,2014,grade
+Philadelphia,60,C-,C-,22,2014,grade
+Philadelphia,61,C-,C-,23,2014,grade
+Phoenix,32,B,B,1,2014,grade
+Phoenix,35,B,B,2,2014,grade
+Phoenix,28,B+,B+,6,2014,grade
+Phoenix,23,B+,B+,7,2014,grade
+Phoenix,39,B-,B-,8,2014,grade
+Phoenix,34,B,B,9,2014,grade
+Phoenix,24,B+,B+,10,2014,grade
+Phoenix,39,B-,B-,11,2014,grade
+Phoenix,15,A-,A-,12,2014,grade
+Phoenix,35,B,B,22,2014,grade
+Phoenix,30,B,B,23,2014,grade
+Pittsburgh,73,D,D,1,2014,grade
+Pittsburgh,78,F,F,2,2014,grade
+Pittsburgh,63,C-,C-,6,2014,grade
+Pittsburgh,65,D+,D+,7,2014,grade
+Pittsburgh,63,C-,C-,8,2014,grade
+Pittsburgh,62,C-,C-,9,2014,grade
+Pittsburgh,56,C,C,10,2014,grade
+Pittsburgh,64,D+,D+,11,2014,grade
+Pittsburgh,61,C-,C-,12,2014,grade
+Pittsburgh,81,F,F,22,2014,grade
+Pittsburgh,76,F,F,23,2014,grade
+Port St. Lucie,63,C-,C-,1,2014,grade
+Port St. Lucie,57,C-,C-,2,2014,grade
+Port St. Lucie,43,C+,C+,6,2014,grade
+Port St. Lucie,39,B-,B-,7,2014,grade
+Port St. Lucie,20,A-,A-,8,2014,grade
+Port St. Lucie,31,B,B,9,2014,grade
+Port St. Lucie,50,C,C,10,2014,grade
+Port St. Lucie,67,D+,D+,11,2014,grade
+Port St. Lucie,46,C+,C+,12,2014,grade
+Port St. Lucie,41,B-,B-,22,2014,grade
+Port St. Lucie,12,A,A,23,2014,grade
+Portland,41,B-,B-,1,2014,grade
+Portland,30,B,B,2,2014,grade
+Portland,61,C-,C-,6,2014,grade
+Portland,69,D+,D+,7,2014,grade
+Portland,69,D+,D+,8,2014,grade
+Portland,55,C,C,9,2014,grade
+Portland,49,C+,C+,10,2014,grade
+Portland,59,C-,C-,11,2014,grade
+Portland,67,D+,D+,12,2014,grade
+Portland,65,D+,D+,22,2014,grade
+Portland,36,B-,B-,23,2014,grade
+Providence,81,F,F,1,2014,grade
+Providence,81,F,F,2,2014,grade
+Providence,66,D+,D+,6,2014,grade
+Providence,66,D+,D+,7,2014,grade
+Providence,68,D+,D+,8,2014,grade
+Providence,76,F,F,9,2014,grade
+Providence,64,D+,D+,10,2014,grade
+Providence,44,C+,C+,11,2014,grade
+Providence,51,C,C,12,2014,grade
+Providence,79,F,F,22,2014,grade
+Providence,64,D+,D+,23,2014,grade
+Raleigh,19,A-,A-,1,2014,grade
+Raleigh,16,A-,A-,2,2014,grade
+Raleigh,42,B-,B-,6,2014,grade
+Raleigh,49,C+,C+,7,2014,grade
+Raleigh,30,B,B,8,2014,grade
+Raleigh,48,C+,C+,9,2014,grade
+Raleigh,22,B+,B+,10,2014,grade
+Raleigh,45,C+,C+,11,2014,grade
+Raleigh,36,B-,B-,12,2014,grade
+Raleigh,58,C-,C-,22,2014,grade
+Raleigh,27,B+,B+,23,2014,grade
+Richmond,10,A,A,1,2014,grade
+Richmond,6,A+,A+,2,2014,grade
+Richmond,13,A,A,6,2014,grade
+Richmond,27,B+,B+,7,2014,grade
+Richmond,16,A-,A-,8,2014,grade
+Richmond,22,B+,B+,9,2014,grade
+Richmond,3,A+,A+,10,2014,grade
+Richmond,7,A+,A+,11,2014,grade
+Richmond,27,B+,B+,12,2014,grade
+Richmond,15,A-,A-,22,2014,grade
+Richmond,11,A,A,23,2014,grade
+Riverside,71,D,D,1,2014,grade
+Riverside,72,D,D,2,2014,grade
+Riverside,74,D,D,6,2014,grade
+Riverside,71,D,D,7,2014,grade
+Riverside,74,D,D,8,2014,grade
+Riverside,66,D+,D+,9,2014,grade
+Riverside,67,D+,D+,10,2014,grade
+Riverside,78,F,F,11,2014,grade
+Riverside,69,D+,D+,12,2014,grade
+Riverside,61,C-,C-,22,2014,grade
+Riverside,78,F,F,23,2014,grade
+Rochester,30,B,B,1,2014,grade
+Rochester,5,A+,A+,2,2014,grade
+Rochester,73,D,D,6,2014,grade
+Rochester,62,C-,C-,7,2014,grade
+Rochester,73,D,D,8,2014,grade
+Rochester,75,D,D,9,2014,grade
+Rochester,59,C-,C-,10,2014,grade
+Rochester,66,D+,D+,11,2014,grade
+Rochester,81,F,F,12,2014,grade
+Rochester,75,D,D,22,2014,grade
+Rochester,21,A-,A-,23,2014,grade
+Sacramento,82,F,F,1,2014,grade
+Sacramento,76,F,F,2,2014,grade
+Sacramento,77,F,F,6,2014,grade
+Sacramento,81,F,F,7,2014,grade
+Sacramento,80,F,F,8,2014,grade
+Sacramento,81,F,F,9,2014,grade
+Sacramento,68,D+,D+,10,2014,grade
+Sacramento,77,F,F,11,2014,grade
+Sacramento,44,C+,C+,12,2014,grade
+Sacramento,56,C,C,22,2014,grade
+Sacramento,52,C,C,23,2014,grade
+Salt Lake City,12,A,A,1,2014,grade
+Salt Lake City,11,A,A,2,2014,grade
+Salt Lake City,16,A-,A-,6,2014,grade
+Salt Lake City,34,B,B,7,2014,grade
+Salt Lake City,17,A-,A-,8,2014,grade
+Salt Lake City,9,A,A,9,2014,grade
+Salt Lake City,19,A-,A-,10,2014,grade
+Salt Lake City,13,A,A,11,2014,grade
+Salt Lake City,24,B+,B+,12,2014,grade
+Salt Lake City,41,B-,B-,22,2014,grade
+Salt Lake City,64,D+,D+,23,2014,grade
+San Antonio,8,A,A,1,2014,grade
+San Antonio,18,A-,A-,2,2014,grade
+San Antonio,11,A,A,6,2014,grade
+San Antonio,5,A+,A+,7,2014,grade
+San Antonio,11,A,A,8,2014,grade
+San Antonio,17,A-,A-,9,2014,grade
+San Antonio,15,A-,A-,10,2014,grade
+San Antonio,9,A,A,11,2014,grade
+San Antonio,5,A+,A+,12,2014,grade
+San Antonio,26,B+,B+,22,2014,grade
+San Antonio,15,A-,A-,23,2014,grade
+San Diego,78,F,F,1,2014,grade
+San Diego,77,F,F,2,2014,grade
+San Diego,71,D,D,6,2014,grade
+San Diego,73,D,D,7,2014,grade
+San Diego,71,D,D,8,2014,grade
+San Diego,67,D+,D+,9,2014,grade
+San Diego,61,C-,C-,10,2014,grade
+San Diego,71,D,D,11,2014,grade
+San Diego,65,D+,D+,12,2014,grade
+San Diego,40,B-,B-,22,2014,grade
+San Diego,39,B-,B-,23,2014,grade
+San Francisco,60,C-,C-,1,2014,grade
+San Francisco,63,C-,C-,2,2014,grade
+San Francisco,68,D+,D+,6,2014,grade
+San Francisco,67,D+,D+,7,2014,grade
+San Francisco,70,D,D,8,2014,grade
+San Francisco,72,D,D,9,2014,grade
+San Francisco,73,D,D,10,2014,grade
+San Francisco,43,C+,C+,11,2014,grade
+San Francisco,70,D,D,12,2014,grade
+San Francisco,37,B-,B-,22,2014,grade
+San Francisco,31,B,B,23,2014,grade
+San Jose,68,D+,D+,1,2014,grade
+San Jose,73,D,D,2,2014,grade
+San Jose,76,F,F,6,2014,grade
+San Jose,78,F,F,7,2014,grade
+San Jose,72,D,D,8,2014,grade
+San Jose,74,D,D,9,2014,grade
+San Jose,74,D,D,10,2014,grade
+San Jose,79,F,F,11,2014,grade
+San Jose,71,D,D,12,2014,grade
+San Jose,23,B+,B+,22,2014,grade
+San Jose,62,C-,C-,23,2014,grade
+Santa Rosa,70,D,D,1,2014,grade
+Santa Rosa,78,F,F,2,2014,grade
+Santa Rosa,81,F,F,6,2014,grade
+Santa Rosa,76,F,F,7,2014,grade
+Santa Rosa,82,F,F,8,2014,grade
+Santa Rosa,77,F,F,9,2014,grade
+Santa Rosa,51,C,C,10,2014,grade
+Santa Rosa,81,F,F,11,2014,grade
+Santa Rosa,81,F,F,12,2014,grade
+Santa Rosa,72,D,D,22,2014,grade
+Santa Rosa,77,F,F,23,2014,grade
+Seattle,38,B-,B-,1,2014,grade
+Seattle,22,B+,B+,2,2014,grade
+Seattle,53,C,C,6,2014,grade
+Seattle,43,C+,C+,7,2014,grade
+Seattle,66,D+,D+,8,2014,grade
+Seattle,47,C+,C+,9,2014,grade
+Seattle,36,B-,B-,10,2014,grade
+Seattle,57,C-,C-,11,2014,grade
+Seattle,66,D+,D+,12,2014,grade
+Seattle,53,C,C,22,2014,grade
+Seattle,14,A,A,23,2014,grade
+St. Louis,51,C,C,1,2014,grade
+St. Louis,42,B-,B-,2,2014,grade
+St. Louis,47,C+,C+,6,2014,grade
+St. Louis,45,C+,C+,7,2014,grade
+St. Louis,60,C-,C-,8,2014,grade
+St. Louis,49,C+,C+,9,2014,grade
+St. Louis,45,C+,C+,10,2014,grade
+St. Louis,31,B,B,11,2014,grade
+St. Louis,32,B,B,12,2014,grade
+St. Louis,62,C-,C-,22,2014,grade
+St. Louis,53,C,C,23,2014,grade
+Tacoma,53,C,C,1,2014,grade
+Tacoma,23,B+,B+,2,2014,grade
+Tacoma,48,C+,C+,6,2014,grade
+Tacoma,21,A-,A-,7,2014,grade
+Tacoma,46,C+,C+,8,2014,grade
+Tacoma,38,B-,B-,9,2014,grade
+Tacoma,57,C-,C-,10,2014,grade
+Tacoma,53,C,C,11,2014,grade
+Tacoma,53,C,C,12,2014,grade
+Tacoma,17,A-,A-,22,2014,grade
+Tacoma,16,A-,A-,23,2014,grade
+Tampa,46,C+,C+,1,2014,grade
+Tampa,44,C+,C+,2,2014,grade
+Tampa,45,C+,C+,6,2014,grade
+Tampa,55,C,C,7,2014,grade
+Tampa,51,C,C,8,2014,grade
+Tampa,33,B,B,9,2014,grade
+Tampa,46,C+,C+,10,2014,grade
+Tampa,51,C,C,11,2014,grade
+Tampa,34,B,B,12,2014,grade
+Tampa,44,C+,C+,22,2014,grade
+Tampa,48,C+,C+,23,2014,grade
+Tucson,56,C,C,1,2014,grade
+Tucson,51,C,C,2,2014,grade
+Tucson,64,D+,D+,6,2014,grade
+Tucson,51,C,C,7,2014,grade
+Tucson,61,C-,C-,8,2014,grade
+Tucson,43,C+,C+,9,2014,grade
+Tucson,54,C,C,10,2014,grade
+Tucson,68,D+,D+,11,2014,grade
+Tucson,80,F,F,12,2014,grade
+Tucson,10,A,A,22,2014,grade
+Tucson,79,F,F,23,2014,grade
+Tulsa,25,B+,B+,1,2014,grade
+Tulsa,34,B,B,2,2014,grade
+Tulsa,33,B,B,6,2014,grade
+Tulsa,57,C-,C-,7,2014,grade
+Tulsa,47,C+,C+,8,2014,grade
+Tulsa,26,B+,B+,9,2014,grade
+Tulsa,28,B+,B+,10,2014,grade
+Tulsa,40,B-,B-,11,2014,grade
+Tulsa,14,A,A,12,2014,grade
+Tulsa,78,F,F,22,2014,grade
+Tulsa,48,C+,C+,23,2014,grade
+Virginia Beach,20,A-,A-,1,2014,grade
+Virginia Beach,26,B+,B+,2,2014,grade
+Virginia Beach,7,A+,A+,6,2014,grade
+Virginia Beach,3,A+,A+,7,2014,grade
+Virginia Beach,3,A+,A+,8,2014,grade
+Virginia Beach,14,A,A,9,2014,grade
+Virginia Beach,4,A+,A+,10,2014,grade
+Virginia Beach,20,A-,A-,11,2014,grade
+Virginia Beach,6,A+,A+,12,2014,grade
+Virginia Beach,28,B+,B+,22,2014,grade
+Virginia Beach,17,A-,A-,23,2014,grade
+Washington,18,A-,A-,1,2014,grade
+Washington,24,B+,B+,2,2014,grade
+Washington,25,B+,B+,6,2014,grade
+Washington,25,B+,B+,7,2014,grade
+Washington,14,A,A,8,2014,grade
+Washington,35,B,B,9,2014,grade
+Washington,32,B,B,10,2014,grade
+Washington,38,B-,B-,11,2014,grade
+Washington,43,C+,C+,12,2014,grade
+Washington,18,A-,A-,22,2014,grade
+Washington,9,A,A,23,2014,grade
+West Palm Beach,40,B-,B-,1,2014,grade
+West Palm Beach,38,B-,B-,2,2014,grade
+West Palm Beach,38,B-,B-,6,2014,grade
+West Palm Beach,28,B+,B+,7,2014,grade
+West Palm Beach,44,C+,C+,8,2014,grade
+West Palm Beach,11,A,A,9,2014,grade
+West Palm Beach,26,B+,B+,10,2014,grade
+West Palm Beach,42,B-,B-,11,2014,grade
+West Palm Beach,74,D,D,12,2014,grade
+West Palm Beach,11,A,A,22,2014,grade
+West Palm Beach,45,C+,C+,23,2014,grade
+Winston-Salem,27,B+,B+,1,2014,grade
+Winston-Salem,53,C,C,2,2014,grade
+Winston-Salem,10,A,A,6,2014,grade
+Winston-Salem,1,A+,A+,7,2014,grade
+Winston-Salem,2,A+,A+,8,2014,grade
+Winston-Salem,4,A+,A+,9,2014,grade
+Winston-Salem,12,A,A,10,2014,grade
+Winston-Salem,32,B,B,11,2014,grade
+Winston-Salem,25,B+,B+,12,2014,grade
+Winston-Salem,66,D+,D+,22,2014,grade
+Winston-Salem,7,A+,A+,23,2014,grade
+Worcester,77,F,F,1,2014,grade
+Worcester,74,D,D,2,2014,grade
+Worcester,79,F,F,6,2014,grade
+Worcester,74,D,D,7,2014,grade
+Worcester,79,F,F,8,2014,grade
+Worcester,82,F,F,9,2014,grade
+Worcester,80,F,F,10,2014,grade
+Worcester,75,D,D,11,2014,grade
+Worcester,68,D+,D+,12,2014,grade
+Worcester,77,F,F,22,2014,grade
+Worcester,82,F,F,23,2014,grade
+Manchester,1,A+,A+,1,2015,grade
+Manchester,2,A+,A+,2,2015,grade
+Manchester,3,A+,A+,6,2015,grade
+Manchester,14,A-,A-,7,2015,grade
+Manchester,19,A-,A-,8,2015,grade
+Manchester,2,A+,A+,9,2015,grade
+Manchester,1,A+,A+,10,2015,grade
+Manchester,6,A,A,11,2015,grade
+Manchester,5,A+,A+,12,2015,grade
+Manchester,15,A-,A-,22,2015,grade
+Manchester,28,B+,B+,23,2015,grade
+Dallas,2,A+,A+,1,2015,grade
+Dallas,7,A+,A+,2,2015,grade
+Dallas,2,A+,A+,6,2015,grade
+Dallas,4,A+,A+,7,2015,grade
+Dallas,1,A+,A+,8,2015,grade
+Dallas,3,A+,A+,9,2015,grade
+Dallas,5,A+,A+,10,2015,grade
+Dallas,4,A+,A+,11,2015,grade
+Dallas,6,A+,A+,12,2015,grade
+Dallas,20,B+,B+,22,2015,grade
+Dallas,23,A-,A-,23,2015,grade
+Richmond,3,A+,A+,1,2015,grade
+Richmond,5,A+,A+,2,2015,grade
+Richmond,7,A+,A+,6,2015,grade
+Richmond,1,A+,A+,7,2015,grade
+Richmond,7,A+,A+,8,2015,grade
+Richmond,10,A+,A+,9,2015,grade
+Richmond,8,A+,A+,10,2015,grade
+Richmond,11,A,A,11,2015,grade
+Richmond,19,A-,A-,12,2015,grade
+Richmond,2,A+,A+,22,2015,grade
+Richmond,4,A+,A+,23,2015,grade
+Austin,4,A+,A+,1,2015,grade
+Austin,9,A+,A+,2,2015,grade
+Austin,36,B,B,6,2015,grade
+Austin,44,B-,B-,7,2015,grade
+Austin,50,B-,B-,8,2015,grade
+Austin,23,A-,A-,9,2015,grade
+Austin,40,B,B,10,2015,grade
+Austin,36,B,B,11,2015,grade
+Austin,48,B-,B-,12,2015,grade
+Austin,43,B-,B-,22,2015,grade
+Austin,8,A+,A+,23,2015,grade
+Knoxville,5,A+,A+,1,2015,grade
+Knoxville,1,A+,A+,2,2015,grade
+Knoxville,4,A+,A+,6,2015,grade
+Knoxville,7,A,A,7,2015,grade
+Knoxville,2,A+,A+,8,2015,grade
+Knoxville,13,A,A,9,2015,grade
+Knoxville,4,A+,A+,10,2015,grade
+Knoxville,8,A,A,11,2015,grade
+Knoxville,2,A+,A+,12,2015,grade
+Knoxville,17,A-,A-,22,2015,grade
+Knoxville,84,D,D,23,2015,grade
+Nashville,6,A+,A+,1,2015,grade
+Nashville,11,A+,A+,2,2015,grade
+Nashville,14,A-,A-,6,2015,grade
+Nashville,18,B+,B+,7,2015,grade
+Nashville,23,B+,B+,8,2015,grade
+Nashville,12,A,A,9,2015,grade
+Nashville,12,A,A,10,2015,grade
+Nashville,16,A-,A-,11,2015,grade
+Nashville,17,A-,A-,12,2015,grade
+Nashville,16,A-,A-,22,2015,grade
+Nashville,71,C-,C-,23,2015,grade
+Houston,7,A+,A+,1,2015,grade
+Houston,4,A+,A+,2,2015,grade
+Houston,6,A+,A+,6,2015,grade
+Houston,10,A,A,7,2015,grade
+Houston,11,A,A,8,2015,grade
+Houston,6,A+,A+,9,2015,grade
+Houston,10,A+,A+,10,2015,grade
+Houston,13,A-,A-,11,2015,grade
+Houston,8,A+,A+,12,2015,grade
+Houston,19,B+,B+,22,2015,grade
+Houston,26,B+,B+,23,2015,grade
+Fort Collins,8,A,A,1,2015,grade
+Fort Collins,17,A,A,2,2015,grade
+Fort Collins,53,B-,B-,6,2015,grade
+Fort Collins,51,B-,B-,7,2015,grade
+Fort Collins,38,B,B,8,2015,grade
+Fort Collins,37,B,B,9,2015,grade
+Fort Collins,31,B+,B+,10,2015,grade
+Fort Collins,63,C+,C+,11,2015,grade
+Fort Collins,87,D,D,12,2015,grade
+Fort Collins,80,C-,C-,22,2015,grade
+Fort Collins,1,A+,A+,23,2015,grade
+Boulder,9,A,A,1,2015,grade
+Boulder,13,A+,A+,2,2015,grade
+Boulder,51,B-,B-,6,2015,grade
+Boulder,32,B,B,7,2015,grade
+Boulder,44,B-,B-,8,2015,grade
+Boulder,44,B-,B-,9,2015,grade
+Boulder,34,B,B,10,2015,grade
+Boulder,42,B-,B-,11,2015,grade
+Boulder,89,D,D,12,2015,grade
+Boulder,65,C,C,22,2015,grade
+Boulder,39,B-,B-,23,2015,grade
+San Antonio,10,A,A,1,2015,grade
+San Antonio,25,A-,A-,2,2015,grade
+San Antonio,10,A,A,6,2015,grade
+San Antonio,16,A-,A-,7,2015,grade
+San Antonio,10,A+,A+,8,2015,grade
+San Antonio,9,A+,A+,9,2015,grade
+San Antonio,13,A,A,10,2015,grade
+San Antonio,9,A,A,11,2015,grade
+San Antonio,10,A+,A+,12,2015,grade
+San Antonio,44,B-,B-,22,2015,grade
+San Antonio,7,A+,A+,23,2015,grade
+Oklahoma City,11,A-,A-,1,2015,grade
+Oklahoma City,3,A+,A+,2,2015,grade
+Oklahoma City,5,A+,A+,6,2015,grade
+Oklahoma City,3,A+,A+,7,2015,grade
+Oklahoma City,3,A+,A+,8,2015,grade
+Oklahoma City,11,A+,A+,9,2015,grade
+Oklahoma City,2,A+,A+,10,2015,grade
+Oklahoma City,14,A-,A-,11,2015,grade
+Oklahoma City,16,A-,A-,12,2015,grade
+Oklahoma City,11,A,A,22,2015,grade
+Oklahoma City,47,C+,C+,23,2015,grade
+Fort Worth,12,A-,A-,1,2015,grade
+Fort Worth,20,A-,A-,2,2015,grade
+Fort Worth,21,B+,B+,6,2015,grade
+Fort Worth,28,B,B,7,2015,grade
+Fort Worth,25,B+,B+,8,2015,grade
+Fort Worth,15,A,A,9,2015,grade
+Fort Worth,15,A,A,10,2015,grade
+Fort Worth,35,B,B,11,2015,grade
+Fort Worth,30,B,B,12,2015,grade
+Fort Worth,51,B-,B-,22,2015,grade
+Fort Worth,62,C,C,23,2015,grade
+Salt Lake City,13,A-,A-,1,2015,grade
+Salt Lake City,27,A-,A-,2,2015,grade
+Salt Lake City,12,A-,A-,6,2015,grade
+Salt Lake City,15,A-,A-,7,2015,grade
+Salt Lake City,14,A,A,8,2015,grade
+Salt Lake City,27,B+,B+,9,2015,grade
+Salt Lake City,22,A-,A-,10,2015,grade
+Salt Lake City,10,A,A,11,2015,grade
+Salt Lake City,9,A+,A+,12,2015,grade
+Salt Lake City,9,A,A,22,2015,grade
+Salt Lake City,33,B,B,23,2015,grade
+Durham,14,A-,A-,1,2015,grade
+Durham,58,C+,C+,2,2015,grade
+Durham,15,A-,A-,6,2015,grade
+Durham,27,B,B,7,2015,grade
+Durham,6,A+,A+,8,2015,grade
+Durham,5,A+,A+,9,2015,grade
+Durham,14,A,A,10,2015,grade
+Durham,25,B+,B+,11,2015,grade
+Durham,47,B-,B-,12,2015,grade
+Durham,8,A,A,22,2015,grade
+Durham,3,A+,A+,23,2015,grade
+Columbus,15,A-,A-,1,2015,grade
+Columbus,14,A,A,2,2015,grade
+Columbus,35,B,B,6,2015,grade
+Columbus,45,B-,B-,7,2015,grade
+Columbus,26,B+,B+,8,2015,grade
+Columbus,43,B,B,9,2015,grade
+Columbus,46,B-,B-,10,2015,grade
+Columbus,32,B,B,11,2015,grade
+Columbus,39,B-,B-,12,2015,grade
+Columbus,59,C+,C+,22,2015,grade
+Columbus,5,A+,A+,23,2015,grade
+Birmingham,16,A-,A-,1,2015,grade
+Birmingham,20,A-,A-,2,2015,grade
+Birmingham,11,A,A,6,2015,grade
+Birmingham,8,A,A,7,2015,grade
+Birmingham,5,A+,A+,8,2015,grade
+Birmingham,35,B,B,9,2015,grade
+Birmingham,19,A-,A-,10,2015,grade
+Birmingham,21,B+,B+,11,2015,grade
+Birmingham,7,A+,A+,12,2015,grade
+Birmingham,1,A+,A+,22,2015,grade
+Birmingham,73,C-,C-,23,2015,grade
+Virginia Beach,17,A-,A-,1,2015,grade
+Virginia Beach,10,A+,A+,2,2015,grade
+Virginia Beach,9,A,A,6,2015,grade
+Virginia Beach,13,A-,A-,7,2015,grade
+Virginia Beach,8,A+,A+,8,2015,grade
+Virginia Beach,16,A-,A-,9,2015,grade
+Virginia Beach,6,A+,A+,10,2015,grade
+Virginia Beach,3,A+,A+,11,2015,grade
+Virginia Beach,18,A-,A-,12,2015,grade
+Virginia Beach,14,A-,A-,22,2015,grade
+Virginia Beach,50,C+,C+,23,2015,grade
+Boise,18,B+,B+,1,2015,grade
+Boise,8,A+,A+,2,2015,grade
+Boise,54,C+,C+,6,2015,grade
+Boise,21,B+,B+,7,2015,grade
+Boise,60,C+,C+,8,2015,grade
+Boise,48,B-,B-,9,2015,grade
+Boise,49,B-,B-,10,2015,grade
+Boise,60,C+,C+,11,2015,grade
+Boise,79,D+,D+,12,2015,grade
+Boise,47,B-,B-,22,2015,grade
+Boise,12,A+,A+,23,2015,grade
+Columbia,19,B+,B+,1,2015,grade
+Columbia,19,A-,A-,2,2015,grade
+Columbia,8,A,A,6,2015,grade
+Columbia,5,A,A,7,2015,grade
+Columbia,4,A+,A+,8,2015,grade
+Columbia,26,B+,B+,9,2015,grade
+Columbia,9,A+,A+,10,2015,grade
+Columbia,12,A,A,11,2015,grade
+Columbia,4,A+,A+,12,2015,grade
+Columbia,6,A+,A+,22,2015,grade
+Columbia,20,A-,A-,23,2015,grade
+Atlanta,20,B+,B+,1,2015,grade
+Atlanta,22,A-,A-,2,2015,grade
+Atlanta,28,B,B,6,2015,grade
+Atlanta,39,B,B,7,2015,grade
+Atlanta,32,B,B,8,2015,grade
+Atlanta,33,B+,B+,9,2015,grade
+Atlanta,29,B+,B+,10,2015,grade
+Atlanta,22,B+,B+,11,2015,grade
+Atlanta,28,B+,B+,12,2015,grade
+Atlanta,45,B-,B-,22,2015,grade
+Atlanta,41,B-,B-,23,2015,grade
+Indianapolis,21,B+,B+,1,2015,grade
+Indianapolis,26,A-,A-,2,2015,grade
+Indianapolis,17,A-,A-,6,2015,grade
+Indianapolis,20,B+,B+,7,2015,grade
+Indianapolis,22,A-,A-,8,2015,grade
+Indianapolis,25,A-,A-,9,2015,grade
+Indianapolis,30,B+,B+,10,2015,grade
+Indianapolis,15,A-,A-,11,2015,grade
+Indianapolis,14,A,A,12,2015,grade
+Indianapolis,72,C,C,22,2015,grade
+Indianapolis,15,A,A,23,2015,grade
+Kansas City,22,B+,B+,1,2015,grade
+Kansas City,12,A+,A+,2,2015,grade
+Kansas City,20,B+,B+,6,2015,grade
+Kansas City,23,B+,B+,7,2015,grade
+Kansas City,29,B+,B+,8,2015,grade
+Kansas City,20,A-,A-,9,2015,grade
+Kansas City,18,A-,A-,10,2015,grade
+Kansas City,19,B+,B+,11,2015,grade
+Kansas City,32,B,B,12,2015,grade
+Kansas City,28,B,B,22,2015,grade
+Kansas City,87,F,F,23,2015,grade
+Raleigh,23,B+,B+,1,2015,grade
+Raleigh,32,B+,B+,2,2015,grade
+Raleigh,18,B+,B+,6,2015,grade
+Raleigh,26,B,B,7,2015,grade
+Raleigh,21,A-,A-,8,2015,grade
+Raleigh,24,A-,A-,9,2015,grade
+Raleigh,17,A,A,10,2015,grade
+Raleigh,28,B+,B+,11,2015,grade
+Raleigh,22,B+,B+,12,2015,grade
+Raleigh,5,A+,A+,22,2015,grade
+Raleigh,30,B+,B+,23,2015,grade
+Detroit,24,B+,B+,1,2015,grade
+Detroit,34,B+,B+,2,2015,grade
+Detroit,55,C+,C+,6,2015,grade
+Detroit,57,C+,C+,7,2015,grade
+Detroit,43,B-,B-,8,2015,grade
+Detroit,54,C+,C+,9,2015,grade
+Detroit,62,C+,C+,10,2015,grade
+Detroit,53,B-,B-,11,2015,grade
+Detroit,52,C+,C+,12,2015,grade
+Detroit,40,B-,B-,22,2015,grade
+Detroit,42,B-,B-,23,2015,grade
+Denver,25,B+,B+,1,2015,grade
+Denver,23,A-,A-,2,2015,grade
+Denver,47,B-,B-,6,2015,grade
+Denver,64,C+,C+,7,2015,grade
+Denver,45,B-,B-,8,2015,grade
+Denver,49,B-,B-,9,2015,grade
+Denver,39,B,B,10,2015,grade
+Denver,59,C+,C+,11,2015,grade
+Denver,40,B-,B-,12,2015,grade
+Denver,64,C,C,22,2015,grade
+Denver,25,B+,B+,23,2015,grade
+Greensboro,26,B+,B+,1,2015,grade
+Greensboro,24,A-,A-,2,2015,grade
+Greensboro,29,B,B,6,2015,grade
+Greensboro,38,B,B,7,2015,grade
+Greensboro,13,A,A,8,2015,grade
+Greensboro,51,B-,B-,9,2015,grade
+Greensboro,24,B+,B+,10,2015,grade
+Greensboro,69,C,C,11,2015,grade
+Greensboro,15,A-,A-,12,2015,grade
+Greensboro,10,A,A,22,2015,grade
+Greensboro,80,D+,D+,23,2015,grade
+Greenville,27,B+,B+,1,2015,grade
+Greenville,16,A,A,2,2015,grade
+Greenville,40,B,B,6,2015,grade
+Greenville,50,B-,B-,7,2015,grade
+Greenville,20,A-,A-,8,2015,grade
+Greenville,31,B+,B+,9,2015,grade
+Greenville,45,B-,B-,10,2015,grade
+Greenville,65,C+,C+,11,2015,grade
+Greenville,49,C+,C+,12,2015,grade
+Greenville,30,B,B,22,2015,grade
+Greenville,40,B-,B-,23,2015,grade
+Sarasota,28,B+,B+,1,2015,grade
+Sarasota,38,B,B,2,2015,grade
+Sarasota,38,B,B,6,2015,grade
+Sarasota,34,B,B,7,2015,grade
+Sarasota,55,B-,B-,8,2015,grade
+Sarasota,7,A+,A+,9,2015,grade
+Sarasota,51,B-,B-,10,2015,grade
+Sarasota,52,B-,B-,11,2015,grade
+Sarasota,69,C,C,12,2015,grade
+Sarasota,36,B,B,22,2015,grade
+Sarasota,60,C,C,23,2015,grade
+Colorado Springs,29,B+,B+,1,2015,grade
+Colorado Springs,6,A+,A+,2,2015,grade
+Colorado Springs,68,C,C,6,2015,grade
+Colorado Springs,85,D+,D+,7,2015,grade
+Colorado Springs,71,C,C,8,2015,grade
+Colorado Springs,74,D+,D+,9,2015,grade
+Colorado Springs,52,B-,B-,10,2015,grade
+Colorado Springs,55,B-,B-,11,2015,grade
+Colorado Springs,36,B-,B-,12,2015,grade
+Colorado Springs,46,B-,B-,22,2015,grade
+Colorado Springs,51,C+,C+,23,2015,grade
+Charleston,30,B+,B+,1,2015,grade
+Charleston,47,B-,B-,2,2015,grade
+Charleston,22,B+,B+,6,2015,grade
+Charleston,9,A,A,7,2015,grade
+Charleston,12,A,A,8,2015,grade
+Charleston,22,A-,A-,9,2015,grade
+Charleston,33,B,B,10,2015,grade
+Charleston,40,B,B,11,2015,grade
+Charleston,35,B-,B-,12,2015,grade
+Charleston,18,B+,B+,22,2015,grade
+Charleston,2,A+,A+,23,2015,grade
+Omaha,31,B,B,1,2015,grade
+Omaha,28,A-,A-,2,2015,grade
+Omaha,31,B,B,6,2015,grade
+Omaha,59,C+,C+,7,2015,grade
+Omaha,17,A,A,8,2015,grade
+Omaha,34,B,B,9,2015,grade
+Omaha,11,A,A,10,2015,grade
+Omaha,34,B,B,11,2015,grade
+Omaha,78,D+,D+,12,2015,grade
+Omaha,4,A+,A+,22,2015,grade
+Omaha,81,D+,D+,23,2015,grade
+Jacksonville,32,B,B,1,2015,grade
+Jacksonville,36,B,B,2,2015,grade
+Jacksonville,39,B,B,6,2015,grade
+Jacksonville,35,B,B,7,2015,grade
+Jacksonville,54,B-,B-,8,2015,grade
+Jacksonville,21,A-,A-,9,2015,grade
+Jacksonville,36,B,B,10,2015,grade
+Jacksonville,43,B-,B-,11,2015,grade
+Jacksonville,60,C+,C+,12,2015,grade
+Jacksonville,66,C,C,22,2015,grade
+Jacksonville,36,B,B,23,2015,grade
+Lancaster,33,B,B,1,2015,grade
+Lancaster,30,B+,B+,2,2015,grade
+Lancaster,87,D+,D+,6,2015,grade
+Lancaster,74,C,C,7,2015,grade
+Lancaster,85,D,D,8,2015,grade
+Lancaster,66,C,C,9,2015,grade
+Lancaster,77,D+,D+,10,2015,grade
+Lancaster,83,D+,D+,11,2015,grade
+Lancaster,94,F,F,12,2015,grade
+Lancaster,82,C-,C-,22,2015,grade
+Lancaster,9,A+,A+,23,2015,grade
+New Orleans,34,B,B,1,2015,grade
+New Orleans,37,B,B,2,2015,grade
+New Orleans,25,B+,B+,6,2015,grade
+New Orleans,12,A-,A-,7,2015,grade
+New Orleans,9,A+,A+,8,2015,grade
+New Orleans,58,C+,C+,9,2015,grade
+New Orleans,27,B+,B+,10,2015,grade
+New Orleans,2,A+,A+,11,2015,grade
+New Orleans,79,D+,D+,12,2015,grade
+New Orleans,24,B,B,22,2015,grade
+New Orleans,29,B+,B+,23,2015,grade
+Louisville,35,B,B,1,2015,grade
+Louisville,53,C+,C+,2,2015,grade
+Louisville,43,B-,B-,6,2015,grade
+Louisville,37,B,B,7,2015,grade
+Louisville,23,B+,B+,8,2015,grade
+Louisville,30,B+,B+,9,2015,grade
+Louisville,71,C-,C-,10,2015,grade
+Louisville,29,B+,B+,11,2015,grade
+Louisville,66,C,C,12,2015,grade
+Louisville,22,B+,B+,22,2015,grade
+Louisville,11,A+,A+,23,2015,grade
+Akron,36,B,B,1,2015,grade
+Akron,29,B+,B+,2,2015,grade
+Akron,24,B+,B+,6,2015,grade
+Akron,6,A,A,7,2015,grade
+Akron,34,B,B,8,2015,grade
+Akron,41,B,B,9,2015,grade
+Akron,28,B+,B+,10,2015,grade
+Akron,18,A-,A-,11,2015,grade
+Akron,25,B+,B+,12,2015,grade
+Akron,84,C-,C-,22,2015,grade
+Akron,22,A-,A-,23,2015,grade
+Portland,37,B,B,1,2015,grade
+Portland,44,B-,B-,2,2015,grade
+Portland,62,C+,C+,6,2015,grade
+Portland,48,B-,B-,7,2015,grade
+Portland,73,C-,C-,8,2015,grade
+Portland,64,C,C,9,2015,grade
+Portland,63,C+,C+,10,2015,grade
+Portland,66,C+,C+,11,2015,grade
+Portland,42,B-,B-,12,2015,grade
+Portland,81,C-,C-,22,2015,grade
+Portland,16,A,A,23,2015,grade
+Minneapolis,38,B-,B-,1,2015,grade
+Minneapolis,18,A-,A-,2,2015,grade
+Minneapolis,76,C-,C-,6,2015,grade
+Minneapolis,73,C,C,7,2015,grade
+Minneapolis,69,C,C,8,2015,grade
+Minneapolis,76,D+,D+,9,2015,grade
+Minneapolis,73,C-,C-,10,2015,grade
+Minneapolis,75,C-,C-,11,2015,grade
+Minneapolis,68,C,C,12,2015,grade
+Minneapolis,70,C,C,22,2015,grade
+Minneapolis,21,A-,A-,23,2015,grade
+Orlando,39,B-,B-,1,2015,grade
+Orlando,49,B-,B-,2,2015,grade
+Orlando,26,B+,B+,6,2015,grade
+Orlando,24,B+,B+,7,2015,grade
+Orlando,36,B,B,8,2015,grade
+Orlando,19,A-,A-,9,2015,grade
+Orlando,32,B+,B+,10,2015,grade
+Orlando,27,B+,B+,11,2015,grade
+Orlando,29,B+,B+,12,2015,grade
+Orlando,38,B,B,22,2015,grade
+Orlando,85,D,D,23,2015,grade
+Dayton,40,B-,B-,1,2015,grade
+Dayton,48,B-,B-,2,2015,grade
+Dayton,41,B-,B-,6,2015,grade
+Dayton,62,C+,C+,7,2015,grade
+Dayton,37,B,B,8,2015,grade
+Dayton,46,B-,B-,9,2015,grade
+Dayton,16,A,A,10,2015,grade
+Dayton,76,C-,C-,11,2015,grade
+Dayton,27,B+,B+,12,2015,grade
+Dayton,85,D+,D+,22,2015,grade
+Dayton,77,C-,C-,23,2015,grade
+Cincinnati,41,B-,B-,1,2015,grade
+Cincinnati,35,B+,B+,2,2015,grade
+Cincinnati,16,A-,A-,6,2015,grade
+Cincinnati,17,A-,A-,7,2015,grade
+Cincinnati,18,A,A,8,2015,grade
+Cincinnati,45,B-,B-,9,2015,grade
+Cincinnati,20,A-,A-,10,2015,grade
+Cincinnati,5,A,A,11,2015,grade
+Cincinnati,13,A,A,12,2015,grade
+Cincinnati,90,D+,D+,22,2015,grade
+Cincinnati,78,D+,D+,23,2015,grade
+Phoenix,42,B-,B-,1,2015,grade
+Phoenix,45,B-,B-,2,2015,grade
+Phoenix,37,B,B,6,2015,grade
+Phoenix,40,B,B,7,2015,grade
+Phoenix,51,B-,B-,8,2015,grade
+Phoenix,38,B,B,9,2015,grade
+Phoenix,38,B,B,10,2015,grade
+Phoenix,41,B,B,11,2015,grade
+Phoenix,33,B,B,12,2015,grade
+Phoenix,33,B,B,22,2015,grade
+Phoenix,59,C,C,23,2015,grade
+Newark,43,B-,B-,1,2015,grade
+Newark,55,C+,C+,2,2015,grade
+Newark,52,B-,B-,6,2015,grade
+Newark,47,B-,B-,7,2015,grade
+Newark,48,B-,B-,8,2015,grade
+Newark,55,C+,C+,9,2015,grade
+Newark,56,B-,B-,10,2015,grade
+Newark,48,B-,B-,11,2015,grade
+Newark,54,C+,C+,12,2015,grade
+Newark,32,B,B,22,2015,grade
+Newark,72,C-,C-,23,2015,grade
+Ann Arbor,44,B-,B-,1,2015,grade
+Ann Arbor,60,C+,C+,2,2015,grade
+Ann Arbor,19,B+,B+,6,2015,grade
+Ann Arbor,43,B-,B-,7,2015,grade
+Ann Arbor,35,B,B,8,2015,grade
+Ann Arbor,4,A+,A+,9,2015,grade
+Ann Arbor,37,B,B,10,2015,grade
+Ann Arbor,68,C,C,11,2015,grade
+Ann Arbor,3,A+,A+,12,2015,grade
+Ann Arbor,48,B-,B-,22,2015,grade
+Ann Arbor,10,A+,A+,23,2015,grade
+West Palm Beach,45,B-,B-,1,2015,grade
+West Palm Beach,43,B-,B-,2,2015,grade
+West Palm Beach,23,B+,B+,6,2015,grade
+West Palm Beach,19,B+,B+,7,2015,grade
+West Palm Beach,27,B+,B+,8,2015,grade
+West Palm Beach,8,A+,A+,9,2015,grade
+West Palm Beach,48,B-,B-,10,2015,grade
+West Palm Beach,23,B+,B+,11,2015,grade
+West Palm Beach,31,B,B,12,2015,grade
+West Palm Beach,61,C,C,22,2015,grade
+West Palm Beach,45,B-,B-,23,2015,grade
+"Washington, DC",46,B-,B-,1,2015,grade
+"Washington, DC",46,B-,B-,2,2015,grade
+"Washington, DC",46,B-,B-,6,2015,grade
+"Washington, DC",46,B-,B-,7,2015,grade
+"Washington, DC",53,B-,B-,8,2015,grade
+"Washington, DC",56,C+,C+,9,2015,grade
+"Washington, DC",53,B-,B-,10,2015,grade
+"Washington, DC",39,B,B,11,2015,grade
+"Washington, DC",38,B-,B-,12,2015,grade
+"Washington, DC",31,B,B,22,2015,grade
+"Washington, DC",17,A,A,23,2015,grade
+Seattle,47,B-,B-,1,2015,grade
+Seattle,15,A,A,2,2015,grade
+Seattle,61,C+,C+,6,2015,grade
+Seattle,60,C+,C+,7,2015,grade
+Seattle,76,C-,C-,8,2015,grade
+Seattle,65,C,C,9,2015,grade
+Seattle,35,B,B,10,2015,grade
+Seattle,54,B-,B-,11,2015,grade
+Seattle,55,C+,C+,12,2015,grade
+Seattle,42,B-,B-,22,2015,grade
+Seattle,18,A,A,23,2015,grade
+Bridgeport,48,B-,B-,1,2015,grade
+Bridgeport,51,C+,C+,2,2015,grade
+Bridgeport,64,C,C,6,2015,grade
+Bridgeport,77,C-,C-,7,2015,grade
+Bridgeport,84,D,D,8,2015,grade
+Bridgeport,60,C+,C+,9,2015,grade
+Bridgeport,42,B,B,10,2015,grade
+Bridgeport,61,C+,C+,11,2015,grade
+Bridgeport,46,B-,B-,12,2015,grade
+Bridgeport,34,B,B,22,2015,grade
+Bridgeport,93,F,F,23,2015,grade
+Grand Rapids,49,B-,B-,1,2015,grade
+Grand Rapids,82,D+,D+,2,2015,grade
+Grand Rapids,1,A+,A+,6,2015,grade
+Grand Rapids,2,A+,A+,7,2015,grade
+Grand Rapids,16,A,A,8,2015,grade
+Grand Rapids,1,A+,A+,9,2015,grade
+Grand Rapids,2,A+,A+,10,2015,grade
+Grand Rapids,1,A+,A+,11,2015,grade
+Grand Rapids,1,A+,A+,12,2015,grade
+Grand Rapids,74,C-,C-,22,2015,grade
+Grand Rapids,13,A+,A+,23,2015,grade
+Worcester,50,B-,B-,1,2015,grade
+Worcester,50,C+,C+,2,2015,grade
+Worcester,74,C-,C-,6,2015,grade
+Worcester,54,C+,C+,7,2015,grade
+Worcester,67,C,C,8,2015,grade
+Worcester,73,D+,D+,9,2015,grade
+Worcester,80,D+,D+,10,2015,grade
+Worcester,76,C-,C-,11,2015,grade
+Worcester,71,C,C,12,2015,grade
+Worcester,93,D,D,22,2015,grade
+Worcester,67,C-,C-,23,2015,grade
+Charlotte,51,B-,B-,1,2015,grade
+Charlotte,40,B,B,2,2015,grade
+Charlotte,49,B-,B-,6,2015,grade
+Charlotte,61,C+,C+,7,2015,grade
+Charlotte,40,B,B,8,2015,grade
+Charlotte,47,B-,B-,9,2015,grade
+Charlotte,64,C+,C+,10,2015,grade
+Charlotte,47,B-,B-,11,2015,grade
+Charlotte,34,B-,B-,12,2015,grade
+Charlotte,57,C+,C+,22,2015,grade
+Charlotte,64,C,C,23,2015,grade
+Milwaukee,52,B-,B-,1,2015,grade
+Milwaukee,41,B,B,2,2015,grade
+Milwaukee,57,C+,C+,6,2015,grade
+Milwaukee,71,C,C,7,2015,grade
+Milwaukee,59,C+,C+,8,2015,grade
+Milwaukee,42,B,B,9,2015,grade
+Milwaukee,26,B+,B+,10,2015,grade
+Milwaukee,74,C,C,11,2015,grade
+Milwaukee,62,C+,C+,12,2015,grade
+Milwaukee,73,C,C,22,2015,grade
+Milwaukee,49,C+,C+,23,2015,grade
+Las Vegas,53,C+,C+,1,2015,grade
+Las Vegas,39,B,B,2,2015,grade
+Las Vegas,42,B-,B-,6,2015,grade
+Las Vegas,63,C+,C+,7,2015,grade
+Las Vegas,58,C+,C+,8,2015,grade
+Las Vegas,18,A-,A-,9,2015,grade
+Las Vegas,70,C-,C-,10,2015,grade
+Las Vegas,24,B+,B+,11,2015,grade
+Las Vegas,23,B+,B+,12,2015,grade
+Las Vegas,58,C+,C+,22,2015,grade
+Las Vegas,74,C-,C-,23,2015,grade
+Tampa,54,C+,C+,1,2015,grade
+Tampa,63,C+,C+,2,2015,grade
+Tampa,34,B,B,6,2015,grade
+Tampa,41,B-,B-,7,2015,grade
+Tampa,30,B,B,8,2015,grade
+Tampa,17,A-,A-,9,2015,grade
+Tampa,47,B-,B-,10,2015,grade
+Tampa,50,B-,B-,11,2015,grade
+Tampa,41,B-,B-,12,2015,grade
+Tampa,78,C-,C-,22,2015,grade
+Tampa,46,B-,B-,23,2015,grade
+Santa Rosa,55,C+,C+,1,2015,grade
+Santa Rosa,75,D+,D+,2,2015,grade
+Santa Rosa,45,B-,B-,6,2015,grade
+Santa Rosa,29,B,B,7,2015,grade
+Santa Rosa,52,B-,B-,8,2015,grade
+Santa Rosa,52,B-,B-,9,2015,grade
+Santa Rosa,79,D+,D+,10,2015,grade
+Santa Rosa,7,A,A,11,2015,grade
+Santa Rosa,43,B-,B-,12,2015,grade
+Santa Rosa,76,C-,C-,22,2015,grade
+Santa Rosa,27,B+,B+,23,2015,grade
+Tulsa,56,C+,C+,1,2015,grade
+Tulsa,33,B+,B+,2,2015,grade
+Tulsa,60,C+,C+,6,2015,grade
+Tulsa,76,C,C,7,2015,grade
+Tulsa,39,B,B,8,2015,grade
+Tulsa,62,C+,C+,9,2015,grade
+Tulsa,57,C+,C+,10,2015,grade
+Tulsa,37,B,B,11,2015,grade
+Tulsa,67,C,C,12,2015,grade
+Tulsa,41,B-,B-,22,2015,grade
+Tulsa,48,C+,C+,23,2015,grade
+Memphis,57,C+,C+,1,2015,grade
+Memphis,64,C,C,2,2015,grade
+Memphis,13,A-,A-,6,2015,grade
+Memphis,30,B,B,7,2015,grade
+Memphis,15,A,A,8,2015,grade
+Memphis,14,A,A,9,2015,grade
+Memphis,7,A+,A+,10,2015,grade
+Memphis,25,B+,B+,11,2015,grade
+Memphis,11,A+,A+,12,2015,grade
+Memphis,67,C,C,22,2015,grade
+Memphis,92,F,F,23,2015,grade
+Miami,58,C+,C+,1,2015,grade
+Miami,85,D+,D+,2,2015,grade
+Miami,30,B,B,6,2015,grade
+Miami,42,B-,B-,7,2015,grade
+Miami,31,B,B,8,2015,grade
+Miami,32,B+,B+,9,2015,grade
+Miami,54,B-,B-,10,2015,grade
+Miami,17,A-,A-,11,2015,grade
+Miami,26,B+,B+,12,2015,grade
+Miami,23,B,B,22,2015,grade
+Miami,70,C-,C-,23,2015,grade
+Fort Lauderdale,59,C+,C+,1,2015,grade
+Fort Lauderdale,57,C+,C+,2,2015,grade
+Fort Lauderdale,44,B-,B-,6,2015,grade
+Fort Lauderdale,36,B,B,7,2015,grade
+Fort Lauderdale,41,B-,B-,8,2015,grade
+Fort Lauderdale,39,B,B,9,2015,grade
+Fort Lauderdale,61,C+,C+,10,2015,grade
+Fort Lauderdale,38,B,B,11,2015,grade
+Fort Lauderdale,57,C+,C+,12,2015,grade
+Fort Lauderdale,55,C+,C+,22,2015,grade
+Fort Lauderdale,56,C+,C+,23,2015,grade
+St. Louis,60,C+,C+,1,2015,grade
+St. Louis,56,C+,C+,2,2015,grade
+St. Louis,48,B-,B-,6,2015,grade
+St. Louis,33,B,B,7,2015,grade
+St. Louis,49,B-,B-,8,2015,grade
+St. Louis,50,B-,B-,9,2015,grade
+St. Louis,60,C+,C+,10,2015,grade
+St. Louis,51,B-,B-,11,2015,grade
+St. Louis,53,C+,C+,12,2015,grade
+St. Louis,75,C-,C-,22,2015,grade
+St. Louis,83,D+,D+,23,2015,grade
+Cape Coral,61,C+,C+,1,2015,grade
+Cape Coral,65,C,C,2,2015,grade
+Cape Coral,50,B-,B-,6,2015,grade
+Cape Coral,56,C+,C+,7,2015,grade
+Cape Coral,56,B-,B-,8,2015,grade
+Cape Coral,29,B+,B+,9,2015,grade
+Cape Coral,50,B-,B-,10,2015,grade
+Cape Coral,64,C+,C+,11,2015,grade
+Cape Coral,58,C+,C+,12,2015,grade
+Cape Coral,71,C,C,22,2015,grade
+Cape Coral,6,A+,A+,23,2015,grade
+Cleveland,62,C+,C+,1,2015,grade
+Cleveland,67,C,C,2,2015,grade
+Cleveland,59,C+,C+,6,2015,grade
+Cleveland,55,C+,C+,7,2015,grade
+Cleveland,57,C+,C+,8,2015,grade
+Cleveland,61,C+,C+,9,2015,grade
+Cleveland,66,C,C,10,2015,grade
+Cleveland,49,B-,B-,11,2015,grade
+Cleveland,51,C+,C+,12,2015,grade
+Cleveland,63,C,C,22,2015,grade
+Cleveland,14,A,A,23,2015,grade
+Honolulu,63,C,C,1,2015,grade
+Honolulu,88,D,D,2,2015,grade
+Honolulu,77,C-,C-,6,2015,grade
+Honolulu,69,C,C,7,2015,grade
+Honolulu,91,F,F,8,2015,grade
+Honolulu,75,D+,D+,9,2015,grade
+Honolulu,55,B-,B-,10,2015,grade
+Honolulu,79,C-,C-,11,2015,grade
+Honolulu,76,C-,C-,12,2015,grade
+Honolulu,91,D,D,22,2015,grade
+Honolulu,24,A-,A-,23,2015,grade
+San Jose,64,C,C,1,2015,grade
+San Jose,62,C+,C+,2,2015,grade
+San Jose,72,C,C,6,2015,grade
+San Jose,75,C,C,7,2015,grade
+San Jose,79,D+,D+,8,2015,grade
+San Jose,67,C,C,9,2015,grade
+San Jose,72,C-,C-,10,2015,grade
+San Jose,72,C,C,11,2015,grade
+San Jose,36,B-,B-,12,2015,grade
+San Jose,62,C,C,22,2015,grade
+San Jose,89,F,F,23,2015,grade
+Pittsburgh,65,C,C,1,2015,grade
+Pittsburgh,42,B-,B-,2,2015,grade
+Pittsburgh,66,C,C,6,2015,grade
+Pittsburgh,70,C,C,7,2015,grade
+Pittsburgh,72,C,C,8,2015,grade
+Pittsburgh,69,C-,C-,9,2015,grade
+Pittsburgh,65,C,C,10,2015,grade
+Pittsburgh,56,B-,B-,11,2015,grade
+Pittsburgh,56,C+,C+,12,2015,grade
+Pittsburgh,88,D+,D+,22,2015,grade
+Pittsburgh,63,C,C,23,2015,grade
+San Francisco,66,C,C,1,2015,grade
+San Francisco,72,D+,D+,2,2015,grade
+San Francisco,65,C,C,6,2015,grade
+San Francisco,22,B+,B+,7,2015,grade
+San Francisco,68,C,C,8,2015,grade
+San Francisco,72,C-,C-,9,2015,grade
+San Francisco,75,C-,C-,10,2015,grade
+San Francisco,45,B-,B-,11,2015,grade
+San Francisco,73,C-,C-,12,2015,grade
+San Francisco,48,B-,B-,22,2015,grade
+San Francisco,65,C,C,23,2015,grade
+Asheville,67,C,C,1,2015,grade
+Asheville,68,C,C,2,2015,grade
+Asheville,58,C+,C+,6,2015,grade
+Asheville,66,C+,C+,7,2015,grade
+Asheville,61,C+,C+,8,2015,grade
+Asheville,57,C+,C+,9,2015,grade
+Asheville,58,C+,C+,10,2015,grade
+Asheville,31,B,B,11,2015,grade
+Asheville,64,C,C,12,2015,grade
+Asheville,7,A,A,22,2015,grade
+Asheville,44,B-,B-,23,2015,grade
+Philadelphia,68,C,C,1,2015,grade
+Philadelphia,70,C-,C-,2,2015,grade
+Philadelphia,56,C+,C+,6,2015,grade
+Philadelphia,65,C+,C+,7,2015,grade
+Philadelphia,33,B,B,8,2015,grade
+Philadelphia,59,C+,C+,9,2015,grade
+Philadelphia,42,B,B,10,2015,grade
+Philadelphia,57,C+,C+,11,2015,grade
+Philadelphia,65,C,C,12,2015,grade
+Philadelphia,27,B,B,22,2015,grade
+Philadelphia,54,C+,C+,23,2015,grade
+Port St. Lucie,69,C,C,1,2015,grade
+Port St. Lucie,76,D+,D+,2,2015,grade
+Port St. Lucie,27,B,B,6,2015,grade
+Port St. Lucie,10,A,A,7,2015,grade
+Port St. Lucie,46,B-,B-,8,2015,grade
+Port St. Lucie,28,B+,B+,9,2015,grade
+Port St. Lucie,59,C+,C+,10,2015,grade
+Port St. Lucie,29,B+,B+,11,2015,grade
+Port St. Lucie,21,A-,A-,12,2015,grade
+Port St. Lucie,39,B-,B-,22,2015,grade
+Port St. Lucie,57,C,C,23,2015,grade
+Tucson,70,C,C,1,2015,grade
+Tucson,61,C+,C+,2,2015,grade
+Tucson,32,B,B,6,2015,grade
+Tucson,49,B-,B-,7,2015,grade
+Tucson,47,B-,B-,8,2015,grade
+Tucson,40,B,B,9,2015,grade
+Tucson,23,B+,B+,10,2015,grade
+Tucson,44,B-,B-,11,2015,grade
+Tucson,20,A-,A-,12,2015,grade
+Tucson,29,B,B,22,2015,grade
+Tucson,61,C,C,23,2015,grade
+Tacoma,71,C,C,1,2015,grade
+Tacoma,52,C+,C+,2,2015,grade
+Tacoma,86,D+,D+,6,2015,grade
+Tacoma,82,C-,C-,7,2015,grade
+Tacoma,70,C,C,8,2015,grade
+Tacoma,86,F,F,9,2015,grade
+Tacoma,81,D+,D+,10,2015,grade
+Tacoma,87,D,D,11,2015,grade
+Tacoma,85,D+,D+,12,2015,grade
+Tacoma,79,C-,C-,22,2015,grade
+Tacoma,55,C+,C+,23,2015,grade
+Boston,72,C,C,1,2015,grade
+Boston,77,D+,D+,2,2015,grade
+Boston,79,C-,C-,6,2015,grade
+Boston,84,D+,D+,7,2015,grade
+Boston,75,C-,C-,8,2015,grade
+Boston,70,C-,C-,9,2015,grade
+Boston,76,D+,D+,10,2015,grade
+Boston,78,C-,C-,11,2015,grade
+Boston,84,D+,D+,12,2015,grade
+Boston,56,C+,C+,22,2015,grade
+Boston,76,C-,C-,23,2015,grade
+Lawrence,73,C-,C-,1,2015,grade
+Lawrence,87,D,D,2,2015,grade
+Lawrence,91,D,D,6,2015,grade
+Lawrence,86,D+,D+,7,2015,grade
+Lawrence,87,D,D,8,2015,grade
+Lawrence,92,F,F,9,2015,grade
+Lawrence,91,F,F,10,2015,grade
+Lawrence,86,D+,D+,11,2015,grade
+Lawrence,88,D,D,12,2015,grade
+Lawrence,68,C,C,22,2015,grade
+Lawrence,32,B,B,23,2015,grade
+Allentown,74,C-,C-,1,2015,grade
+Allentown,54,C+,C+,2,2015,grade
+Allentown,92,F,F,6,2015,grade
+Allentown,91,F,F,7,2015,grade
+Allentown,86,D,D,8,2015,grade
+Allentown,93,F,F,9,2015,grade
+Allentown,88,D,D,10,2015,grade
+Allentown,89,D,D,11,2015,grade
+Allentown,83,D+,D+,12,2015,grade
+Allentown,89,D+,D+,22,2015,grade
+Allentown,94,F,F,23,2015,grade
+Anaheim,75,C-,C-,1,2015,grade
+Anaheim,69,C,C,2,2015,grade
+Anaheim,81,D+,D+,6,2015,grade
+Anaheim,72,C,C,7,2015,grade
+Anaheim,82,D,D,8,2015,grade
+Anaheim,78,D+,D+,9,2015,grade
+Anaheim,78,D+,D+,10,2015,grade
+Anaheim,84,D+,D+,11,2015,grade
+Anaheim,77,C-,C-,12,2015,grade
+Anaheim,26,B,B,22,2015,grade
+Anaheim,53,C+,C+,23,2015,grade
+New York,76,C-,C-,1,2015,grade
+New York,92,F,F,2,2015,grade
+New York,33,B,B,6,2015,grade
+New York,25,B,B,7,2015,grade
+New York,28,B+,B+,8,2015,grade
+New York,36,B,B,9,2015,grade
+New York,41,B,B,10,2015,grade
+New York,33,B,B,11,2015,grade
+New York,45,B-,B-,12,2015,grade
+New York,25,B,B,22,2015,grade
+New York,35,B,B,23,2015,grade
+Oakland,77,C-,C-,1,2015,grade
+Oakland,83,D+,D+,2,2015,grade
+Oakland,73,C,C,6,2015,grade
+Oakland,53,C+,C+,7,2015,grade
+Oakland,63,C,C,8,2015,grade
+Oakland,80,D,D,9,2015,grade
+Oakland,74,C-,C-,10,2015,grade
+Oakland,70,C,C,11,2015,grade
+Oakland,61,C+,C+,12,2015,grade
+Oakland,86,D+,D+,22,2015,grade
+Oakland,52,C+,C+,23,2015,grade
+Oxnard,78,C-,C-,1,2015,grade
+Oxnard,71,C-,C-,2,2015,grade
+Oxnard,93,F,F,6,2015,grade
+Oxnard,94,F,F,7,2015,grade
+Oxnard,93,F,F,8,2015,grade
+Oxnard,89,F,F,9,2015,grade
+Oxnard,94,F,F,10,2015,grade
+Oxnard,91,F,F,11,2015,grade
+Oxnard,92,F,F,12,2015,grade
+Oxnard,69,C,C,22,2015,grade
+Oxnard,82,D+,D+,23,2015,grade
+Camden,79,C-,C-,1,2015,grade
+Camden,94,F,F,2,2015,grade
+Camden,69,C,C,6,2015,grade
+Camden,58,C+,C+,7,2015,grade
+Camden,42,B-,B-,8,2015,grade
+Camden,53,B-,B-,9,2015,grade
+Camden,87,D,D,10,2015,grade
+Camden,58,C+,C+,11,2015,grade
+Camden,86,D+,D+,12,2015,grade
+Camden,13,A-,A-,22,2015,grade
+Camden,86,D,D,23,2015,grade
+Riverside,80,C-,C-,1,2015,grade
+Riverside,80,D+,D+,2,2015,grade
+Riverside,90,D,D,6,2015,grade
+Riverside,89,D,D,7,2015,grade
+Riverside,88,F,F,8,2015,grade
+Riverside,90,F,F,9,2015,grade
+Riverside,85,D,D,10,2015,grade
+Riverside,92,F,F,11,2015,grade
+Riverside,75,C-,C-,12,2015,grade
+Riverside,60,C+,C+,22,2015,grade
+Riverside,43,B-,B-,23,2015,grade
+Los Angeles,81,C-,C-,1,2015,grade
+Los Angeles,84,D+,D+,2,2015,grade
+Los Angeles,67,C,C,6,2015,grade
+Los Angeles,67,C+,C+,7,2015,grade
+Los Angeles,64,C,C,8,2015,grade
+Los Angeles,63,C,C,9,2015,grade
+Los Angeles,68,C,C,10,2015,grade
+Los Angeles,73,C,C,11,2015,grade
+Los Angeles,59,C+,C+,12,2015,grade
+Los Angeles,35,B,B,22,2015,grade
+Los Angeles,75,C-,C-,23,2015,grade
+Syracuse,82,C-,C-,1,2015,grade
+Syracuse,31,B+,B+,2,2015,grade
+Syracuse,89,D,D,6,2015,grade
+Syracuse,90,D,D,7,2015,grade
+Syracuse,65,C,C,8,2015,grade
+Syracuse,95,F,F,9,2015,grade
+Syracuse,21,A-,A-,10,2015,grade
+Syracuse,94,F,F,11,2015,grade
+Syracuse,95,F,F,12,2015,grade
+Syracuse,3,A+,A+,22,2015,grade
+Syracuse,79,D+,D+,23,2015,grade
+Chicago,83,C-,C-,1,2015,grade
+Chicago,81,D+,D+,2,2015,grade
+Chicago,83,D+,D+,6,2015,grade
+Chicago,87,D+,D+,7,2015,grade
+Chicago,80,D+,D+,8,2015,grade
+Chicago,82,D,D,9,2015,grade
+Chicago,90,F,F,10,2015,grade
+Chicago,67,C,C,11,2015,grade
+Chicago,72,C-,C-,12,2015,grade
+Chicago,52,C+,C+,22,2015,grade
+Chicago,68,C-,C-,23,2015,grade
+Rochester,84,D+,D+,1,2015,grade
+Rochester,79,D+,D+,2,2015,grade
+Rochester,84,D+,D+,6,2015,grade
+Rochester,78,C-,C-,7,2015,grade
+Rochester,83,D,D,8,2015,grade
+Rochester,88,F,F,9,2015,grade
+Rochester,86,D,D,10,2015,grade
+Rochester,85,D+,D+,11,2015,grade
+Rochester,44,B-,B-,12,2015,grade
+Rochester,53,C+,C+,22,2015,grade
+Rochester,38,B-,B-,23,2015,grade
+Sacramento,85,D+,D+,1,2015,grade
+Sacramento,89,D,D,2,2015,grade
+Sacramento,94,F,F,6,2015,grade
+Sacramento,93,F,F,7,2015,grade
+Sacramento,94,F,F,8,2015,grade
+Sacramento,94,F,F,9,2015,grade
+Sacramento,93,F,F,10,2015,grade
+Sacramento,93,F,F,11,2015,grade
+Sacramento,91,F,F,12,2015,grade
+Sacramento,92,D,D,22,2015,grade
+Sacramento,58,C,C,23,2015,grade
+Baltimore,86,D+,D+,1,2015,grade
+Baltimore,66,C,C,2,2015,grade
+Baltimore,88,D,D,6,2015,grade
+Baltimore,80,C-,C-,7,2015,grade
+Baltimore,78,C-,C-,8,2015,grade
+Baltimore,84,D,D,9,2015,grade
+Baltimore,92,F,F,10,2015,grade
+Baltimore,90,F,F,11,2015,grade
+Baltimore,90,F,F,12,2015,grade
+Baltimore,54,C+,C+,22,2015,grade
+Baltimore,34,B,B,23,2015,grade
+Springfield,87,D+,D+,1,2015,grade
+Springfield,59,C+,C+,2,2015,grade
+Springfield,85,D+,D+,6,2015,grade
+Springfield,88,D+,D+,7,2015,grade
+Springfield,89,F,F,8,2015,grade
+Springfield,81,D,D,9,2015,grade
+Springfield,84,D+,D+,10,2015,grade
+Springfield,82,D+,D+,11,2015,grade
+Springfield,50,C+,C+,12,2015,grade
+Springfield,12,A-,A-,22,2015,grade
+Springfield,90,F,F,23,2015,grade
+Albany,88,D,D,1,2015,grade
+Albany,78,D+,D+,2,2015,grade
+Albany,71,C,C,6,2015,grade
+Albany,81,C-,C-,7,2015,grade
+Albany,92,F,F,8,2015,grade
+Albany,83,D,D,9,2015,grade
+Albany,67,C,C,10,2015,grade
+Albany,20,B+,B+,11,2015,grade
+Albany,24,B+,B+,12,2015,grade
+Albany,83,C-,C-,22,2015,grade
+Albany,31,B+,B+,23,2015,grade
+San Diego,89,D,D,1,2015,grade
+San Diego,91,F,F,2,2015,grade
+San Diego,80,D+,D+,6,2015,grade
+San Diego,79,C-,C-,7,2015,grade
+San Diego,77,C-,C-,8,2015,grade
+San Diego,79,D,D,9,2015,grade
+San Diego,69,C,C,10,2015,grade
+San Diego,88,D,D,11,2015,grade
+San Diego,74,C-,C-,12,2015,grade
+San Diego,77,C-,C-,22,2015,grade
+San Diego,66,C,C,23,2015,grade
+Providence,90,F,F,1,2015,grade
+Providence,90,D,D,2,2015,grade
+Providence,75,C-,C-,6,2015,grade
+Providence,31,B,B,7,2015,grade
+Providence,66,C,C,8,2015,grade
+Providence,77,D+,D+,9,2015,grade
+Providence,82,D+,D+,10,2015,grade
+Providence,80,C-,C-,11,2015,grade
+Providence,81,D+,D+,12,2015,grade
+Providence,21,B+,B+,22,2015,grade
+Providence,37,B,B,23,2015,grade
+Winston-Salem,91,F,F,1,2015,grade
+Winston-Salem,95,F,F,2,2015,grade
+Winston-Salem,63,C+,C+,6,2015,grade
+Winston-Salem,83,C-,C-,7,2015,grade
+Winston-Salem,74,C-,C-,8,2015,grade
+Winston-Salem,71,C-,C-,9,2015,grade
+Winston-Salem,44,B,B,10,2015,grade
+Winston-Salem,81,C-,C-,11,2015,grade
+Winston-Salem,12,A,A,12,2015,grade
+Winston-Salem,94,D,D,22,2015,grade
+Winston-Salem,95,F,F,23,2015,grade
+New Haven,92,F,F,1,2015,grade
+New Haven,93,F,F,2,2015,grade
+New Haven,70,C,C,6,2015,grade
+New Haven,52,B-,B-,7,2015,grade
+New Haven,62,C+,C+,8,2015,grade
+New Haven,91,F,F,9,2015,grade
+New Haven,25,B+,B+,10,2015,grade
+New Haven,71,C,C,11,2015,grade
+New Haven,70,C,C,12,2015,grade
+New Haven,37,B,B,22,2015,grade
+New Haven,91,F,F,23,2015,grade
+Buffalo,93,F,F,1,2015,grade
+Buffalo,86,D+,D+,2,2015,grade
+Buffalo,82,D+,D+,6,2015,grade
+Buffalo,68,C+,C+,7,2015,grade
+Buffalo,89,F,F,8,2015,grade
+Buffalo,85,D,D,9,2015,grade
+Buffalo,83,D+,D+,10,2015,grade
+Buffalo,62,C+,C+,11,2015,grade
+Buffalo,82,D+,D+,12,2015,grade
+Buffalo,87,D+,D+,22,2015,grade
+Buffalo,19,A,A,23,2015,grade
+Albuquerque,94,F,F,1,2015,grade
+Albuquerque,73,D+,D+,2,2015,grade
+Albuquerque,78,C-,C-,6,2015,grade
+Albuquerque,92,F,F,7,2015,grade
+Albuquerque,81,D+,D+,8,2015,grade
+Albuquerque,68,C-,C-,9,2015,grade
+Albuquerque,89,D,D,10,2015,grade
+Albuquerque,46,B-,B-,11,2015,grade
+Albuquerque,63,C,C,12,2015,grade
+Albuquerque,48,B-,B-,22,2015,grade
+Albuquerque,88,F,F,23,2015,grade
+Hartford,95,F,F,1,2015,grade
+Hartford,74,D+,D+,2,2015,grade
+Hartford,95,F,F,6,2015,grade
+Hartford,95,F,F,7,2015,grade
+Hartford,95,F,F,8,2015,grade
+Hartford,87,F,F,9,2015,grade
+Hartford,95,F,F,10,2015,grade
+Hartford,95,F,F,11,2015,grade
+Hartford,93,F,F,12,2015,grade
+Hartford,95,F,F,22,2015,grade
+Hartford,69,C-,C-,23,2015,grade
+Akron,7,A,A,1,2016,grade
+Akron,4,A+,A+,2,2016,grade
+Akron,8,A,A,6,2016,grade
+Akron,9,A-,A-,7,2016,grade
+Akron,25,B+,B+,8,2016,grade
+Akron,2,A+,A+,9,2016,grade
+Akron,3,A+,A+,10,2016,grade
+Akron,7,A,A,11,2016,grade
+Akron,4,A+,A+,12,2016,grade
+Akron,75,F,F,22,2016,grade
+Akron,9,A+,A+,23,2016,grade
+Albany,72,D+,D+,1,2016,grade
+Albany,62,C-,C-,2,2016,grade
+Albany,69,D+,D+,6,2016,grade
+Albany,68,C-,C-,7,2016,grade
+Albany,55,C,C,8,2016,grade
+Albany,55,C,C,9,2016,grade
+Albany,69,D+,D+,10,2016,grade
+Albany,70,C-,C-,11,2016,grade
+Albany,60,C,C,12,2016,grade
+Albany,39,B-,B-,22,2016,grade
+Albany,31,B,B,23,2016,grade
+Anaheim,50,C,C,1,2016,grade
+Anaheim,59,C-,C-,2,2016,grade
+Anaheim,70,D+,D+,6,2016,grade
+Anaheim,64,C-,C-,7,2016,grade
+Anaheim,68,D,D,8,2016,grade
+Anaheim,68,D+,D+,9,2016,grade
+Anaheim,57,C-,C-,10,2016,grade
+Anaheim,71,D+,D+,11,2016,grade
+Anaheim,66,C-,C-,12,2016,grade
+Anaheim,70,D,D,22,2016,grade
+Anaheim,37,B-,B-,23,2016,grade
+Atlanta,10,A,A,1,2016,grade
+Atlanta,5,A+,A+,2,2016,grade
+Atlanta,2,A+,A+,6,2016,grade
+Atlanta,3,A+,A+,7,2016,grade
+Atlanta,6,A+,A+,8,2016,grade
+Atlanta,3,A+,A+,9,2016,grade
+Atlanta,4,A+,A+,10,2016,grade
+Atlanta,6,A,A,11,2016,grade
+Atlanta,7,A,A,12,2016,grade
+Atlanta,23,B+,B+,22,2016,grade
+Atlanta,50,C,C,23,2016,grade
+Austin,19,A-,A-,1,2016,grade
+Austin,25,B+,B+,2,2016,grade
+Austin,30,B,B,6,2016,grade
+Austin,32,B,B,7,2016,grade
+Austin,23,B+,B+,8,2016,grade
+Austin,16,A-,A-,9,2016,grade
+Austin,20,B+,B+,10,2016,grade
+Austin,39,B-,B-,11,2016,grade
+Austin,54,C+,C+,12,2016,grade
+Austin,39,B-,B-,22,2016,grade
+Austin,11,A+,A+,23,2016,grade
+Baltimore,60,C-,C-,1,2016,grade
+Baltimore,55,C,C,2,2016,grade
+Baltimore,71,D+,D+,6,2016,grade
+Baltimore,71,D+,D+,7,2016,grade
+Baltimore,65,C-,C-,8,2016,grade
+Baltimore,65,C-,C-,9,2016,grade
+Baltimore,71,D+,D+,10,2016,grade
+Baltimore,73,D+,D+,11,2016,grade
+Baltimore,67,C-,C-,12,2016,grade
+Baltimore,21,B+,B+,22,2016,grade
+Baltimore,56,C-,C-,23,2016,grade
+Birmingham,44,C+,C+,1,2016,grade
+Birmingham,72,D,D,2,2016,grade
+Birmingham,18,B+,B+,6,2016,grade
+Birmingham,11,A-,A-,7,2016,grade
+Birmingham,12,A-,A-,8,2016,grade
+Birmingham,46,B-,B-,9,2016,grade
+Birmingham,43,C+,C+,10,2016,grade
+Birmingham,28,B,B,11,2016,grade
+Birmingham,6,A,A,12,2016,grade
+Birmingham,7,A+,A+,22,2016,grade
+Birmingham,35,B-,B-,23,2016,grade
+Boston,33,B,B,1,2016,grade
+Boston,43,B-,B-,2,2016,grade
+Boston,39,B-,B-,6,2016,grade
+Boston,30,B,B,7,2016,grade
+Boston,29,B,B,8,2016,grade
+Boston,28,B,B,9,2016,grade
+Boston,46,C+,C+,10,2016,grade
+Boston,64,C-,C-,11,2016,grade
+Boston,55,C,C,12,2016,grade
+Boston,44,B-,B-,22,2016,grade
+Boston,60,D+,D+,23,2016,grade
+Bridgeport,75,D,D,1,2016,grade
+Bridgeport,71,D,D,2,2016,grade
+Bridgeport,72,D+,D+,6,2016,grade
+Bridgeport,75,D,D,7,2016,grade
+Bridgeport,77,F,F,8,2016,grade
+Bridgeport,72,F,F,9,2016,grade
+Bridgeport,58,C-,C-,10,2016,grade
+Bridgeport,60,C,C,11,2016,grade
+Bridgeport,59,C,C,12,2016,grade
+Bridgeport,76,F,F,22,2016,grade
+Bridgeport,16,A,A,23,2016,grade
+Buffalo,64,C-,C-,1,2016,grade
+Buffalo,51,C,C,2,2016,grade
+Buffalo,58,C,C,6,2016,grade
+Buffalo,49,C+,C+,7,2016,grade
+Buffalo,41,C+,C+,8,2016,grade
+Buffalo,69,D,D,9,2016,grade
+Buffalo,75,D,D,10,2016,grade
+Buffalo,25,B,B,11,2016,grade
+Buffalo,56,C,C,12,2016,grade
+Buffalo,74,F,F,22,2016,grade
+Buffalo,26,B+,B+,23,2016,grade
+Camden,55,C-,C-,1,2016,grade
+Camden,61,C-,C-,2,2016,grade
+Camden,60,C-,C-,6,2016,grade
+Camden,72,D+,D+,7,2016,grade
+Camden,64,C-,C-,8,2016,grade
+Camden,48,C+,C+,9,2016,grade
+Camden,66,D+,D+,10,2016,grade
+Camden,63,C,C,11,2016,grade
+Camden,72,D+,D+,12,2016,grade
+Camden,62,D+,D+,22,2016,grade
+Camden,22,A-,A-,23,2016,grade
+Cape Coral,37,B-,B-,1,2016,grade
+Cape Coral,29,B,B,2,2016,grade
+Cape Coral,35,B,B,6,2016,grade
+Cape Coral,47,C+,C+,7,2016,grade
+Cape Coral,33,B-,B-,8,2016,grade
+Cape Coral,31,B,B,9,2016,grade
+Cape Coral,38,B-,B-,10,2016,grade
+Cape Coral,41,C+,C+,11,2016,grade
+Cape Coral,43,C+,C+,12,2016,grade
+Cape Coral,60,D+,D+,22,2016,grade
+Cape Coral,6,A+,A+,23,2016,grade
+Charleston,12,A-,A-,1,2016,grade
+Charleston,45,C+,C+,2,2016,grade
+Charleston,28,B,B,6,2016,grade
+Charleston,5,A,A,7,2016,grade
+Charleston,13,A-,A-,8,2016,grade
+Charleston,43,B-,B-,9,2016,grade
+Charleston,40,C+,C+,10,2016,grade
+Charleston,14,A-,A-,11,2016,grade
+Charleston,27,B,B,12,2016,grade
+Charleston,28,B+,B+,22,2016,grade
+Charleston,13,A+,A+,23,2016,grade
+Charlotte,23,B+,B+,1,2016,grade
+Charlotte,33,B,B,2,2016,grade
+Charlotte,25,B+,B+,6,2016,grade
+Charlotte,24,B+,B+,7,2016,grade
+Charlotte,16,A-,A-,8,2016,grade
+Charlotte,23,B+,B+,9,2016,grade
+Charlotte,29,B+,B+,10,2016,grade
+Charlotte,8,A,A,11,2016,grade
+Charlotte,30,B,B,12,2016,grade
+Charlotte,9,A+,A+,22,2016,grade
+Charlotte,36,B-,B-,23,2016,grade
+Chicago,62,C-,C-,1,2016,grade
+Chicago,60,C-,C-,2,2016,grade
+Chicago,68,D+,D+,6,2016,grade
+Chicago,62,C-,C-,7,2016,grade
+Chicago,66,C-,C-,8,2016,grade
+Chicago,70,D,D,9,2016,grade
+Chicago,70,D+,D+,10,2016,grade
+Chicago,55,C,C,11,2016,grade
+Chicago,63,C-,C-,12,2016,grade
+Chicago,31,B,B,22,2016,grade
+Chicago,39,C+,C+,23,2016,grade
+Cincinnati,34,B,B,1,2016,grade
+Cincinnati,27,B+,B+,2,2016,grade
+Cincinnati,26,B,B,6,2016,grade
+Cincinnati,46,C+,C+,7,2016,grade
+Cincinnati,50,C+,C+,8,2016,grade
+Cincinnati,30,B,B,9,2016,grade
+Cincinnati,27,B+,B+,10,2016,grade
+Cincinnati,43,C+,C+,11,2016,grade
+Cincinnati,29,B,B,12,2016,grade
+Cincinnati,39,B-,B-,22,2016,grade
+Cincinnati,51,C,C,23,2016,grade
+Cleveland,13,A-,A-,1,2016,grade
+Cleveland,17,A-,A-,2,2016,grade
+Cleveland,41,B-,B-,6,2016,grade
+Cleveland,41,B-,B-,7,2016,grade
+Cleveland,31,B,B,8,2016,grade
+Cleveland,39,B-,B-,9,2016,grade
+Cleveland,34,B,B,10,2016,grade
+Cleveland,46,C+,C+,11,2016,grade
+Cleveland,22,B+,B+,12,2016,grade
+Cleveland,20,B+,B+,22,2016,grade
+Cleveland,7,A+,A+,23,2016,grade
+Colorado Springs,20,B+,B+,1,2016,grade
+Colorado Springs,14,A,A,2,2016,grade
+Colorado Springs,3,A+,A+,6,2016,grade
+Colorado Springs,2,A+,A+,7,2016,grade
+Colorado Springs,9,A,A,8,2016,grade
+Colorado Springs,9,A,A,9,2016,grade
+Colorado Springs,9,A,A,10,2016,grade
+Colorado Springs,11,A-,A-,11,2016,grade
+Colorado Springs,8,A,A,12,2016,grade
+Colorado Springs,53,C+,C+,22,2016,grade
+Colorado Springs,8,A+,A+,23,2016,grade
+Columbia,69,D+,D+,1,2016,grade
+Columbia,36,B-,B-,2,2016,grade
+Columbia,32,B,B,6,2016,grade
+Columbia,12,A-,A-,7,2016,grade
+Columbia,61,C-,C-,8,2016,grade
+Columbia,33,B,B,9,2016,grade
+Columbia,62,D+,D+,10,2016,grade
+Columbia,59,C,C,11,2016,grade
+Columbia,1,A+,A+,12,2016,grade
+Columbia,26,B+,B+,22,2016,grade
+Columbia,71,F,F,23,2016,grade
+Columbus,29,B,B,1,2016,grade
+Columbus,38,B-,B-,2,2016,grade
+Columbus,31,B,B,6,2016,grade
+Columbus,39,B-,B-,7,2016,grade
+Columbus,26,B,B,8,2016,grade
+Columbus,35,B-,B-,9,2016,grade
+Columbus,14,A-,A-,10,2016,grade
+Columbus,10,A-,A-,11,2016,grade
+Columbus,40,B-,B-,12,2016,grade
+Columbus,39,B-,B-,22,2016,grade
+Columbus,64,D,D,23,2016,grade
+Dallas,6,A,A,1,2016,grade
+Dallas,10,A,A,2,2016,grade
+Dallas,7,A,A,6,2016,grade
+Dallas,10,A-,A-,7,2016,grade
+Dallas,5,A+,A+,8,2016,grade
+Dallas,7,A,A,9,2016,grade
+Dallas,7,A+,A+,10,2016,grade
+Dallas,13,A-,A-,11,2016,grade
+Dallas,17,A-,A-,12,2016,grade
+Dallas,6,A+,A+,22,2016,grade
+Dallas,52,C,C,23,2016,grade
+Denver,17,A-,A-,1,2016,grade
+Denver,18,A-,A-,2,2016,grade
+Denver,43,B-,B-,6,2016,grade
+Denver,38,B-,B-,7,2016,grade
+Denver,45,C+,C+,8,2016,grade
+Denver,37,B-,B-,9,2016,grade
+Denver,28,B+,B+,10,2016,grade
+Denver,45,C+,C+,11,2016,grade
+Denver,61,C-,C-,12,2016,grade
+Denver,50,C+,C+,22,2016,grade
+Denver,20,A-,A-,23,2016,grade
+Detroit,39,B-,B-,1,2016,grade
+Detroit,48,C+,C+,2,2016,grade
+Detroit,23,B+,B+,6,2016,grade
+Detroit,21,B+,B+,7,2016,grade
+Detroit,22,B+,B+,8,2016,grade
+Detroit,38,B-,B-,9,2016,grade
+Detroit,22,B+,B+,10,2016,grade
+Detroit,17,A-,A-,11,2016,grade
+Detroit,14,A-,A-,12,2016,grade
+Detroit,18,B+,B+,22,2016,grade
+Detroit,42,C+,C+,23,2016,grade
+Fort Collins,11,A,A,1,2016,grade
+Fort Collins,26,B+,B+,2,2016,grade
+Fort Collins,4,A,A,6,2016,grade
+Fort Collins,29,B,B,7,2016,grade
+Fort Collins,3,A+,A+,8,2016,grade
+Fort Collins,6,A+,A+,9,2016,grade
+Fort Collins,2,A+,A+,10,2016,grade
+Fort Collins,5,A+,A+,11,2016,grade
+Fort Collins,24,B+,B+,12,2016,grade
+Fort Collins,10,A+,A+,22,2016,grade
+Fort Collins,29,B+,B+,23,2016,grade
+Fort Lauderdale,46,C+,C+,1,2016,grade
+Fort Lauderdale,30,B,B,2,2016,grade
+Fort Lauderdale,19,B+,B+,6,2016,grade
+Fort Lauderdale,23,B+,B+,7,2016,grade
+Fort Lauderdale,18,A-,A-,8,2016,grade
+Fort Lauderdale,12,A,A,9,2016,grade
+Fort Lauderdale,31,B,B,10,2016,grade
+Fort Lauderdale,16,A-,A-,11,2016,grade
+Fort Lauderdale,21,B+,B+,12,2016,grade
+Fort Lauderdale,12,A,A,22,2016,grade
+Fort Lauderdale,27,B+,B+,23,2016,grade
+Fort Worth,4,A,A,1,2016,grade
+Fort Worth,16,A,A,2,2016,grade
+Fort Worth,5,A,A,6,2016,grade
+Fort Worth,22,B+,B+,7,2016,grade
+Fort Worth,8,A+,A+,8,2016,grade
+Fort Worth,5,A+,A+,9,2016,grade
+Fort Worth,8,A,A,10,2016,grade
+Fort Worth,21,B+,B+,11,2016,grade
+Fort Worth,11,A-,A-,12,2016,grade
+Fort Worth,29,B,B,22,2016,grade
+Fort Worth,30,B+,B+,23,2016,grade
+Greenville,15,A-,A-,1,2016,grade
+Greenville,21,B+,B+,2,2016,grade
+Greenville,16,B+,B+,6,2016,grade
+Greenville,4,A+,A+,7,2016,grade
+Greenville,13,A-,A-,8,2016,grade
+Greenville,20,B+,B+,9,2016,grade
+Greenville,25,B+,B+,10,2016,grade
+Greenville,15,A-,A-,11,2016,grade
+Greenville,24,B+,B+,12,2016,grade
+Greenville,56,C-,C-,22,2016,grade
+Greenville,25,A-,A-,23,2016,grade
+Hartford,57,C-,C-,1,2016,grade
+Hartford,50,C,C,2,2016,grade
+Hartford,73,D,D,6,2016,grade
+Hartford,74,D+,D+,7,2016,grade
+Hartford,76,F,F,8,2016,grade
+Hartford,73,F,F,9,2016,grade
+Hartford,65,D+,D+,10,2016,grade
+Hartford,77,F,F,11,2016,grade
+Hartford,75,F,F,12,2016,grade
+Hartford,77,F,F,22,2016,grade
+Hartford,61,D+,D+,23,2016,grade
+Houston,5,A,A,1,2016,grade
+Houston,11,A,A,2,2016,grade
+Houston,10,A-,A-,6,2016,grade
+Houston,16,B+,B+,7,2016,grade
+Houston,10,A,A,8,2016,grade
+Houston,8,A,A,9,2016,grade
+Houston,11,A,A,10,2016,grade
+Houston,20,B+,B+,11,2016,grade
+Houston,16,A-,A-,12,2016,grade
+Houston,13,A,A,22,2016,grade
+Houston,46,C,C,23,2016,grade
+Indianapolis,27,B,B,1,2016,grade
+Indianapolis,31,B,B,2,2016,grade
+Indianapolis,47,C+,C+,6,2016,grade
+Indianapolis,57,C,C,7,2016,grade
+Indianapolis,47,C+,C+,8,2016,grade
+Indianapolis,51,C,C,9,2016,grade
+Indianapolis,36,B-,B-,10,2016,grade
+Indianapolis,27,B,B,11,2016,grade
+Indianapolis,45,C+,C+,12,2016,grade
+Indianapolis,30,B,B,22,2016,grade
+Indianapolis,55,C-,C-,23,2016,grade
+Jacksonville,9,A,A,1,2016,grade
+Jacksonville,8,A,A,2,2016,grade
+Jacksonville,17,B+,B+,6,2016,grade
+Jacksonville,26,B,B,7,2016,grade
+Jacksonville,19,B+,B+,8,2016,grade
+Jacksonville,27,B,B,9,2016,grade
+Jacksonville,10,A,A,10,2016,grade
+Jacksonville,37,B-,B-,11,2016,grade
+Jacksonville,28,B,B,12,2016,grade
+Jacksonville,16,A-,A-,22,2016,grade
+Jacksonville,3,A+,A+,23,2016,grade
+Kansas City,21,B+,B+,1,2016,grade
+Kansas City,9,A,A,2,2016,grade
+Kansas City,12,A-,A-,6,2016,grade
+Kansas City,28,B,B,7,2016,grade
+Kansas City,11,A,A,8,2016,grade
+Kansas City,17,B+,B+,9,2016,grade
+Kansas City,13,A-,A-,10,2016,grade
+Kansas City,24,B,B,11,2016,grade
+Kansas City,13,A-,A-,12,2016,grade
+Kansas City,15,A-,A-,22,2016,grade
+Kansas City,49,C,C,23,2016,grade
+Knoxville,36,B-,B-,1,2016,grade
+Knoxville,47,C+,C+,2,2016,grade
+Knoxville,22,B+,B+,6,2016,grade
+Knoxville,6,A,A,7,2016,grade
+Knoxville,35,B-,B-,8,2016,grade
+Knoxville,25,B+,B+,9,2016,grade
+Knoxville,35,B,B,10,2016,grade
+Knoxville,62,C,C,11,2016,grade
+Knoxville,19,B+,B+,12,2016,grade
+Knoxville,73,F,F,22,2016,grade
+Knoxville,21,A-,A-,23,2016,grade
+Las Vegas,49,C,C,1,2016,grade
+Las Vegas,41,B-,B-,2,2016,grade
+Las Vegas,42,B-,B-,6,2016,grade
+Las Vegas,43,B-,B-,7,2016,grade
+Las Vegas,54,C,C,8,2016,grade
+Las Vegas,19,B+,B+,9,2016,grade
+Las Vegas,39,C+,C+,10,2016,grade
+Las Vegas,54,C,C,11,2016,grade
+Las Vegas,58,C,C,12,2016,grade
+Las Vegas,51,C+,C+,22,2016,grade
+Las Vegas,73,F,F,23,2016,grade
+Lawrence,51,C,C,1,2016,grade
+Lawrence,54,C,C,2,2016,grade
+Lawrence,74,D,D,6,2016,grade
+Lawrence,76,F,F,7,2016,grade
+Lawrence,58,C,C,8,2016,grade
+Lawrence,58,C-,C-,9,2016,grade
+Lawrence,66,D+,D+,10,2016,grade
+Lawrence,75,D,D,11,2016,grade
+Lawrence,77,F,F,12,2016,grade
+Lawrence,78,F,F,22,2016,grade
+Lawrence,77,F,F,23,2016,grade
+Los Angeles,63,C-,C-,1,2016,grade
+Los Angeles,69,D,D,2,2016,grade
+Los Angeles,63,C-,C-,6,2016,grade
+Los Angeles,66,C-,C-,7,2016,grade
+Los Angeles,63,C-,C-,8,2016,grade
+Los Angeles,61,C-,C-,9,2016,grade
+Los Angeles,59,C-,C-,10,2016,grade
+Los Angeles,57,C,C,11,2016,grade
+Los Angeles,74,D+,D+,12,2016,grade
+Los Angeles,25,B+,B+,22,2016,grade
+Los Angeles,70,F,F,23,2016,grade
+Louisville,53,C,C,1,2016,grade
+Louisville,46,C+,C+,2,2016,grade
+Louisville,67,D+,D+,6,2016,grade
+Louisville,52,C+,C+,7,2016,grade
+Louisville,40,B-,B-,8,2016,grade
+Louisville,74,F,F,9,2016,grade
+Louisville,62,D+,D+,10,2016,grade
+Louisville,53,C,C,11,2016,grade
+Louisville,35,B-,B-,12,2016,grade
+Louisville,67,D,D,22,2016,grade
+Louisville,63,D+,D+,23,2016,grade
+Memphis,3,A+,A+,1,2016,grade
+Memphis,2,A+,A+,2,2016,grade
+Memphis,13,A-,A-,6,2016,grade
+Memphis,20,B+,B+,7,2016,grade
+Memphis,36,B-,B-,8,2016,grade
+Memphis,14,A-,A-,9,2016,grade
+Memphis,6,A+,A+,10,2016,grade
+Memphis,36,B-,B-,11,2016,grade
+Memphis,12,A-,A-,12,2016,grade
+Memphis,1,A+,A+,22,2016,grade
+Memphis,2,A+,A+,23,2016,grade
+Miami,66,C-,C-,1,2016,grade
+Miami,74,F,F,2,2016,grade
+Miami,27,B,B,6,2016,grade
+Miami,19,B+,B+,7,2016,grade
+Miami,21,B+,B+,8,2016,grade
+Miami,18,B+,B+,9,2016,grade
+Miami,30,B,B,10,2016,grade
+Miami,35,B-,B-,11,2016,grade
+Miami,36,B-,B-,12,2016,grade
+Miami,22,B+,B+,22,2016,grade
+Miami,69,F,F,23,2016,grade
+Milwaukee,55,C-,C-,1,2016,grade
+Milwaukee,56,C-,C-,2,2016,grade
+Milwaukee,56,C,C,6,2016,grade
+Milwaukee,59,C,C,7,2016,grade
+Milwaukee,50,C+,C+,8,2016,grade
+Milwaukee,62,C-,C-,9,2016,grade
+Milwaukee,74,D,D,10,2016,grade
+Milwaukee,52,C+,C+,11,2016,grade
+Milwaukee,53,C+,C+,12,2016,grade
+Milwaukee,34,B,B,22,2016,grade
+Milwaukee,1,A+,A+,23,2016,grade
+Minneapolis,41,B-,B-,1,2016,grade
+Minneapolis,34,B-,B-,2,2016,grade
+Minneapolis,57,C,C,6,2016,grade
+Minneapolis,42,B-,B-,7,2016,grade
+Minneapolis,59,C,C,8,2016,grade
+Minneapolis,53,C,C,9,2016,grade
+Minneapolis,50,C,C,10,2016,grade
+Minneapolis,56,C,C,11,2016,grade
+Minneapolis,68,C-,C-,12,2016,grade
+Minneapolis,68,D,D,22,2016,grade
+Minneapolis,18,A,A,23,2016,grade
+Nashville,2,A+,A+,1,2016,grade
+Nashville,7,A+,A+,2,2016,grade
+Nashville,9,A,A,6,2016,grade
+Nashville,15,B+,B+,7,2016,grade
+Nashville,7,A+,A+,8,2016,grade
+Nashville,4,A+,A+,9,2016,grade
+Nashville,15,A-,A-,10,2016,grade
+Nashville,4,A+,A+,11,2016,grade
+Nashville,10,A,A,12,2016,grade
+Nashville,33,B,B,22,2016,grade
+Nashville,45,C,C,23,2016,grade
+New Haven,61,C-,C-,1,2016,grade
+New Haven,52,C,C,2,2016,grade
+New Haven,11,A-,A-,6,2016,grade
+New Haven,13,A-,A-,7,2016,grade
+New Haven,4,A+,A+,8,2016,grade
+New Haven,40,B-,B-,9,2016,grade
+New Haven,18,A-,A-,10,2016,grade
+New Haven,1,A+,A+,11,2016,grade
+New Haven,3,A+,A+,12,2016,grade
+New Haven,3,A+,A+,22,2016,grade
+New Haven,31,B,B,23,2016,grade
+New Orleans,26,B+,B+,1,2016,grade
+New Orleans,22,B+,B+,2,2016,grade
+New Orleans,40,B-,B-,6,2016,grade
+New Orleans,55,C,C,7,2016,grade
+New Orleans,49,C+,C+,8,2016,grade
+New Orleans,55,C,C,9,2016,grade
+New Orleans,37,B-,B-,10,2016,grade
+New Orleans,12,A-,A-,11,2016,grade
+New Orleans,23,B+,B+,12,2016,grade
+New Orleans,24,B+,B+,22,2016,grade
+New Orleans,74,F,F,23,2016,grade
+New York,47,C+,C+,1,2016,grade
+New York,65,D+,D+,2,2016,grade
+New York,45,C+,C+,6,2016,grade
+New York,31,B,B,7,2016,grade
+New York,39,B-,B-,8,2016,grade
+New York,47,C+,C+,9,2016,grade
+New York,54,C,C,10,2016,grade
+New York,33,B-,B-,11,2016,grade
+New York,37,B-,B-,12,2016,grade
+New York,4,A+,A+,22,2016,grade
+New York,34,B-,B-,23,2016,grade
+Newark,38,B-,B-,1,2016,grade
+Newark,37,B-,B-,2,2016,grade
+Newark,61,C-,C-,6,2016,grade
+Newark,60,C-,C-,7,2016,grade
+Newark,43,C+,C+,8,2016,grade
+Newark,63,C-,C-,9,2016,grade
+Newark,53,C,C,10,2016,grade
+Newark,51,C+,C+,11,2016,grade
+Newark,70,D+,D+,12,2016,grade
+Newark,35,B,B,22,2016,grade
+Newark,53,C-,C-,23,2016,grade
+Oakland,52,C,C,1,2016,grade
+Oakland,73,D,D,2,2016,grade
+Oakland,62,C-,C-,6,2016,grade
+Oakland,61,C-,C-,7,2016,grade
+Oakland,69,D,D,8,2016,grade
+Oakland,67,D+,D+,9,2016,grade
+Oakland,55,C-,C-,10,2016,grade
+Oakland,50,C+,C+,11,2016,grade
+Oakland,71,D+,D+,12,2016,grade
+Oakland,46,B-,B-,22,2016,grade
+Oakland,23,A-,A-,23,2016,grade
+Oklahoma City,35,B,B,1,2016,grade
+Oklahoma City,40,B-,B-,2,2016,grade
+Oklahoma City,44,B-,B-,6,2016,grade
+Oklahoma City,63,C-,C-,7,2016,grade
+Oklahoma City,42,C+,C+,8,2016,grade
+Oklahoma City,34,B,B,9,2016,grade
+Oklahoma City,42,C+,C+,10,2016,grade
+Oklahoma City,40,C+,C+,11,2016,grade
+Oklahoma City,5,A,A,12,2016,grade
+Oklahoma City,17,A-,A-,22,2016,grade
+Oklahoma City,68,F,F,23,2016,grade
+Omaha,43,C+,C+,1,2016,grade
+Omaha,76,F,F,2,2016,grade
+Omaha,55,C,C,6,2016,grade
+Omaha,53,C,C,7,2016,grade
+Omaha,70,D,D,8,2016,grade
+Omaha,60,C-,C-,9,2016,grade
+Omaha,47,C+,C+,10,2016,grade
+Omaha,47,C+,C+,11,2016,grade
+Omaha,45,C+,C+,12,2016,grade
+Omaha,63,D+,D+,22,2016,grade
+Omaha,76,F,F,23,2016,grade
+Orlando,31,B,B,1,2016,grade
+Orlando,39,B-,B-,2,2016,grade
+Orlando,14,A-,A-,6,2016,grade
+Orlando,25,B,B,7,2016,grade
+Orlando,20,B+,B+,8,2016,grade
+Orlando,15,A-,A-,9,2016,grade
+Orlando,12,A,A,10,2016,grade
+Orlando,9,A,A,11,2016,grade
+Orlando,18,A-,A-,12,2016,grade
+Orlando,11,A,A,22,2016,grade
+Orlando,24,A-,A-,23,2016,grade
+Oxnard,77,F,F,1,2016,grade
+Oxnard,78,F,F,2,2016,grade
+Oxnard,76,F,F,6,2016,grade
+Oxnard,65,C-,C-,7,2016,grade
+Oxnard,70,D,D,8,2016,grade
+Oxnard,77,F,F,9,2016,grade
+Oxnard,76,F,F,10,2016,grade
+Oxnard,76,D,D,11,2016,grade
+Oxnard,52,C+,C+,12,2016,grade
+Oxnard,64,D+,D+,22,2016,grade
+Oxnard,4,A+,A+,23,2016,grade
+Philadelphia,48,C+,C+,1,2016,grade
+Philadelphia,49,C,C,2,2016,grade
+Philadelphia,48,C+,C+,6,2016,grade
+Philadelphia,36,B-,B-,7,2016,grade
+Philadelphia,38,B-,B-,8,2016,grade
+Philadelphia,45,B-,B-,9,2016,grade
+Philadelphia,44,C+,C+,10,2016,grade
+Philadelphia,30,B,B,11,2016,grade
+Philadelphia,49,C+,C+,12,2016,grade
+Philadelphia,19,B+,B+,22,2016,grade
+Philadelphia,44,C,C,23,2016,grade
+Phoenix,30,B,B,1,2016,grade
+Phoenix,24,B+,B+,2,2016,grade
+Phoenix,34,B,B,6,2016,grade
+Phoenix,27,B,B,7,2016,grade
+Phoenix,34,B-,B-,8,2016,grade
+Phoenix,36,B-,B-,9,2016,grade
+Phoenix,26,B+,B+,10,2016,grade
+Phoenix,34,B-,B-,11,2016,grade
+Phoenix,33,B-,B-,12,2016,grade
+Phoenix,36,B-,B-,22,2016,grade
+Phoenix,10,A+,A+,23,2016,grade
+Pittsburgh,68,C-,C-,1,2016,grade
+Pittsburgh,58,C-,C-,2,2016,grade
+Pittsburgh,50,C+,C+,6,2016,grade
+Pittsburgh,53,C,C,7,2016,grade
+Pittsburgh,37,B-,B-,8,2016,grade
+Pittsburgh,41,B-,B-,9,2016,grade
+Pittsburgh,60,C-,C-,10,2016,grade
+Pittsburgh,68,C-,C-,11,2016,grade
+Pittsburgh,50,C+,C+,12,2016,grade
+Pittsburgh,57,C-,C-,22,2016,grade
+Pittsburgh,66,D,D,23,2016,grade
+Portland,18,A-,A-,1,2016,grade
+Portland,6,A+,A+,2,2016,grade
+Portland,29,B,B,6,2016,grade
+Portland,17,B+,B+,7,2016,grade
+Portland,28,B,B,8,2016,grade
+Portland,49,C+,C+,9,2016,grade
+Portland,32,B,B,10,2016,grade
+Portland,29,B,B,11,2016,grade
+Portland,42,C+,C+,12,2016,grade
+Portland,38,B-,B-,22,2016,grade
+Portland,15,A+,A+,23,2016,grade
+Providence,58,C-,C-,1,2016,grade
+Providence,64,D+,D+,2,2016,grade
+Providence,37,B-,B-,6,2016,grade
+Providence,40,B-,B-,7,2016,grade
+Providence,27,B,B,8,2016,grade
+Providence,26,B,B,9,2016,grade
+Providence,48,C+,C+,10,2016,grade
+Providence,19,B+,B+,11,2016,grade
+Providence,32,B-,B-,12,2016,grade
+Providence,32,B,B,22,2016,grade
+Providence,48,C,C,23,2016,grade
+Raleigh,25,B+,B+,1,2016,grade
+Raleigh,19,A-,A-,2,2016,grade
+Raleigh,36,B-,B-,6,2016,grade
+Raleigh,37,B-,B-,7,2016,grade
+Raleigh,24,B+,B+,8,2016,grade
+Raleigh,31,B,B,9,2016,grade
+Raleigh,33,B,B,10,2016,grade
+Raleigh,49,C+,C+,11,2016,grade
+Raleigh,38,B-,B-,12,2016,grade
+Raleigh,45,B-,B-,22,2016,grade
+Raleigh,41,C+,C+,23,2016,grade
+Richmond,14,A-,A-,1,2016,grade
+Richmond,15,A,A,2,2016,grade
+Richmond,6,A,A,6,2016,grade
+Richmond,8,A,A,7,2016,grade
+Richmond,2,A+,A+,8,2016,grade
+Richmond,21,B+,B+,9,2016,grade
+Richmond,5,A+,A+,10,2016,grade
+Richmond,2,A+,A+,11,2016,grade
+Richmond,15,A-,A-,12,2016,grade
+Richmond,2,A+,A+,22,2016,grade
+Richmond,5,A+,A+,23,2016,grade
+Riverside,65,C-,C-,1,2016,grade
+Riverside,66,D+,D+,2,2016,grade
+Riverside,49,C+,C+,6,2016,grade
+Riverside,58,C,C,7,2016,grade
+Riverside,48,C+,C+,8,2016,grade
+Riverside,50,C,C,9,2016,grade
+Riverside,51,C,C,10,2016,grade
+Riverside,69,C-,C-,11,2016,grade
+Riverside,48,C+,C+,12,2016,grade
+Riverside,52,C+,C+,22,2016,grade
+Riverside,67,F,F,23,2016,grade
+Rochester,70,D+,D+,1,2016,grade
+Rochester,63,C-,C-,2,2016,grade
+Rochester,66,D+,D+,6,2016,grade
+Rochester,45,C+,C+,7,2016,grade
+Rochester,73,D,D,8,2016,grade
+Rochester,71,F,F,9,2016,grade
+Rochester,61,D+,D+,10,2016,grade
+Rochester,44,C+,C+,11,2016,grade
+Rochester,57,C,C,12,2016,grade
+Rochester,64,D+,D+,22,2016,grade
+Rochester,75,F,F,23,2016,grade
+Sacramento,73,D,D,1,2016,grade
+Sacramento,67,D+,D+,2,2016,grade
+Sacramento,78,F,F,6,2016,grade
+Sacramento,78,F,F,7,2016,grade
+Sacramento,78,F,F,8,2016,grade
+Sacramento,78,F,F,9,2016,grade
+Sacramento,78,F,F,10,2016,grade
+Sacramento,78,F,F,11,2016,grade
+Sacramento,78,F,F,12,2016,grade
+Sacramento,61,D+,D+,22,2016,grade
+Sacramento,12,A+,A+,23,2016,grade
+Salt Lake City,15,A-,A-,1,2016,grade
+Salt Lake City,13,A,A,2,2016,grade
+Salt Lake City,33,B,B,6,2016,grade
+Salt Lake City,34,B-,B-,7,2016,grade
+Salt Lake City,32,B-,B-,8,2016,grade
+Salt Lake City,13,A-,A-,9,2016,grade
+Salt Lake City,18,A-,A-,10,2016,grade
+Salt Lake City,65,C-,C-,11,2016,grade
+Salt Lake City,61,C-,C-,12,2016,grade
+Salt Lake City,58,C-,C-,22,2016,grade
+Salt Lake City,59,D+,D+,23,2016,grade
+San Antonio,1,A+,A+,1,2016,grade
+San Antonio,1,A+,A+,2,2016,grade
+San Antonio,1,A+,A+,6,2016,grade
+San Antonio,1,A+,A+,7,2016,grade
+San Antonio,1,A+,A+,8,2016,grade
+San Antonio,1,A+,A+,9,2016,grade
+San Antonio,1,A+,A+,10,2016,grade
+San Antonio,3,A+,A+,11,2016,grade
+San Antonio,2,A+,A+,12,2016,grade
+San Antonio,27,B+,B+,22,2016,grade
+San Antonio,14,A+,A+,23,2016,grade
+San Diego,54,C,C,1,2016,grade
+San Diego,70,D,D,2,2016,grade
+San Diego,64,C-,C-,6,2016,grade
+San Diego,70,D+,D+,7,2016,grade
+San Diego,72,D,D,8,2016,grade
+San Diego,59,C-,C-,9,2016,grade
+San Diego,52,C,C,10,2016,grade
+San Diego,74,D+,D+,11,2016,grade
+San Diego,64,C-,C-,12,2016,grade
+San Diego,48,C+,C+,22,2016,grade
+San Diego,54,C-,C-,23,2016,grade
+San Francisco,76,F,F,1,2016,grade
+San Francisco,75,F,F,2,2016,grade
+San Francisco,77,F,F,6,2016,grade
+San Francisco,73,D+,D+,7,2016,grade
+San Francisco,62,C-,C-,8,2016,grade
+San Francisco,75,F,F,9,2016,grade
+San Francisco,77,F,F,10,2016,grade
+San Francisco,67,C-,C-,11,2016,grade
+San Francisco,69,D+,D+,12,2016,grade
+San Francisco,71,F,F,22,2016,grade
+San Francisco,19,A,A,23,2016,grade
+San Jose,67,C-,C-,1,2016,grade
+San Jose,44,B-,B-,2,2016,grade
+San Jose,46,C+,C+,6,2016,grade
+San Jose,33,B-,B-,7,2016,grade
+San Jose,50,C+,C+,8,2016,grade
+San Jose,54,C,C,9,2016,grade
+San Jose,64,D+,D+,10,2016,grade
+San Jose,48,C+,C+,11,2016,grade
+San Jose,39,B-,B-,12,2016,grade
+San Jose,37,B-,B-,22,2016,grade
+San Jose,65,D,D,23,2016,grade
+Sarasota,24,B+,B+,1,2016,grade
+Sarasota,12,A,A,2,2016,grade
+Sarasota,38,B-,B-,6,2016,grade
+Sarasota,44,C+,C+,7,2016,grade
+Sarasota,46,C+,C+,8,2016,grade
+Sarasota,24,B+,B+,9,2016,grade
+Sarasota,16,A-,A-,10,2016,grade
+Sarasota,31,B,B,11,2016,grade
+Sarasota,34,B-,B-,12,2016,grade
+Sarasota,68,D,D,22,2016,grade
+Sarasota,17,A,A,23,2016,grade
+Seattle,40,B-,B-,1,2016,grade
+Seattle,32,B,B,2,2016,grade
+Seattle,54,C,C,6,2016,grade
+Seattle,50,C+,C+,7,2016,grade
+Seattle,56,C,C,8,2016,grade
+Seattle,57,C-,C-,9,2016,grade
+Seattle,45,C+,C+,10,2016,grade
+Seattle,66,C-,C-,11,2016,grade
+Seattle,73,D+,D+,12,2016,grade
+Seattle,54,C+,C+,22,2016,grade
+Seattle,62,D+,D+,23,2016,grade
+St. Louis,45,C+,C+,1,2016,grade
+St. Louis,35,B-,B-,2,2016,grade
+St. Louis,52,C,C,6,2016,grade
+St. Louis,67,C-,C-,7,2016,grade
+St. Louis,67,D+,D+,8,2016,grade
+St. Louis,44,B-,B-,9,2016,grade
+St. Louis,41,C+,C+,10,2016,grade
+St. Louis,42,C+,C+,11,2016,grade
+St. Louis,65,C-,C-,12,2016,grade
+St. Louis,55,C,C,22,2016,grade
+St. Louis,38,C+,C+,23,2016,grade
+Syracuse,78,F,F,1,2016,grade
+Syracuse,68,D,D,2,2016,grade
+Syracuse,65,C-,C-,6,2016,grade
+Syracuse,68,C-,C-,7,2016,grade
+Syracuse,75,D,D,8,2016,grade
+Syracuse,76,F,F,9,2016,grade
+Syracuse,73,D,D,10,2016,grade
+Syracuse,58,C,C,11,2016,grade
+Syracuse,41,B-,B-,12,2016,grade
+Syracuse,49,C+,C+,22,2016,grade
+Syracuse,33,B,B,23,2016,grade
+Tacoma,42,B-,B-,1,2016,grade
+Tacoma,20,A-,A-,2,2016,grade
+Tacoma,24,B+,B+,6,2016,grade
+Tacoma,6,A,A,7,2016,grade
+Tacoma,44,C+,C+,8,2016,grade
+Tacoma,29,B,B,9,2016,grade
+Tacoma,21,B+,B+,10,2016,grade
+Tacoma,22,B,B,11,2016,grade
+Tacoma,47,C+,C+,12,2016,grade
+Tacoma,72,F,F,22,2016,grade
+Tacoma,47,C,C,23,2016,grade
+Tampa,28,B,B,1,2016,grade
+Tampa,28,B,B,2,2016,grade
+Tampa,21,B+,B+,6,2016,grade
+Tampa,35,B-,B-,7,2016,grade
+Tampa,30,B,B,8,2016,grade
+Tampa,10,A,A,9,2016,grade
+Tampa,23,B+,B+,10,2016,grade
+Tampa,18,A-,A-,11,2016,grade
+Tampa,9,A,A,12,2016,grade
+Tampa,47,B-,B-,22,2016,grade
+Tampa,57,C-,C-,23,2016,grade
+Tucson,74,D,D,1,2016,grade
+Tucson,56,C-,C-,2,2016,grade
+Tucson,75,F,F,6,2016,grade
+Tucson,77,F,F,7,2016,grade
+Tucson,74,D,D,8,2016,grade
+Tucson,64,C-,C-,9,2016,grade
+Tucson,72,D,D,10,2016,grade
+Tucson,72,D+,D+,11,2016,grade
+Tucson,76,F,F,12,2016,grade
+Tucson,5,A+,A+,22,2016,grade
+Tucson,58,D+,D+,23,2016,grade
+Tulsa,22,B+,B+,1,2016,grade
+Tulsa,23,B+,B+,2,2016,grade
+Tulsa,53,C,C,6,2016,grade
+Tulsa,51,C+,C+,7,2016,grade
+Tulsa,57,C,C,8,2016,grade
+Tulsa,66,C-,C-,9,2016,grade
+Tulsa,49,C,C,10,2016,grade
+Tulsa,37,B-,B-,11,2016,grade
+Tulsa,51,C+,C+,12,2016,grade
+Tulsa,59,C-,C-,22,2016,grade
+Tulsa,43,C+,C+,23,2016,grade
+Virginia Beach,8,A,A,1,2016,grade
+Virginia Beach,3,A+,A+,2,2016,grade
+Virginia Beach,15,A-,A-,6,2016,grade
+Virginia Beach,14,A-,A-,7,2016,grade
+Virginia Beach,15,A-,A-,8,2016,grade
+Virginia Beach,11,A,A,9,2016,grade
+Virginia Beach,17,A-,A-,10,2016,grade
+Virginia Beach,32,B-,B-,11,2016,grade
+Virginia Beach,31,B,B,12,2016,grade
+Virginia Beach,8,A+,A+,22,2016,grade
+Virginia Beach,72,F,F,23,2016,grade
+"Washington, DC",32,B,B,1,2016,grade
+"Washington, DC",42,B-,B-,2,2016,grade
+"Washington, DC",20,B+,B+,6,2016,grade
+"Washington, DC",18,B+,B+,7,2016,grade
+"Washington, DC",17,A-,A-,8,2016,grade
+"Washington, DC",22,B+,B+,9,2016,grade
+"Washington, DC",24,B+,B+,10,2016,grade
+"Washington, DC",23,B,B,11,2016,grade
+"Washington, DC",20,B+,B+,12,2016,grade
+"Washington, DC",14,A-,A-,22,2016,grade
+"Washington, DC",28,B+,B+,23,2016,grade
+West Palm Beach,59,C-,C-,1,2016,grade
+West Palm Beach,53,C,C,2,2016,grade
+West Palm Beach,51,C,C,6,2016,grade
+West Palm Beach,56,C,C,7,2016,grade
+West Palm Beach,53,C,C,8,2016,grade
+West Palm Beach,42,B-,B-,9,2016,grade
+West Palm Beach,56,C-,C-,10,2016,grade
+West Palm Beach,61,C,C,11,2016,grade
+West Palm Beach,43,C+,C+,12,2016,grade
+West Palm Beach,39,B-,B-,22,2016,grade
+West Palm Beach,40,C+,C+,23,2016,grade
+Worcester,71,D+,D+,1,2016,grade
+Worcester,77,F,F,2,2016,grade
+Worcester,59,C,C,6,2016,grade
+Worcester,48,C+,C+,7,2016,grade
+Worcester,60,C-,C-,8,2016,grade
+Worcester,52,C,C,9,2016,grade
+Worcester,68,D+,D+,10,2016,grade
+Worcester,26,B,B,11,2016,grade
+Worcester,26,B,B,12,2016,grade
+Worcester,66,D,D,22,2016,grade
+Worcester,78,F,F,23,2016,grade
+Albany,51,C+,C+,1,2017,grade
+Albany,35,B,B,2,2017,grade
+Albany,79,F,F,6,2017,grade
+Albany,77,F,F,7,2017,grade
+Albany,77,F,F,8,2017,grade
+Albany,73,D,D,9,2017,grade
+Albany,76,F,F,10,2017,grade
+Albany,78,F,F,11,2017,grade
+Albany,66,D,D,12,2017,grade
+Albany,64,C-,C-,22,2017,grade
+Albany,62,C,C,23,2017,grade
+Albany,72,D,D,24,2017,grade
+Albuquerque,77,D,D,1,2017,grade
+Albuquerque,37,B-,B-,2,2017,grade
+Albuquerque,61,C-,C-,6,2017,grade
+Albuquerque,51,C,C,7,2017,grade
+Albuquerque,43,B,B,8,2017,grade
+Albuquerque,69,D+,D+,9,2017,grade
+Albuquerque,54,C-,C-,10,2017,grade
+Albuquerque,63,C,C,11,2017,grade
+Albuquerque,66,D,D,12,2017,grade
+Albuquerque,59,C,C,22,2017,grade
+Albuquerque,28,B,B,23,2017,grade
+Albuquerque,44,C+,C+,24,2017,grade
+Allentown,39,B,B,1,2017,grade
+Allentown,32,B,B,2,2017,grade
+Allentown,19,B+,B+,6,2017,grade
+Allentown,18,A-,A-,7,2017,grade
+Allentown,47,B-,B-,8,2017,grade
+Allentown,10,A-,A-,9,2017,grade
+Allentown,18,A-,A-,10,2017,grade
+Allentown,36,B,B,11,2017,grade
+Allentown,45,C-,C-,12,2017,grade
+Allentown,45,C+,C+,22,2017,grade
+Allentown,74,D+,D+,23,2017,grade
+Allentown,5,A+,A+,24,2017,grade
+Anaheim,52,C+,C+,1,2017,grade
+Anaheim,69,D,D,2,2017,grade
+Anaheim,60,C-,C-,6,2017,grade
+Anaheim,49,C+,C+,7,2017,grade
+Anaheim,57,C+,C+,8,2017,grade
+Anaheim,60,C,C,9,2017,grade
+Anaheim,68,D+,D+,10,2017,grade
+Anaheim,73,D+,D+,11,2017,grade
+Anaheim,43,C,C,12,2017,grade
+Anaheim,78,D,D,22,2017,grade
+Anaheim,12,A-,A-,23,2017,grade
+Anaheim,60,C-,C-,24,2017,grade
+Atlanta,15,A-,A-,1,2017,grade
+Atlanta,16,B+,B+,2,2017,grade
+Atlanta,18,B+,B+,6,2017,grade
+Atlanta,27,B+,B+,7,2017,grade
+Atlanta,19,A,A,8,2017,grade
+Atlanta,21,B+,B+,9,2017,grade
+Atlanta,17,A-,A-,10,2017,grade
+Atlanta,39,B,B,11,2017,grade
+Atlanta,20,B-,B-,12,2017,grade
+Atlanta,17,A,A,22,2017,grade
+Atlanta,58,C+,C+,23,2017,grade
+Atlanta,22,A-,A-,24,2017,grade
+Austin,4,A+,A+,1,2017,grade
+Austin,9,A,A,2,2017,grade
+Austin,48,C+,C+,6,2017,grade
+Austin,65,C-,C-,7,2017,grade
+Austin,37,B,B,8,2017,grade
+Austin,31,B,B,9,2017,grade
+Austin,43,C+,C+,10,2017,grade
+Austin,68,C,C,11,2017,grade
+Austin,76,F,F,12,2017,grade
+Austin,49,C+,C+,22,2017,grade
+Austin,25,B,B,23,2017,grade
+Austin,43,C+,C+,24,2017,grade
+Baltimore,59,C,C,1,2017,grade
+Baltimore,67,D+,D+,2,2017,grade
+Baltimore,76,F,F,6,2017,grade
+Baltimore,76,D,D,7,2017,grade
+Baltimore,76,F,F,8,2017,grade
+Baltimore,71,D,D,9,2017,grade
+Baltimore,79,F,F,10,2017,grade
+Baltimore,79,F,F,11,2017,grade
+Baltimore,79,F,F,12,2017,grade
+Baltimore,43,C+,C+,22,2017,grade
+Baltimore,45,B-,B-,23,2017,grade
+Baltimore,46,C,C,24,2017,grade
+Birmingham,70,D+,D+,1,2017,grade
+Birmingham,17,B+,B+,2,2017,grade
+Birmingham,63,C-,C-,6,2017,grade
+Birmingham,47,C+,C+,7,2017,grade
+Birmingham,72,D,D,8,2017,grade
+Birmingham,72,D,D,9,2017,grade
+Birmingham,58,C-,C-,10,2017,grade
+Birmingham,13,A-,A-,11,2017,grade
+Birmingham,26,C+,C+,12,2017,grade
+Birmingham,24,B+,B+,22,2017,grade
+Birmingham,18,A-,A-,23,2017,grade
+Birmingham,67,D+,D+,24,2017,grade
+Boise,1,A+,A+,1,2017,grade
+Boise,3,A+,A+,2,2017,grade
+Boise,5,A+,A+,6,2017,grade
+Boise,13,A-,A-,7,2017,grade
+Boise,9,A+,A+,8,2017,grade
+Boise,5,A,A,9,2017,grade
+Boise,5,A+,A+,10,2017,grade
+Boise,15,A-,A-,11,2017,grade
+Boise,4,A+,A+,12,2017,grade
+Boise,21,A-,A-,22,2017,grade
+Boise,57,C+,C+,23,2017,grade
+Boise,4,A+,A+,24,2017,grade
+Boston,33,B,B,1,2017,grade
+Boston,55,C-,C-,2,2017,grade
+Boston,42,C+,C+,6,2017,grade
+Boston,38,B,B,7,2017,grade
+Boston,45,B-,B-,8,2017,grade
+Boston,55,C,C,9,2017,grade
+Boston,38,C+,C+,10,2017,grade
+Boston,25,B+,B+,11,2017,grade
+Boston,34,C,C,12,2017,grade
+Boston,61,C-,C-,22,2017,grade
+Boston,33,B-,B-,23,2017,grade
+Boston,58,C-,C-,24,2017,grade
+Bridgeport,41,B,B,1,2017,grade
+Bridgeport,53,C,C,2,2017,grade
+Bridgeport,59,C-,C-,6,2017,grade
+Bridgeport,25,B+,B+,7,2017,grade
+Bridgeport,26,B+,B+,8,2017,grade
+Bridgeport,61,C,C,9,2017,grade
+Bridgeport,66,D+,D+,10,2017,grade
+Bridgeport,34,B,B,11,2017,grade
+Bridgeport,58,D+,D+,12,2017,grade
+Bridgeport,18,A,A,22,2017,grade
+Bridgeport,72,D+,D+,23,2017,grade
+Bridgeport,53,C,C,24,2017,grade
+Buffalo,68,D+,D+,1,2017,grade
+Buffalo,57,C-,C-,2,2017,grade
+Buffalo,58,C,C,6,2017,grade
+Buffalo,71,D+,D+,7,2017,grade
+Buffalo,51,B-,B-,8,2017,grade
+Buffalo,64,C-,C-,9,2017,grade
+Buffalo,62,D+,D+,10,2017,grade
+Buffalo,67,C,C,11,2017,grade
+Buffalo,40,C,C,12,2017,grade
+Buffalo,64,C-,C-,22,2017,grade
+Buffalo,21,B+,B+,23,2017,grade
+Buffalo,56,C-,C-,24,2017,grade
+Camden,73,D+,D+,1,2017,grade
+Camden,28,B,B,2,2017,grade
+Camden,39,B-,B-,6,2017,grade
+Camden,67,C-,C-,7,2017,grade
+Camden,33,B+,B+,8,2017,grade
+Camden,45,B-,B-,9,2017,grade
+Camden,57,C-,C-,10,2017,grade
+Camden,19,A-,A-,11,2017,grade
+Camden,57,D+,D+,12,2017,grade
+Camden,38,B-,B-,22,2017,grade
+Camden,13,A-,A-,23,2017,grade
+Camden,55,C,C,24,2017,grade
+Cape Coral,75,D+,D+,1,2017,grade
+Cape Coral,72,D,D,2,2017,grade
+Cape Coral,57,C,C,6,2017,grade
+Cape Coral,34,B,B,7,2017,grade
+Cape Coral,44,B-,B-,8,2017,grade
+Cape Coral,40,B-,B-,9,2017,grade
+Cape Coral,73,D,D,10,2017,grade
+Cape Coral,61,C,C,11,2017,grade
+Cape Coral,78,F,F,12,2017,grade
+Cape Coral,33,B,B,22,2017,grade
+Cape Coral,69,C-,C-,23,2017,grade
+Cape Coral,68,D+,D+,24,2017,grade
+Charleston,58,C,C,1,2017,grade
+Charleston,41,B-,B-,2,2017,grade
+Charleston,31,B-,B-,6,2017,grade
+Charleston,43,B-,B-,7,2017,grade
+Charleston,32,B+,B+,8,2017,grade
+Charleston,46,B-,B-,9,2017,grade
+Charleston,28,B,B,10,2017,grade
+Charleston,47,B-,B-,11,2017,grade
+Charleston,72,F,F,12,2017,grade
+Charleston,51,C,C,22,2017,grade
+Charleston,19,B+,B+,23,2017,grade
+Charleston,38,B-,B-,24,2017,grade
+Charlotte,27,B+,B+,1,2017,grade
+Charlotte,36,B,B,2,2017,grade
+Charlotte,30,B-,B-,6,2017,grade
+Charlotte,20,B+,B+,7,2017,grade
+Charlotte,16,A,A,8,2017,grade
+Charlotte,38,B,B,9,2017,grade
+Charlotte,23,B+,B+,10,2017,grade
+Charlotte,21,A-,A-,11,2017,grade
+Charlotte,22,B-,B-,12,2017,grade
+Charlotte,31,B,B,22,2017,grade
+Charlotte,29,B,B,23,2017,grade
+Charlotte,36,B-,B-,24,2017,grade
+Chicago,69,D+,D+,1,2017,grade
+Chicago,66,D+,D+,2,2017,grade
+Chicago,62,C-,C-,6,2017,grade
+Chicago,52,C,C,7,2017,grade
+Chicago,53,B-,B-,8,2017,grade
+Chicago,66,D+,D+,9,2017,grade
+Chicago,63,D+,D+,10,2017,grade
+Chicago,75,D+,D+,11,2017,grade
+Chicago,62,D,D,12,2017,grade
+Chicago,28,B+,B+,22,2017,grade
+Chicago,41,B-,B-,23,2017,grade
+Chicago,73,D,D,24,2017,grade
+Cincinnati,21,B+,B+,1,2017,grade
+Cincinnati,49,C,C,2,2017,grade
+Cincinnati,11,A-,A-,6,2017,grade
+Cincinnati,32,B,B,7,2017,grade
+Cincinnati,10,A+,A+,8,2017,grade
+Cincinnati,17,A-,A-,9,2017,grade
+Cincinnati,7,A,A,10,2017,grade
+Cincinnati,6,A+,A+,11,2017,grade
+Cincinnati,8,A-,A-,12,2017,grade
+Cincinnati,51,C,C,22,2017,grade
+Cincinnati,43,B-,B-,23,2017,grade
+Cincinnati,75,D,D,24,2017,grade
+Cleveland,24,B+,B+,1,2017,grade
+Cleveland,54,C-,C-,2,2017,grade
+Cleveland,51,C,C,6,2017,grade
+Cleveland,55,C,C,7,2017,grade
+Cleveland,54,B-,B-,8,2017,grade
+Cleveland,58,C,C,9,2017,grade
+Cleveland,48,C,C,10,2017,grade
+Cleveland,48,B-,B-,11,2017,grade
+Cleveland,35,C,C,12,2017,grade
+Cleveland,63,C-,C-,22,2017,grade
+Cleveland,40,B-,B-,23,2017,grade
+Cleveland,71,D,D,24,2017,grade
+Colorado Springs,37,B,B,1,2017,grade
+Colorado Springs,12,A-,A-,2,2017,grade
+Colorado Springs,12,A-,A-,6,2017,grade
+Colorado Springs,5,A,A,7,2017,grade
+Colorado Springs,18,A,A,8,2017,grade
+Colorado Springs,32,B,B,9,2017,grade
+Colorado Springs,20,A-,A-,10,2017,grade
+Colorado Springs,38,B,B,11,2017,grade
+Colorado Springs,7,A,A,12,2017,grade
+Colorado Springs,80,D,D,22,2017,grade
+Colorado Springs,2,A+,A+,23,2017,grade
+Colorado Springs,26,B+,B+,24,2017,grade
+Columbia,30,B+,B+,1,2017,grade
+Columbia,11,A-,A-,2,2017,grade
+Columbia,43,C+,C+,6,2017,grade
+Columbia,53,C,C,7,2017,grade
+Columbia,22,A-,A-,8,2017,grade
+Columbia,53,C+,C+,9,2017,grade
+Columbia,15,A-,A-,10,2017,grade
+Columbia,5,A+,A+,11,2017,grade
+Columbia,17,B,B,12,2017,grade
+Columbia,1,A+,A+,22,2017,grade
+Columbia,80,F,F,23,2017,grade
+Columbia,6,A+,A+,24,2017,grade
+Columbus,66,C-,C-,1,2017,grade
+Columbus,24,B+,B+,2,2017,grade
+Columbus,33,B-,B-,6,2017,grade
+Columbus,35,B,B,7,2017,grade
+Columbus,13,A,A,8,2017,grade
+Columbus,22,B+,B+,9,2017,grade
+Columbus,24,B+,B+,10,2017,grade
+Columbus,31,B,B,11,2017,grade
+Columbus,54,D+,D+,12,2017,grade
+Columbus,64,C-,C-,22,2017,grade
+Columbus,20,B+,B+,23,2017,grade
+Columbus,66,D+,D+,24,2017,grade
+Dallas,38,B,B,1,2017,grade
+Dallas,34,B,B,2,2017,grade
+Dallas,26,B,B,6,2017,grade
+Dallas,28,B+,B+,7,2017,grade
+Dallas,20,A-,A-,8,2017,grade
+Dallas,24,B+,B+,9,2017,grade
+Dallas,32,B-,B-,10,2017,grade
+Dallas,17,A-,A-,11,2017,grade
+Dallas,16,B,B,12,2017,grade
+Dallas,30,B,B,22,2017,grade
+Dallas,34,B-,B-,23,2017,grade
+Dallas,42,C+,C+,24,2017,grade
+Denver,28,B+,B+,1,2017,grade
+Denver,14,A-,A-,2,2017,grade
+Denver,47,C+,C+,6,2017,grade
+Denver,47,C+,C+,7,2017,grade
+Denver,50,B-,B-,8,2017,grade
+Denver,43,B-,B-,9,2017,grade
+Denver,45,C+,C+,10,2017,grade
+Denver,50,B-,B-,11,2017,grade
+Denver,47,C-,C-,12,2017,grade
+Denver,41,C+,C+,22,2017,grade
+Denver,39,B-,B-,23,2017,grade
+Denver,32,B-,B-,24,2017,grade
+Detroit,72,D+,D+,1,2017,grade
+Detroit,50,C,C,2,2017,grade
+Detroit,55,C,C,6,2017,grade
+Detroit,60,C,C,7,2017,grade
+Detroit,60,C+,C+,8,2017,grade
+Detroit,53,C+,C+,9,2017,grade
+Detroit,41,C+,C+,10,2017,grade
+Detroit,55,C+,C+,11,2017,grade
+Detroit,48,C-,C-,12,2017,grade
+Detroit,70,D+,D+,22,2017,grade
+Detroit,30,B,B,23,2017,grade
+Detroit,79,F,F,24,2017,grade
+Fort Lauderdale,55,C,C,1,2017,grade
+Fort Lauderdale,51,C,C,2,2017,grade
+Fort Lauderdale,35,B-,B-,6,2017,grade
+Fort Lauderdale,59,C,C,7,2017,grade
+Fort Lauderdale,38,B,B,8,2017,grade
+Fort Lauderdale,23,B+,B+,9,2017,grade
+Fort Lauderdale,27,B,B,10,2017,grade
+Fort Lauderdale,52,C+,C+,11,2017,grade
+Fort Lauderdale,46,C-,C-,12,2017,grade
+Fort Lauderdale,39,B-,B-,22,2017,grade
+Fort Lauderdale,46,B-,B-,23,2017,grade
+Fort Lauderdale,35,B-,B-,24,2017,grade
+Fort Worth,11,A-,A-,1,2017,grade
+Fort Worth,19,B+,B+,2,2017,grade
+Fort Worth,15,B+,B+,6,2017,grade
+Fort Worth,37,B,B,7,2017,grade
+Fort Worth,11,A,A,8,2017,grade
+Fort Worth,8,A,A,9,2017,grade
+Fort Worth,12,A-,A-,10,2017,grade
+Fort Worth,41,B-,B-,11,2017,grade
+Fort Worth,39,C,C,12,2017,grade
+Fort Worth,9,A+,A+,22,2017,grade
+Fort Worth,44,B-,B-,23,2017,grade
+Fort Worth,52,C,C,24,2017,grade
+Grand Rapids,5,A+,A+,1,2017,grade
+Grand Rapids,38,B-,B-,2,2017,grade
+Grand Rapids,46,C+,C+,6,2017,grade
+Grand Rapids,15,A-,A-,7,2017,grade
+Grand Rapids,55,C+,C+,8,2017,grade
+Grand Rapids,57,C,C,9,2017,grade
+Grand Rapids,26,B+,B+,10,2017,grade
+Grand Rapids,42,B-,B-,11,2017,grade
+Grand Rapids,49,C-,C-,12,2017,grade
+Grand Rapids,53,C,C,22,2017,grade
+Grand Rapids,10,A,A,23,2017,grade
+Grand Rapids,64,C-,C-,24,2017,grade
+Greensboro,78,F,F,1,2017,grade
+Greensboro,15,A-,A-,2,2017,grade
+Greensboro,41,C+,C+,6,2017,grade
+Greensboro,40,B-,B-,7,2017,grade
+Greensboro,26,B+,B+,8,2017,grade
+Greensboro,48,B-,B-,9,2017,grade
+Greensboro,58,C-,C-,10,2017,grade
+Greensboro,10,A,A,11,2017,grade
+Greensboro,42,C,C,12,2017,grade
+Greensboro,2,A+,A+,22,2017,grade
+Greensboro,6,A,A,23,2017,grade
+Greensboro,25,B+,B+,24,2017,grade
+Greenville,36,B,B,1,2017,grade
+Greenville,21,B+,B+,2,2017,grade
+Greenville,3,A+,A+,6,2017,grade
+Greenville,3,A+,A+,7,2017,grade
+Greenville,1,A+,A+,8,2017,grade
+Greenville,1,A+,A+,9,2017,grade
+Greenville,11,A,A,10,2017,grade
+Greenville,32,B,B,11,2017,grade
+Greenville,14,B,B,12,2017,grade
+Greenville,37,B-,B-,22,2017,grade
+Greenville,22,B+,B+,23,2017,grade
+Greenville,77,F,F,24,2017,grade
+Hartford,73,D+,D+,1,2017,grade
+Hartford,65,D+,D+,2,2017,grade
+Hartford,67,D+,D+,6,2017,grade
+Hartford,78,F,F,7,2017,grade
+Hartford,75,F,F,8,2017,grade
+Hartford,75,F,F,9,2017,grade
+Hartford,65,D+,D+,10,2017,grade
+Hartford,36,B,B,11,2017,grade
+Hartford,66,D,D,12,2017,grade
+Hartford,71,D+,D+,22,2017,grade
+Hartford,73,D+,D+,23,2017,grade
+Hartford,78,F,F,24,2017,grade
+Honolulu,80,F,F,1,2017,grade
+Honolulu,80,F,F,2,2017,grade
+Honolulu,80,F,F,6,2017,grade
+Honolulu,80,F,F,7,2017,grade
+Honolulu,80,F,F,8,2017,grade
+Honolulu,80,F,F,9,2017,grade
+Honolulu,80,F,F,10,2017,grade
+Honolulu,46,B-,B-,11,2017,grade
+Honolulu,80,F,F,12,2017,grade
+Honolulu,79,D,D,22,2017,grade
+Honolulu,71,D+,D+,23,2017,grade
+Honolulu,51,C,C,24,2017,grade
+Houston,10,A-,A-,1,2017,grade
+Houston,8,A,A,2,2017,grade
+Houston,8,A,A,6,2017,grade
+Houston,14,A-,A-,7,2017,grade
+Houston,17,A,A,8,2017,grade
+Houston,13,A-,A-,9,2017,grade
+Houston,14,A-,A-,10,2017,grade
+Houston,9,A,A,11,2017,grade
+Houston,1,A+,A+,12,2017,grade
+Houston,5,A+,A+,22,2017,grade
+Houston,15,A-,A-,23,2017,grade
+Houston,19,A-,A-,24,2017,grade
+Indianapolis,29,B+,B+,1,2017,grade
+Indianapolis,1,A+,A+,2,2017,grade
+Indianapolis,25,B,B,6,2017,grade
+Indianapolis,18,A-,A-,7,2017,grade
+Indianapolis,68,D+,D+,8,2017,grade
+Indianapolis,35,B,B,9,2017,grade
+Indianapolis,34,B-,B-,10,2017,grade
+Indianapolis,16,A-,A-,11,2017,grade
+Indianapolis,29,C+,C+,12,2017,grade
+Indianapolis,12,A,A,22,2017,grade
+Indianapolis,48,B-,B-,23,2017,grade
+Indianapolis,41,B-,B-,24,2017,grade
+Jacksonville,32,B+,B+,1,2017,grade
+Jacksonville,58,C-,C-,2,2017,grade
+Jacksonville,52,C,C,6,2017,grade
+Jacksonville,29,B,B,7,2017,grade
+Jacksonville,24,A-,A-,8,2017,grade
+Jacksonville,27,B,B,9,2017,grade
+Jacksonville,60,D+,D+,10,2017,grade
+Jacksonville,44,B-,B-,11,2017,grade
+Jacksonville,63,D,D,12,2017,grade
+Jacksonville,40,B-,B-,22,2017,grade
+Jacksonville,60,C+,C+,23,2017,grade
+Jacksonville,1,A+,A+,24,2017,grade
+Kansas City,43,B,B,1,2017,grade
+Kansas City,26,B,B,2,2017,grade
+Kansas City,32,B-,B-,6,2017,grade
+Kansas City,39,B-,B-,7,2017,grade
+Kansas City,56,C+,C+,8,2017,grade
+Kansas City,20,B+,B+,9,2017,grade
+Kansas City,36,B-,B-,10,2017,grade
+Kansas City,30,B+,B+,11,2017,grade
+Kansas City,37,C,C,12,2017,grade
+Kansas City,67,D+,D+,22,2017,grade
+Kansas City,26,B,B,23,2017,grade
+Kansas City,12,A-,A-,24,2017,grade
+Knoxville,18,A-,A-,1,2017,grade
+Knoxville,18,B+,B+,2,2017,grade
+Knoxville,4,A+,A+,6,2017,grade
+Knoxville,8,A,A,7,2017,grade
+Knoxville,3,A+,A+,8,2017,grade
+Knoxville,18,A-,A-,9,2017,grade
+Knoxville,3,A+,A+,10,2017,grade
+Knoxville,3,A+,A+,11,2017,grade
+Knoxville,2,A+,A+,12,2017,grade
+Knoxville,22,A-,A-,22,2017,grade
+Knoxville,1,A+,A+,23,2017,grade
+Knoxville,10,A,A,24,2017,grade
+Las Vegas,61,C,C,1,2017,grade
+Las Vegas,40,B-,B-,2,2017,grade
+Las Vegas,66,C-,C-,6,2017,grade
+Las Vegas,68,D+,D+,7,2017,grade
+Las Vegas,61,C,C,8,2017,grade
+Las Vegas,42,B-,B-,9,2017,grade
+Las Vegas,55,C-,C-,10,2017,grade
+Las Vegas,59,C,C,11,2017,grade
+Las Vegas,60,D+,D+,12,2017,grade
+Las Vegas,44,C+,C+,22,2017,grade
+Las Vegas,68,C-,C-,23,2017,grade
+Las Vegas,21,A-,A-,24,2017,grade
+Lawrence,8,A,A,1,2017,grade
+Lawrence,23,B+,B+,2,2017,grade
+Lawrence,22,B,B,6,2017,grade
+Lawrence,30,B,B,7,2017,grade
+Lawrence,40,B,B,8,2017,grade
+Lawrence,24,B+,B+,9,2017,grade
+Lawrence,10,A,A,10,2017,grade
+Lawrence,13,A-,A-,11,2017,grade
+Lawrence,9,A-,A-,12,2017,grade
+Lawrence,26,B+,B+,22,2017,grade
+Lawrence,9,A,A,23,2017,grade
+Lawrence,74,D,D,24,2017,grade
+Los Angeles,53,C+,C+,1,2017,grade
+Los Angeles,77,F,F,2,2017,grade
+Los Angeles,65,C-,C-,6,2017,grade
+Los Angeles,46,C+,C+,7,2017,grade
+Los Angeles,64,C,C,8,2017,grade
+Los Angeles,62,C,C,9,2017,grade
+Los Angeles,72,D,D,10,2017,grade
+Los Angeles,69,C-,C-,11,2017,grade
+Los Angeles,65,D,D,12,2017,grade
+Los Angeles,20,A,A,22,2017,grade
+Los Angeles,35,B-,B-,23,2017,grade
+Los Angeles,50,C,C,24,2017,grade
+Louisville,7,A,A,1,2017,grade
+Louisville,13,A-,A-,2,2017,grade
+Louisville,7,A,A,6,2017,grade
+Louisville,7,A,A,7,2017,grade
+Louisville,2,A+,A+,8,2017,grade
+Louisville,12,A-,A-,9,2017,grade
+Louisville,2,A+,A+,10,2017,grade
+Louisville,11,A,A,11,2017,grade
+Louisville,3,A+,A+,12,2017,grade
+Louisville,16,A,A,22,2017,grade
+Louisville,54,C+,C+,23,2017,grade
+Louisville,24,B+,B+,24,2017,grade
+Memphis,6,A,A,1,2017,grade
+Memphis,7,A,A,2,2017,grade
+Memphis,1,A+,A+,6,2017,grade
+Memphis,4,A,A,7,2017,grade
+Memphis,5,A+,A+,8,2017,grade
+Memphis,2,A+,A+,9,2017,grade
+Memphis,4,A+,A+,10,2017,grade
+Memphis,4,A+,A+,11,2017,grade
+Memphis,6,A,A,12,2017,grade
+Memphis,3,A+,A+,22,2017,grade
+Memphis,75,D,D,23,2017,grade
+Memphis,15,A-,A-,24,2017,grade
+Miami,44,B-,B-,1,2017,grade
+Miami,64,D+,D+,2,2017,grade
+Miami,14,A-,A-,6,2017,grade
+Miami,26,B+,B+,7,2017,grade
+Miami,31,B+,B+,8,2017,grade
+Miami,7,A,A,9,2017,grade
+Miami,21,A-,A-,10,2017,grade
+Miami,22,A-,A-,11,2017,grade
+Miami,27,C+,C+,12,2017,grade
+Miami,7,A+,A+,22,2017,grade
+Miami,47,B-,B-,23,2017,grade
+Miami,29,B,B,24,2017,grade
+Milwaukee,19,A-,A-,1,2017,grade
+Milwaukee,44,C+,C+,2,2017,grade
+Milwaukee,40,C+,C+,6,2017,grade
+Milwaukee,56,C,C,7,2017,grade
+Milwaukee,35,B+,B+,8,2017,grade
+Milwaukee,14,A-,A-,9,2017,grade
+Milwaukee,33,B-,B-,10,2017,grade
+Milwaukee,45,B-,B-,11,2017,grade
+Milwaukee,32,C+,C+,12,2017,grade
+Milwaukee,73,D+,D+,22,2017,grade
+Milwaukee,59,C+,C+,23,2017,grade
+Milwaukee,23,A-,A-,24,2017,grade
+Minneapolis,22,B+,B+,1,2017,grade
+Minneapolis,30,B,B,2,2017,grade
+Minneapolis,54,C,C,6,2017,grade
+Minneapolis,45,B-,B-,7,2017,grade
+Minneapolis,49,B-,B-,8,2017,grade
+Minneapolis,56,C,C,9,2017,grade
+Minneapolis,61,D+,D+,10,2017,grade
+Minneapolis,58,C+,C+,11,2017,grade
+Minneapolis,51,D+,D+,12,2017,grade
+Minneapolis,60,C,C,22,2017,grade
+Minneapolis,27,B,B,23,2017,grade
+Minneapolis,28,B+,B+,24,2017,grade
+Nashville,17,A-,A-,1,2017,grade
+Nashville,39,B-,B-,2,2017,grade
+Nashville,45,C+,C+,6,2017,grade
+Nashville,54,C,C,7,2017,grade
+Nashville,65,C,C,8,2017,grade
+Nashville,51,C+,C+,9,2017,grade
+Nashville,42,C+,C+,10,2017,grade
+Nashville,35,B,B,11,2017,grade
+Nashville,23,C+,C+,12,2017,grade
+Nashville,50,C+,C+,22,2017,grade
+Nashville,70,D+,D+,23,2017,grade
+Nashville,37,B-,B-,24,2017,grade
+New Haven,60,C,C,1,2017,grade
+New Haven,63,D+,D+,2,2017,grade
+New Haven,71,D,D,6,2017,grade
+New Haven,69,D+,D+,7,2017,grade
+New Haven,71,D+,D+,8,2017,grade
+New Haven,70,D,D,9,2017,grade
+New Haven,69,D+,D+,10,2017,grade
+New Haven,71,C-,C-,11,2017,grade
+New Haven,36,C,C,12,2017,grade
+New Haven,75,D+,D+,22,2017,grade
+New Haven,14,A-,A-,23,2017,grade
+New Haven,47,C,C,24,2017,grade
+New Orleans,26,B+,B+,1,2017,grade
+New Orleans,33,B,B,2,2017,grade
+New Orleans,29,B,B,6,2017,grade
+New Orleans,10,A,A,7,2017,grade
+New Orleans,8,A+,A+,8,2017,grade
+New Orleans,15,A-,A-,9,2017,grade
+New Orleans,50,C,C,10,2017,grade
+New Orleans,54,C+,C+,11,2017,grade
+New Orleans,44,C-,C-,12,2017,grade
+New Orleans,19,A,A,22,2017,grade
+New Orleans,17,A-,A-,23,2017,grade
+New Orleans,3,A+,A+,24,2017,grade
+New York,71,D+,D+,1,2017,grade
+New York,78,F,F,2,2017,grade
+New York,75,F,F,6,2017,grade
+New York,73,D,D,7,2017,grade
+New York,70,D+,D+,8,2017,grade
+New York,77,F,F,9,2017,grade
+New York,74,F,F,10,2017,grade
+New York,77,D,D,11,2017,grade
+New York,75,F,F,12,2017,grade
+New York,48,C+,C+,22,2017,grade
+New York,42,B-,B-,23,2017,grade
+New York,65,C-,C-,24,2017,grade
+Newark,63,C-,C-,1,2017,grade
+Newark,71,D,D,2,2017,grade
+Newark,34,B-,B-,6,2017,grade
+Newark,58,C,C,7,2017,grade
+Newark,39,B,B,8,2017,grade
+Newark,37,B,B,9,2017,grade
+Newark,30,B-,B-,10,2017,grade
+Newark,29,B+,B+,11,2017,grade
+Newark,38,C,C,12,2017,grade
+Newark,35,B,B,22,2017,grade
+Newark,67,C,C,23,2017,grade
+Newark,61,C-,C-,24,2017,grade
+Oakland,47,B-,B-,1,2017,grade
+Oakland,59,D+,D+,2,2017,grade
+Oakland,64,C-,C-,6,2017,grade
+Oakland,72,D+,D+,7,2017,grade
+Oakland,67,D+,D+,8,2017,grade
+Oakland,74,D,D,9,2017,grade
+Oakland,49,C,C,10,2017,grade
+Oakland,65,C,C,11,2017,grade
+Oakland,53,D+,D+,12,2017,grade
+Oakland,68,D+,D+,22,2017,grade
+Oakland,36,B-,B-,23,2017,grade
+Oakland,14,A-,A-,24,2017,grade
+Oklahoma City,14,A-,A-,1,2017,grade
+Oklahoma City,6,A,A,2,2017,grade
+Oklahoma City,2,A+,A+,6,2017,grade
+Oklahoma City,1,A+,A+,7,2017,grade
+Oklahoma City,15,A,A,8,2017,grade
+Oklahoma City,3,A+,A+,9,2017,grade
+Oklahoma City,1,A+,A+,10,2017,grade
+Oklahoma City,1,A+,A+,11,2017,grade
+Oklahoma City,13,B+,B+,12,2017,grade
+Oklahoma City,6,A+,A+,22,2017,grade
+Oklahoma City,77,D,D,23,2017,grade
+Oklahoma City,69,D+,D+,24,2017,grade
+Omaha,31,B+,B+,1,2017,grade
+Omaha,62,D+,D+,2,2017,grade
+Omaha,36,B-,B-,6,2017,grade
+Omaha,16,A-,A-,7,2017,grade
+Omaha,14,A,A,8,2017,grade
+Omaha,47,B-,B-,9,2017,grade
+Omaha,46,C,C,10,2017,grade
+Omaha,23,A-,A-,11,2017,grade
+Omaha,28,C+,C+,12,2017,grade
+Omaha,4,A+,A+,22,2017,grade
+Omaha,50,B-,B-,23,2017,grade
+Omaha,31,B,B,24,2017,grade
+Orlando,45,B-,B-,1,2017,grade
+Orlando,22,B+,B+,2,2017,grade
+Orlando,13,A-,A-,6,2017,grade
+Orlando,23,B+,B+,7,2017,grade
+Orlando,21,A-,A-,8,2017,grade
+Orlando,4,A+,A+,9,2017,grade
+Orlando,16,A-,A-,10,2017,grade
+Orlando,8,A+,A+,11,2017,grade
+Orlando,18,B-,B-,12,2017,grade
+Orlando,25,B+,B+,22,2017,grade
+Orlando,32,B-,B-,23,2017,grade
+Orlando,7,A,A,24,2017,grade
+Philadelphia,42,B,B,1,2017,grade
+Philadelphia,52,C,C,2,2017,grade
+Philadelphia,56,C,C,6,2017,grade
+Philadelphia,36,B,B,7,2017,grade
+Philadelphia,46,B-,B-,8,2017,grade
+Philadelphia,49,C+,C+,9,2017,grade
+Philadelphia,53,C-,C-,10,2017,grade
+Philadelphia,64,C,C,11,2017,grade
+Philadelphia,59,D+,D+,12,2017,grade
+Philadelphia,58,C,C,22,2017,grade
+Philadelphia,76,D,D,23,2017,grade
+Philadelphia,40,B-,B-,24,2017,grade
+Phoenix,35,B,B,1,2017,grade
+Phoenix,31,B,B,2,2017,grade
+Phoenix,37,B-,B-,6,2017,grade
+Phoenix,41,B-,B-,7,2017,grade
+Phoenix,59,C+,C+,8,2017,grade
+Phoenix,44,B-,B-,9,2017,grade
+Phoenix,31,B-,B-,10,2017,grade
+Phoenix,43,B-,B-,11,2017,grade
+Phoenix,33,C+,C+,12,2017,grade
+Phoenix,54,C,C,22,2017,grade
+Phoenix,66,C,C,23,2017,grade
+Phoenix,45,C,C,24,2017,grade
+Pittsburgh,65,C-,C-,1,2017,grade
+Pittsburgh,42,C+,C+,2,2017,grade
+Pittsburgh,73,D,D,6,2017,grade
+Pittsburgh,61,C,C,7,2017,grade
+Pittsburgh,74,D,D,8,2017,grade
+Pittsburgh,78,F,F,9,2017,grade
+Pittsburgh,67,D+,D+,10,2017,grade
+Pittsburgh,70,C-,C-,11,2017,grade
+Pittsburgh,55,D+,D+,12,2017,grade
+Pittsburgh,56,C,C,22,2017,grade
+Pittsburgh,8,A,A,23,2017,grade
+Pittsburgh,76,D,D,24,2017,grade
+Portland,64,C-,C-,1,2017,grade
+Portland,70,D,D,2,2017,grade
+Portland,50,C+,C+,6,2017,grade
+Portland,66,C-,C-,7,2017,grade
+Portland,58,C+,C+,8,2017,grade
+Portland,52,C+,C+,9,2017,grade
+Portland,44,C+,C+,10,2017,grade
+Portland,51,B-,B-,11,2017,grade
+Portland,50,D+,D+,12,2017,grade
+Portland,76,D+,D+,22,2017,grade
+Portland,61,C,C,23,2017,grade
+Portland,54,C,C,24,2017,grade
+Providence,76,D,D,1,2017,grade
+Providence,74,D,D,2,2017,grade
+Providence,70,D,D,6,2017,grade
+Providence,75,D,D,7,2017,grade
+Providence,62,C,C,8,2017,grade
+Providence,63,C-,C-,9,2017,grade
+Providence,71,D+,D+,10,2017,grade
+Providence,66,C,C,11,2017,grade
+Providence,52,D+,D+,12,2017,grade
+Providence,10,A+,A+,22,2017,grade
+Providence,55,C+,C+,23,2017,grade
+Providence,48,C,C,24,2017,grade
+Raleigh,34,B,B,1,2017,grade
+Raleigh,4,A,A,2,2017,grade
+Raleigh,9,A,A,6,2017,grade
+Raleigh,11,A,A,7,2017,grade
+Raleigh,6,A+,A+,8,2017,grade
+Raleigh,6,A,A,9,2017,grade
+Raleigh,6,A,A,10,2017,grade
+Raleigh,7,A+,A+,11,2017,grade
+Raleigh,11,B+,B+,12,2017,grade
+Raleigh,13,A,A,22,2017,grade
+Raleigh,11,A,A,23,2017,grade
+Raleigh,26,B+,B+,24,2017,grade
+Richmond,48,B-,B-,1,2017,grade
+Richmond,46,C+,C+,2,2017,grade
+Richmond,28,B,B,6,2017,grade
+Richmond,62,C,C,7,2017,grade
+Richmond,41,B,B,8,2017,grade
+Richmond,26,B+,B+,9,2017,grade
+Richmond,22,B+,B+,10,2017,grade
+Richmond,57,C+,C+,11,2017,grade
+Richmond,61,D+,D+,12,2017,grade
+Richmond,36,B,B,22,2017,grade
+Richmond,3,A+,A+,23,2017,grade
+Richmond,9,A,A,24,2017,grade
+Riverside,40,B,B,1,2017,grade
+Riverside,73,D,D,2,2017,grade
+Riverside,53,C,C,6,2017,grade
+Riverside,44,B-,B-,7,2017,grade
+Riverside,42,B,B,8,2017,grade
+Riverside,50,C+,C+,9,2017,grade
+Riverside,52,C-,C-,10,2017,grade
+Riverside,40,B-,B-,11,2017,grade
+Riverside,56,D+,D+,12,2017,grade
+Riverside,34,B,B,22,2017,grade
+Riverside,63,C,C,23,2017,grade
+Riverside,18,A-,A-,24,2017,grade
+Rochester,78,F,F,1,2017,grade
+Rochester,68,D+,D+,2,2017,grade
+Rochester,78,F,F,6,2017,grade
+Rochester,70,D+,D+,7,2017,grade
+Rochester,78,F,F,8,2017,grade
+Rochester,76,F,F,9,2017,grade
+Rochester,78,F,F,10,2017,grade
+Rochester,74,D+,D+,11,2017,grade
+Rochester,71,F,F,12,2017,grade
+Rochester,14,A,A,22,2017,grade
+Rochester,22,B+,B+,23,2017,grade
+Rochester,63,C-,C-,24,2017,grade
+Sacramento,57,C,C,1,2017,grade
+Sacramento,61,D+,D+,2,2017,grade
+Sacramento,72,D,D,6,2017,grade
+Sacramento,57,C,C,7,2017,grade
+Sacramento,63,C,C,8,2017,grade
+Sacramento,67,D+,D+,9,2017,grade
+Sacramento,64,D+,D+,10,2017,grade
+Sacramento,80,F,F,11,2017,grade
+Sacramento,77,F,F,12,2017,grade
+Sacramento,77,D,D,22,2017,grade
+Sacramento,65,C,C,23,2017,grade
+Sacramento,39,B-,B-,24,2017,grade
+Salt Lake City,9,A,A,1,2017,grade
+Salt Lake City,25,B+,B+,2,2017,grade
+Salt Lake City,38,B-,B-,6,2017,grade
+Salt Lake City,31,B,B,7,2017,grade
+Salt Lake City,30,B+,B+,8,2017,grade
+Salt Lake City,39,B-,B-,9,2017,grade
+Salt Lake City,47,C,C,10,2017,grade
+Salt Lake City,53,C+,C+,11,2017,grade
+Salt Lake City,30,C+,C+,12,2017,grade
+Salt Lake City,15,A,A,22,2017,grade
+Salt Lake City,38,B-,B-,23,2017,grade
+Salt Lake City,30,B,B,24,2017,grade
+San Antonio,3,A+,A+,1,2017,grade
+San Antonio,27,B,B,2,2017,grade
+San Antonio,10,A-,A-,6,2017,grade
+San Antonio,6,A,A,7,2017,grade
+San Antonio,7,A+,A+,8,2017,grade
+San Antonio,19,A-,A-,9,2017,grade
+San Antonio,13,A-,A-,10,2017,grade
+San Antonio,12,A,A,11,2017,grade
+San Antonio,12,B+,B+,12,2017,grade
+San Antonio,23,A-,A-,22,2017,grade
+San Antonio,7,A,A,23,2017,grade
+San Antonio,17,A-,A-,24,2017,grade
+San Diego,56,C,C,1,2017,grade
+San Diego,75,D,D,2,2017,grade
+San Diego,68,D+,D+,6,2017,grade
+San Diego,64,C-,C-,7,2017,grade
+San Diego,66,C,C,8,2017,grade
+San Diego,65,D+,D+,9,2017,grade
+San Diego,70,D+,D+,10,2017,grade
+San Diego,72,C-,C-,11,2017,grade
+San Diego,70,F,F,12,2017,grade
+San Diego,72,D+,D+,22,2017,grade
+San Diego,51,C+,C+,23,2017,grade
+San Diego,57,C-,C-,24,2017,grade
+San Francisco,49,C+,C+,1,2017,grade
+San Francisco,76,D,D,2,2017,grade
+San Francisco,77,F,F,6,2017,grade
+San Francisco,74,D,D,7,2017,grade
+San Francisco,69,D+,D+,8,2017,grade
+San Francisco,79,F,F,9,2017,grade
+San Francisco,77,F,F,10,2017,grade
+San Francisco,62,C,C,11,2017,grade
+San Francisco,74,F,F,12,2017,grade
+San Francisco,47,C+,C+,22,2017,grade
+San Francisco,16,A-,A-,23,2017,grade
+San Francisco,34,B-,B-,24,2017,grade
+San Jose,54,C+,C+,1,2017,grade
+San Jose,79,F,F,2,2017,grade
+San Jose,69,D,D,6,2017,grade
+San Jose,63,C-,C-,7,2017,grade
+San Jose,72,D,D,8,2017,grade
+San Jose,59,C,C,9,2017,grade
+San Jose,56,C-,C-,10,2017,grade
+San Jose,76,D,D,11,2017,grade
+San Jose,66,D,D,12,2017,grade
+San Jose,69,D+,D+,22,2017,grade
+San Jose,52,C+,C+,23,2017,grade
+San Jose,70,D,D,24,2017,grade
+Sarasota,23,B+,B+,1,2017,grade
+Sarasota,29,B,B,2,2017,grade
+Sarasota,17,B+,B+,6,2017,grade
+Sarasota,9,A,A,7,2017,grade
+Sarasota,28,B+,B+,8,2017,grade
+Sarasota,28,B,B,9,2017,grade
+Sarasota,18,A-,A-,10,2017,grade
+Sarasota,2,A+,A+,11,2017,grade
+Sarasota,10,A-,A-,12,2017,grade
+Sarasota,55,C,C,22,2017,grade
+Sarasota,56,C+,C+,23,2017,grade
+Sarasota,13,A-,A-,24,2017,grade
+Seattle,13,A-,A-,1,2017,grade
+Seattle,20,B+,B+,2,2017,grade
+Seattle,27,B,B,6,2017,grade
+Seattle,22,B+,B+,7,2017,grade
+Seattle,34,B+,B+,8,2017,grade
+Seattle,34,B,B,9,2017,grade
+Seattle,35,B-,B-,10,2017,grade
+Seattle,20,A-,A-,11,2017,grade
+Seattle,24,C+,C+,12,2017,grade
+Seattle,32,B,B,22,2017,grade
+Seattle,49,B-,B-,23,2017,grade
+Seattle,33,B-,B-,24,2017,grade
+St. Louis,50,C+,C+,1,2017,grade
+St. Louis,47,C,C,2,2017,grade
+St. Louis,49,C+,C+,6,2017,grade
+St. Louis,33,B,B,7,2017,grade
+St. Louis,48,B-,B-,8,2017,grade
+St. Louis,36,B,B,9,2017,grade
+St. Louis,37,C+,C+,10,2017,grade
+St. Louis,56,C+,C+,11,2017,grade
+St. Louis,64,D,D,12,2017,grade
+St. Louis,74,D+,D+,22,2017,grade
+St. Louis,37,B-,B-,23,2017,grade
+St. Louis,59,C-,C-,24,2017,grade
+Tacoma,62,C-,C-,1,2017,grade
+Tacoma,43,C+,C+,2,2017,grade
+Tacoma,44,C+,C+,6,2017,grade
+Tacoma,49,C+,C+,7,2017,grade
+Tacoma,52,B-,B-,8,2017,grade
+Tacoma,30,B,B,9,2017,grade
+Tacoma,75,F,F,10,2017,grade
+Tacoma,48,B-,B-,11,2017,grade
+Tacoma,19,B-,B-,12,2017,grade
+Tacoma,57,C,C,22,2017,grade
+Tacoma,79,F,F,23,2017,grade
+Tacoma,16,A-,A-,24,2017,grade
+Tampa,25,B+,B+,1,2017,grade
+Tampa,56,C-,C-,2,2017,grade
+Tampa,23,B,B,6,2017,grade
+Tampa,21,B+,B+,7,2017,grade
+Tampa,23,A-,A-,8,2017,grade
+Tampa,16,A-,A-,9,2017,grade
+Tampa,29,B-,B-,10,2017,grade
+Tampa,27,B+,B+,11,2017,grade
+Tampa,25,C+,C+,12,2017,grade
+Tampa,42,C+,C+,22,2017,grade
+Tampa,5,A,A,23,2017,grade
+Tampa,20,A-,A-,24,2017,grade
+Tucson,67,C-,C-,1,2017,grade
+Tucson,60,D+,D+,2,2017,grade
+Tucson,74,D,D,6,2017,grade
+Tucson,79,F,F,7,2017,grade
+Tucson,79,F,F,8,2017,grade
+Tucson,68,D+,D+,9,2017,grade
+Tucson,51,C,C,10,2017,grade
+Tucson,60,C,C,11,2017,grade
+Tucson,73,F,F,12,2017,grade
+Tucson,29,B+,B+,22,2017,grade
+Tucson,64,C,C,23,2017,grade
+Tucson,49,C,C,24,2017,grade
+Tulsa,12,A-,A-,1,2017,grade
+Tulsa,5,A,A,2,2017,grade
+Tulsa,20,B+,B+,6,2017,grade
+Tulsa,42,B-,B-,7,2017,grade
+Tulsa,35,B+,B+,8,2017,grade
+Tulsa,11,A-,A-,9,2017,grade
+Tulsa,8,A,A,10,2017,grade
+Tulsa,26,B+,B+,11,2017,grade
+Tulsa,31,C+,C+,12,2017,grade
+Tulsa,11,A+,A+,22,2017,grade
+Tulsa,4,A+,A+,23,2017,grade
+Tulsa,62,C-,C-,24,2017,grade
+Virginia Beach,20,B+,B+,1,2017,grade
+Virginia Beach,2,A+,A+,2,2017,grade
+Virginia Beach,6,A,A,6,2017,grade
+Virginia Beach,2,A+,A+,7,2017,grade
+Virginia Beach,4,A+,A+,8,2017,grade
+Virginia Beach,9,A,A,9,2017,grade
+Virginia Beach,8,A,A,10,2017,grade
+Virginia Beach,33,B,B,11,2017,grade
+Virginia Beach,5,A,A,12,2017,grade
+Virginia Beach,8,A+,A+,22,2017,grade
+Virginia Beach,53,C+,C+,23,2017,grade
+Virginia Beach,2,A+,A+,24,2017,grade
+"Washington, DC",16,A-,A-,1,2017,grade
+"Washington, DC",47,C,C,2,2017,grade
+"Washington, DC",24,B,B,6,2017,grade
+"Washington, DC",17,A-,A-,7,2017,grade
+"Washington, DC",12,A,A,8,2017,grade
+"Washington, DC",29,B,B,9,2017,grade
+"Washington, DC",40,C+,C+,10,2017,grade
+"Washington, DC",24,B+,B+,11,2017,grade
+"Washington, DC",21,B-,B-,12,2017,grade
+"Washington, DC",27,B+,B+,22,2017,grade
+"Washington, DC",24,B,B,23,2017,grade
+"Washington, DC",11,A-,A-,24,2017,grade
+West Palm Beach,46,B-,B-,1,2017,grade
+West Palm Beach,45,C+,C+,2,2017,grade
+West Palm Beach,21,B,B,6,2017,grade
+West Palm Beach,24,B+,B+,7,2017,grade
+West Palm Beach,29,B+,B+,8,2017,grade
+West Palm Beach,33,B,B,9,2017,grade
+West Palm Beach,39,C+,C+,10,2017,grade
+West Palm Beach,18,A-,A-,11,2017,grade
+West Palm Beach,15,B,B,12,2017,grade
+West Palm Beach,45,C+,C+,22,2017,grade
+West Palm Beach,31,B,B,23,2017,grade
+West Palm Beach,8,A,A,24,2017,grade
+Worcester,2,A+,A+,1,2017,grade
+Worcester,10,A-,A-,2,2017,grade
+Worcester,16,B+,B+,6,2017,grade
+Worcester,12,A-,A-,7,2017,grade
+Worcester,25,A-,A-,8,2017,grade
+Worcester,41,B-,B-,9,2017,grade
+Worcester,24,B+,B+,10,2017,grade
+Worcester,28,B+,B+,11,2017,grade
+Worcester,41,C,C,12,2017,grade
+Worcester,62,C-,C-,22,2017,grade
+Worcester,78,F,F,23,2017,grade
+Worcester,80,F,F,24,2017,grade
+Albuquerque,47,D+,D+,1,2018,grade
+Albuquerque,35,C,C,2,2018,grade
+Albuquerque,29,C,C,6,2018,grade
+Albuquerque,34,B-,B-,8,2018,grade
+Albuquerque,36,C+,C+,9,2018,grade
+Albuquerque,21,B-,B-,10,2018,grade
+Albuquerque,46,D+,D+,22,2018,grade
+Albuquerque,50,D,D,23,2018,grade
+Albuquerque,1,A-,A-,24,2018,grade
+Anaheim,55,F,F,1,2018,grade
+Anaheim,44,D+,D+,2,2018,grade
+Anaheim,54,F,F,6,2018,grade
+Anaheim,54,D+,D+,8,2018,grade
+Anaheim,56,F,F,9,2018,grade
+Anaheim,39,C-,C-,10,2018,grade
+Anaheim,7,A+,A+,22,2018,grade
+Anaheim,16,B-,B-,23,2018,grade
+Anaheim,3,B-,B-,24,2018,grade
+Atlanta,14,A-,A-,1,2018,grade
+Atlanta,12,A,A,2,2018,grade
+Atlanta,8,B,B,6,2018,grade
+Atlanta,11,A,A,8,2018,grade
+Atlanta,15,B+,B+,9,2018,grade
+Atlanta,14,B+,B+,10,2018,grade
+Atlanta,11,A+,A+,22,2018,grade
+Atlanta,27,C+,C+,23,2018,grade
+Atlanta,10,C-,C-,24,2018,grade
+Austin,18,B+,B+,1,2018,grade
+Austin,10,A,A,2,2018,grade
+Austin,18,B-,B-,6,2018,grade
+Austin,21,A-,A-,8,2018,grade
+Austin,20,B+,B+,9,2018,grade
+Austin,19,B,B,10,2018,grade
+Austin,25,B,B,22,2018,grade
+Austin,15,B-,B-,23,2018,grade
+Austin,47,F,F,24,2018,grade
+Baltimore,20,B,B,1,2018,grade
+Baltimore,31,C+,C+,2,2018,grade
+Baltimore,39,D+,D+,6,2018,grade
+Baltimore,28,B,B,8,2018,grade
+Baltimore,45,D+,D+,9,2018,grade
+Baltimore,37,C-,C-,10,2018,grade
+Baltimore,48,D+,D+,22,2018,grade
+Baltimore,3,A-,A-,23,2018,grade
+Baltimore,15,D+,D+,24,2018,grade
+Boise,36,C,C,1,2018,grade
+Boise,5,A+,A+,2,2018,grade
+Boise,43,D,D,6,2018,grade
+Boise,48,C,C,8,2018,grade
+Boise,48,D+,D+,9,2018,grade
+Boise,35,C-,C-,10,2018,grade
+Boise,42,C-,C-,22,2018,grade
+Boise,52,F,F,23,2018,grade
+Boise,22,D,D,24,2018,grade
+Boston,13,A-,A-,1,2018,grade
+Boston,36,C,C,2,2018,grade
+Boston,36,C-,C-,6,2018,grade
+Boston,33,B-,B-,8,2018,grade
+Boston,35,C+,C+,9,2018,grade
+Boston,46,D,D,10,2018,grade
+Boston,26,B,B,22,2018,grade
+Boston,10,B,B,23,2018,grade
+Boston,17,D+,D+,24,2018,grade
+Charleston,7,A,A,1,2018,grade
+Charleston,6,A,A,2,2018,grade
+Charleston,7,A-,A-,6,2018,grade
+Charleston,5,A+,A+,8,2018,grade
+Charleston,5,A,A,9,2018,grade
+Charleston,11,A-,A-,10,2018,grade
+Charleston,2,A+,A+,22,2018,grade
+Charleston,33,C-,C-,23,2018,grade
+Charleston,9,C-,C-,24,2018,grade
+Charlotte,10,A-,A-,1,2018,grade
+Charlotte,25,B-,B-,2,2018,grade
+Charlotte,9,B,B,6,2018,grade
+Charlotte,18,A-,A-,8,2018,grade
+Charlotte,9,A-,A-,9,2018,grade
+Charlotte,15,B+,B+,10,2018,grade
+Charlotte,41,C-,C-,22,2018,grade
+Charlotte,12,B-,B-,23,2018,grade
+Charlotte,14,D+,D+,24,2018,grade
+Chicago,52,D,D,1,2018,grade
+Chicago,55,F,F,2,2018,grade
+Chicago,50,F,F,6,2018,grade
+Chicago,49,C,C,8,2018,grade
+Chicago,49,D,D,9,2018,grade
+Chicago,49,F,F,10,2018,grade
+Chicago,29,B-,B-,22,2018,grade
+Chicago,38,D,D,23,2018,grade
+Chicago,18,D,D,24,2018,grade
+Cincinnati,23,B,B,1,2018,grade
+Cincinnati,42,D+,D+,2,2018,grade
+Cincinnati,41,D+,D+,6,2018,grade
+Cincinnati,41,C+,C+,8,2018,grade
+Cincinnati,50,F,F,9,2018,grade
+Cincinnati,22,B-,B-,10,2018,grade
+Cincinnati,42,C-,C-,22,2018,grade
+Cincinnati,35,D+,D+,23,2018,grade
+Cincinnati,55,F,F,24,2018,grade
+Cleveland,51,D,D,1,2018,grade
+Cleveland,43,D+,D+,2,2018,grade
+Cleveland,26,C+,C+,6,2018,grade
+Cleveland,37,B-,B-,8,2018,grade
+Cleveland,23,B,B,9,2018,grade
+Cleveland,36,C-,C-,10,2018,grade
+Cleveland,21,A-,A-,22,2018,grade
+Cleveland,56,F,F,23,2018,grade
+Cleveland,43,F,F,24,2018,grade
+Colorado Springs,4,A+,A+,1,2018,grade
+Colorado Springs,27,C+,C+,2,2018,grade
+Colorado Springs,10,B,B,6,2018,grade
+Colorado Springs,12,A,A,8,2018,grade
+Colorado Springs,13,A-,A-,9,2018,grade
+Colorado Springs,9,A,A,10,2018,grade
+Colorado Springs,22,B,B,22,2018,grade
+Colorado Springs,1,A-,A-,23,2018,grade
+Colorado Springs,25,F,F,24,2018,grade
+Columbus,3,A+,A+,1,2018,grade
+Columbus,17,B+,B+,2,2018,grade
+Columbus,11,B,B,6,2018,grade
+Columbus,29,B,B,8,2018,grade
+Columbus,22,B,B,9,2018,grade
+Columbus,10,A,A,10,2018,grade
+Columbus,14,A,A,22,2018,grade
+Columbus,5,B+,B+,23,2018,grade
+Columbus,4,C,C,24,2018,grade
+Dallas,33,C+,C+,1,2018,grade
+Dallas,11,A,A,2,2018,grade
+Dallas,12,B,B,6,2018,grade
+Dallas,17,A-,A-,8,2018,grade
+Dallas,17,B+,B+,9,2018,grade
+Dallas,17,B,B,10,2018,grade
+Dallas,12,A+,A+,22,2018,grade
+Dallas,55,F,F,23,2018,grade
+Dallas,33,F,F,24,2018,grade
+Denver,41,C-,C-,1,2018,grade
+Denver,24,B,B,2,2018,grade
+Denver,32,C,C,6,2018,grade
+Denver,39,B-,B-,8,2018,grade
+Denver,31,C+,C+,9,2018,grade
+Denver,23,B-,B-,10,2018,grade
+Denver,40,C-,C-,22,2018,grade
+Denver,19,B-,B-,23,2018,grade
+Denver,39,F,F,24,2018,grade
+Detroit,16,B+,B+,1,2018,grade
+Detroit,7,A,A,2,2018,grade
+Detroit,24,C+,C+,6,2018,grade
+Detroit,37,B-,B-,8,2018,grade
+Detroit,21,B,B,9,2018,grade
+Detroit,12,A-,A-,10,2018,grade
+Detroit,14,A,A,22,2018,grade
+Detroit,18,B-,B-,23,2018,grade
+Detroit,51,F,F,24,2018,grade
+Fort Lauderdale,29,C+,C+,1,2018,grade
+Fort Lauderdale,41,D+,D+,2,2018,grade
+Fort Lauderdale,30,C,C,6,2018,grade
+Fort Lauderdale,22,B+,B+,8,2018,grade
+Fort Lauderdale,29,B-,B-,9,2018,grade
+Fort Lauderdale,34,C,C,10,2018,grade
+Fort Lauderdale,32,B-,B-,22,2018,grade
+Fort Lauderdale,29,C,C,23,2018,grade
+Fort Lauderdale,8,C-,C-,24,2018,grade
+Fort Worth,1,A+,A+,1,2018,grade
+Fort Worth,15,A-,A-,2,2018,grade
+Fort Worth,2,A+,A+,6,2018,grade
+Fort Worth,1,A+,A+,8,2018,grade
+Fort Worth,7,A-,A-,9,2018,grade
+Fort Worth,8,A,A,10,2018,grade
+Fort Worth,44,D+,D+,22,2018,grade
+Fort Worth,23,C+,C+,23,2018,grade
+Fort Worth,31,F,F,24,2018,grade
+Hartford,36,C,C,1,2018,grade
+Hartford,54,F,F,2,2018,grade
+Hartford,28,C+,C+,6,2018,grade
+Hartford,26,B,B,8,2018,grade
+Hartford,26,B,B,9,2018,grade
+Hartford,32,C,C,10,2018,grade
+Hartford,56,F,F,22,2018,grade
+Hartford,25,C+,C+,23,2018,grade
+Hartford,34,F,F,24,2018,grade
+Honolulu,56,F,F,1,2018,grade
+Honolulu,57,F,F,2,2018,grade
+Honolulu,57,F,F,6,2018,grade
+Honolulu,55,D,D,8,2018,grade
+Honolulu,54,F,F,9,2018,grade
+Honolulu,57,F,F,10,2018,grade
+Honolulu,57,F,F,22,2018,grade
+Honolulu,32,C-,C-,23,2018,grade
+Honolulu,50,F,F,24,2018,grade
+Houston,19,B,B,1,2018,grade
+Houston,14,A,A,2,2018,grade
+Houston,14,B,B,6,2018,grade
+Houston,9,A+,A+,8,2018,grade
+Houston,6,A,A,9,2018,grade
+Houston,20,B,B,10,2018,grade
+Houston,19,A-,A-,22,2018,grade
+Houston,21,B-,B-,23,2018,grade
+Houston,28,F,F,24,2018,grade
+Indianapolis,43,C-,C-,1,2018,grade
+Indianapolis,8,A,A,2,2018,grade
+Indianapolis,31,C,C,6,2018,grade
+Indianapolis,25,B+,B+,8,2018,grade
+Indianapolis,37,C,C,9,2018,grade
+Indianapolis,27,C+,C+,10,2018,grade
+Indianapolis,39,C,C,22,2018,grade
+Indianapolis,30,C,C,23,2018,grade
+Indianapolis,40,F,F,24,2018,grade
+Jacksonville,5,A+,A+,1,2018,grade
+Jacksonville,16,A-,A-,2,2018,grade
+Jacksonville,4,A+,A+,6,2018,grade
+Jacksonville,7,A+,A+,8,2018,grade
+Jacksonville,1,A+,A+,9,2018,grade
+Jacksonville,1,A+,A+,10,2018,grade
+Jacksonville,51,D+,D+,22,2018,grade
+Jacksonville,17,B-,B-,23,2018,grade
+Jacksonville,41,F,F,24,2018,grade
+Kansas City,35,C+,C+,1,2018,grade
+Kansas City,21,B,B,2,2018,grade
+Kansas City,27,C+,C+,6,2018,grade
+Kansas City,19,A-,A-,8,2018,grade
+Kansas City,34,C+,C+,9,2018,grade
+Kansas City,25,B-,B-,10,2018,grade
+Kansas City,9,A+,A+,22,2018,grade
+Kansas City,54,F,F,23,2018,grade
+Kansas City,36,F,F,24,2018,grade
+Las Vegas,42,C-,C-,1,2018,grade
+Las Vegas,33,C,C,2,2018,grade
+Las Vegas,22,C+,C+,6,2018,grade
+Las Vegas,31,B-,B-,8,2018,grade
+Las Vegas,8,A-,A-,9,2018,grade
+Las Vegas,28,C+,C+,10,2018,grade
+Las Vegas,16,A,A,22,2018,grade
+Las Vegas,24,C+,C+,23,2018,grade
+Las Vegas,13,D+,D+,24,2018,grade
+Los Angeles,46,D+,D+,1,2018,grade
+Los Angeles,53,D,D,2,2018,grade
+Los Angeles,53,F,F,6,2018,grade
+Los Angeles,52,D+,D+,8,2018,grade
+Los Angeles,51,F,F,9,2018,grade
+Los Angeles,48,D,D,10,2018,grade
+Los Angeles,30,B-,B-,22,2018,grade
+Los Angeles,51,D,D,23,2018,grade
+Los Angeles,26,F,F,24,2018,grade
+Manchester,8,A,A,1,2018,grade
+Manchester,13,A,A,2,2018,grade
+Manchester,21,B-,B-,6,2018,grade
+Manchester,4,A+,A+,8,2018,grade
+Manchester,13,A-,A-,9,2018,grade
+Manchester,16,B+,B+,10,2018,grade
+Manchester,45,D+,D+,22,2018,grade
+Manchester,14,B-,B-,23,2018,grade
+Manchester,57,F,F,24,2018,grade
+Miami,24,B-,B-,1,2018,grade
+Miami,45,D+,D+,2,2018,grade
+Miami,20,B-,B-,6,2018,grade
+Miami,23,B+,B+,8,2018,grade
+Miami,10,A-,A-,9,2018,grade
+Miami,31,C,C,10,2018,grade
+Miami,5,A+,A+,22,2018,grade
+Miami,40,D,D,23,2018,grade
+Miami,16,D+,D+,24,2018,grade
+Minneapolis,12,A-,A-,1,2018,grade
+Minneapolis,19,B,B,2,2018,grade
+Minneapolis,15,B,B,6,2018,grade
+Minneapolis,26,B,B,8,2018,grade
+Minneapolis,18,B+,B+,9,2018,grade
+Minneapolis,13,B+,B+,10,2018,grade
+Minneapolis,38,C,C,22,2018,grade
+Minneapolis,7,B,B,23,2018,grade
+Minneapolis,51,F,F,24,2018,grade
+Nashville,6,A+,A+,1,2018,grade
+Nashville,20,B,B,2,2018,grade
+Nashville,6,A-,A-,6,2018,grade
+Nashville,8,A+,A+,8,2018,grade
+Nashville,12,A-,A-,9,2018,grade
+Nashville,4,A+,A+,10,2018,grade
+Nashville,4,A+,A+,22,2018,grade
+Nashville,9,B,B,23,2018,grade
+Nashville,19,D,D,24,2018,grade
+New Orleans,15,A-,A-,1,2018,grade
+New Orleans,26,C+,C+,2,2018,grade
+New Orleans,49,F,F,6,2018,grade
+New Orleans,32,B-,B-,8,2018,grade
+New Orleans,42,C-,C-,9,2018,grade
+New Orleans,50,F,F,10,2018,grade
+New Orleans,17,A,A,22,2018,grade
+New Orleans,31,C,C,23,2018,grade
+New Orleans,11,D+,D+,24,2018,grade
+New York,39,C,C,1,2018,grade
+New York,50,D,D,2,2018,grade
+New York,42,D,D,6,2018,grade
+New York,45,C,C,8,2018,grade
+New York,40,C,C,9,2018,grade
+New York,40,D+,D+,10,2018,grade
+New York,13,A,A,22,2018,grade
+New York,34,C-,C-,23,2018,grade
+New York,53,F,F,24,2018,grade
+Newark,31,C+,C+,1,2018,grade
+Newark,38,C-,C-,2,2018,grade
+Newark,16,B-,B-,6,2018,grade
+Newark,10,A+,A+,8,2018,grade
+Newark,11,A-,A-,9,2018,grade
+Newark,30,C,C,10,2018,grade
+Newark,20,A-,A-,22,2018,grade
+Newark,37,D+,D+,23,2018,grade
+Newark,34,F,F,24,2018,grade
+Oakland,20,B,B,1,2018,grade
+Oakland,30,C+,C+,2,2018,grade
+Oakland,38,C-,C-,6,2018,grade
+Oakland,51,D+,D+,8,2018,grade
+Oakland,32,C+,C+,9,2018,grade
+Oakland,29,C,C,10,2018,grade
+Oakland,26,B,B,22,2018,grade
+Oakland,46,D,D,23,2018,grade
+Oakland,1,A-,A-,24,2018,grade
+Oklahoma City,26,B-,B-,1,2018,grade
+Oklahoma City,3,A+,A+,2,2018,grade
+Oklahoma City,13,B,B,6,2018,grade
+Oklahoma City,14,A,A,8,2018,grade
+Oklahoma City,16,B+,B+,9,2018,grade
+Oklahoma City,26,C+,C+,10,2018,grade
+Oklahoma City,1,A+,A+,22,2018,grade
+Oklahoma City,2,A-,A-,23,2018,grade
+Oklahoma City,45,F,F,24,2018,grade
+Omaha,22,B,B,1,2018,grade
+Omaha,28,C+,C+,2,2018,grade
+Omaha,44,D,D,6,2018,grade
+Omaha,35,B-,B-,8,2018,grade
+Omaha,43,D+,D+,9,2018,grade
+Omaha,51,F,F,10,2018,grade
+Omaha,54,D,D,22,2018,grade
+Omaha,49,D,D,23,2018,grade
+Omaha,37,F,F,24,2018,grade
+Orlando,30,C+,C+,1,2018,grade
+Orlando,40,D+,D+,2,2018,grade
+Orlando,33,C-,C-,6,2018,grade
+Orlando,43,C+,C+,8,2018,grade
+Orlando,30,B-,B-,9,2018,grade
+Orlando,33,C,C,10,2018,grade
+Orlando,23,B,B,22,2018,grade
+Orlando,28,C+,C+,23,2018,grade
+Orlando,29,F,F,24,2018,grade
+Philadelphia,44,C-,C-,1,2018,grade
+Philadelphia,21,B,B,2,2018,grade
+Philadelphia,5,A,A,6,2018,grade
+Philadelphia,6,A+,A+,8,2018,grade
+Philadelphia,4,A+,A+,9,2018,grade
+Philadelphia,2,A+,A+,10,2018,grade
+Philadelphia,28,B-,B-,22,2018,grade
+Philadelphia,22,C+,C+,23,2018,grade
+Philadelphia,5,C,C,24,2018,grade
+Phoenix,17,B+,B+,1,2018,grade
+Phoenix,29,C+,C+,2,2018,grade
+Phoenix,19,B-,B-,6,2018,grade
+Phoenix,24,B+,B+,8,2018,grade
+Phoenix,25,B,B,9,2018,grade
+Phoenix,18,B,B,10,2018,grade
+Phoenix,10,A+,A+,22,2018,grade
+Phoenix,43,D,D,23,2018,grade
+Phoenix,23,F,F,24,2018,grade
+Pittsburgh,28,B-,B-,1,2018,grade
+Pittsburgh,39,C-,C-,2,2018,grade
+Pittsburgh,23,C+,C+,6,2018,grade
+Pittsburgh,13,A,A,8,2018,grade
+Pittsburgh,27,B,B,9,2018,grade
+Pittsburgh,24,B-,B-,10,2018,grade
+Pittsburgh,32,B-,B-,22,2018,grade
+Pittsburgh,20,B-,B-,23,2018,grade
+Pittsburgh,49,F,F,24,2018,grade
+Portland,34,C+,C+,1,2018,grade
+Portland,23,B,B,2,2018,grade
+Portland,48,D,D,6,2018,grade
+Portland,40,B-,B-,8,2018,grade
+Portland,39,C,C,9,2018,grade
+Portland,41,D+,D+,10,2018,grade
+Portland,36,C+,C+,22,2018,grade
+Portland,13,B-,B-,23,2018,grade
+Portland,48,F,F,24,2018,grade
+Providence,50,D+,D+,1,2018,grade
+Providence,46,D+,D+,2,2018,grade
+Providence,46,D,D,6,2018,grade
+Providence,47,C,C,8,2018,grade
+Providence,41,C-,C-,9,2018,grade
+Providence,47,D,D,10,2018,grade
+Providence,52,D,D,22,2018,grade
+Providence,4,A-,A-,23,2018,grade
+Providence,46,F,F,24,2018,grade
+Raleigh,9,A,A,1,2018,grade
+Raleigh,1,A+,A+,2,2018,grade
+Raleigh,3,A+,A+,6,2018,grade
+Raleigh,2,A+,A+,8,2018,grade
+Raleigh,3,A+,A+,9,2018,grade
+Raleigh,5,A+,A+,10,2018,grade
+Raleigh,47,D+,D+,22,2018,grade
+Raleigh,44,D,D,23,2018,grade
+Raleigh,24,F,F,24,2018,grade
+Riverside,53,F,F,1,2018,grade
+Riverside,56,F,F,2,2018,grade
+Riverside,51,F,F,6,2018,grade
+Riverside,50,C,C,8,2018,grade
+Riverside,52,F,F,9,2018,grade
+Riverside,53,F,F,10,2018,grade
+Riverside,8,A+,A+,22,2018,grade
+Riverside,41,D,D,23,2018,grade
+Riverside,27,F,F,24,2018,grade
+Sacramento,49,D+,D+,1,2018,grade
+Sacramento,51,D,D,2,2018,grade
+Sacramento,52,F,F,6,2018,grade
+Sacramento,53,D+,D+,8,2018,grade
+Sacramento,53,F,F,9,2018,grade
+Sacramento,55,F,F,10,2018,grade
+Sacramento,55,D,D,22,2018,grade
+Sacramento,6,B+,B+,23,2018,grade
+Sacramento,20,D,D,24,2018,grade
+Salt Lake City,11,A-,A-,1,2018,grade
+Salt Lake City,4,A+,A+,2,2018,grade
+Salt Lake City,25,C+,C+,6,2018,grade
+Salt Lake City,44,C+,C+,8,2018,grade
+Salt Lake City,23,B,B,9,2018,grade
+Salt Lake City,5,A+,A+,10,2018,grade
+Salt Lake City,3,A+,A+,22,2018,grade
+Salt Lake City,53,F,F,23,2018,grade
+Salt Lake City,54,F,F,24,2018,grade
+San Antonio,2,A+,A+,1,2018,grade
+San Antonio,9,A,A,2,2018,grade
+San Antonio,1,A+,A+,6,2018,grade
+San Antonio,2,A+,A+,8,2018,grade
+San Antonio,2,A+,A+,9,2018,grade
+San Antonio,3,A+,A+,10,2018,grade
+San Antonio,35,C+,C+,22,2018,grade
+San Antonio,36,D+,D+,23,2018,grade
+San Antonio,5,C,C,24,2018,grade
+San Diego,54,F,F,1,2018,grade
+San Diego,47,D,D,2,2018,grade
+San Diego,56,F,F,6,2018,grade
+San Diego,56,F,F,8,2018,grade
+San Diego,55,F,F,9,2018,grade
+San Diego,54,F,F,10,2018,grade
+San Diego,34,B-,B-,22,2018,grade
+San Diego,45,D,D,23,2018,grade
+San Diego,21,D,D,24,2018,grade
+San Francisco,57,F,F,1,2018,grade
+San Francisco,49,D,D,2,2018,grade
+San Francisco,55,F,F,6,2018,grade
+San Francisco,42,C+,C+,8,2018,grade
+San Francisco,47,D+,D+,9,2018,grade
+San Francisco,56,F,F,10,2018,grade
+San Francisco,50,D+,D+,22,2018,grade
+San Francisco,42,D,D,23,2018,grade
+San Francisco,12,D+,D+,24,2018,grade
+San Jose,38,C,C,1,2018,grade
+San Jose,52,D,D,2,2018,grade
+San Jose,47,D,D,6,2018,grade
+San Jose,46,C,C,8,2018,grade
+San Jose,57,F,F,9,2018,grade
+San Jose,52,F,F,10,2018,grade
+San Jose,49,D+,D+,22,2018,grade
+San Jose,38,D,D,23,2018,grade
+San Jose,44,F,F,24,2018,grade
+Seattle,45,C-,C-,1,2018,grade
+Seattle,37,C-,C-,2,2018,grade
+Seattle,45,D,D,6,2018,grade
+Seattle,57,F,F,8,2018,grade
+Seattle,38,C,C,9,2018,grade
+Seattle,43,D+,D+,10,2018,grade
+Seattle,53,D,D,22,2018,grade
+Seattle,47,D,D,23,2018,grade
+Seattle,38,F,F,24,2018,grade
+St. Louis,25,B-,B-,1,2018,grade
+St. Louis,34,C,C,2,2018,grade
+St. Louis,37,C-,C-,6,2018,grade
+St. Louis,16,A-,A-,8,2018,grade
+St. Louis,44,D+,D+,9,2018,grade
+St. Louis,44,D+,D+,10,2018,grade
+St. Louis,18,A,A,22,2018,grade
+St. Louis,11,B,B,23,2018,grade
+St. Louis,56,F,F,24,2018,grade
+Tampa,40,C-,C-,1,2018,grade
+Tampa,32,C+,C+,2,2018,grade
+Tampa,35,C-,C-,6,2018,grade
+Tampa,30,B,B,8,2018,grade
+Tampa,33,C+,C+,9,2018,grade
+Tampa,42,D+,D+,10,2018,grade
+Tampa,37,C,C,22,2018,grade
+Tampa,48,D,D,23,2018,grade
+Tampa,42,F,F,24,2018,grade
+Virginia Beach,27,B-,B-,1,2018,grade
+Virginia Beach,2,A+,A+,2,2018,grade
+Virginia Beach,17,B-,B-,6,2018,grade
+Virginia Beach,15,A-,A-,8,2018,grade
+Virginia Beach,28,B-,B-,9,2018,grade
+Virginia Beach,5,A+,A+,10,2018,grade
+Virginia Beach,24,B,B,22,2018,grade
+Virginia Beach,57,F,F,23,2018,grade
+Virginia Beach,7,C-,C-,24,2018,grade
+"Washington, DC",32,C+,C+,1,2018,grade
+"Washington, DC",18,B+,B+,2,2018,grade
+"Washington, DC",34,C-,C-,6,2018,grade
+"Washington, DC",20,A-,A-,8,2018,grade
+"Washington, DC",46,D+,D+,9,2018,grade
+"Washington, DC",38,C-,C-,10,2018,grade
+"Washington, DC",6,A+,A+,22,2018,grade
+"Washington, DC",25,C+,C+,23,2018,grade
+"Washington, DC",30,F,F,24,2018,grade
+West Palm Beach,48,D+,D+,1,2018,grade
+West Palm Beach,48,D,D,2,2018,grade
+West Palm Beach,40,D+,D+,6,2018,grade
+West Palm Beach,36,B-,B-,8,2018,grade
+West Palm Beach,19,B+,B+,9,2018,grade
+West Palm Beach,45,D+,D+,10,2018,grade
+West Palm Beach,31,B-,B-,22,2018,grade
+West Palm Beach,8,B,B,23,2018,grade
+West Palm Beach,32,F,F,24,2018,grade
